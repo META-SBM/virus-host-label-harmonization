@@ -1,0 +1,26 @@
+Rank,Host taxon,Profiles at >=30%,Profiles at >=50%,Profiles at >=100%
+genus,Homo,1454,1247,217
+genus,Aureococcus,838,562,18
+genus,Apis,77,65,21
+genus,Mus,77,54,32
+genus,Ectocarpus,48,45,22
+genus,Micromonas,16,5,0
+genus,Bombyx,7,3,2
+genus,Glycine,5,5,3
+genus,Vitis,4,4,4
+genus,Ostreococcus,3,3,1
+genus,Aedes,2,1,0
+genus,Manihot,1,1,1
+genus,Sclerotinia,1,0,0
+family,Hominidae,2041,1621,206
+family,Ectocarpaceae,80,64,6
+family,Apidae,75,61,21
+family,Muridae,61,53,32
+family,Bombycidae,50,47,38
+family,Mamiellaceae,18,5,0
+family,Culicidae,6,3,1
+family,Fabaceae,5,5,3
+family,Vitaceae,4,4,4
+family,Bathycoccaceae,3,3,1
+family,Euphorbiaceae,1,1,1
+family,Sclerotiniaceae,1,1,0

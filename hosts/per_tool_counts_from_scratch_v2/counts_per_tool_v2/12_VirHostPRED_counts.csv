@@ -1,0 +1,9 @@
+# Tool,VirHostPRED
+# Recomputed from,reps70.fasta (positive class) + random_dataset_1.fasta (negative class)
+# Note,"reps70.fasta: CD-HIT clustered at 70% identity from an initial ~5,200-sequence NCBI RefSeq pool (positive/human-infecting class, Host=taxid 9606). random_dataset_1.fasta: randomly undersampled with a fixed seed from a 10,635-sequence pool to match the positive class size (negative/non-human class, Host!=taxid 9606) -- per the article's own Table S1/S2 (see manual_downloads/VirHostPRED/41598_2026_37765_MOESM3_ESM.docx, MOESM4_ESM.docx)."
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+"Homo sapiens (taxid 9606, positive class)",2127,"MATCH -- reps70.fasta has exactly 2,127 sequences, matches article's Table S2 exactly"
+NOT Homo sapiens (negative class),2127,"MATCH -- random_dataset_1.fasta has exactly 2,127 sequences, matches article's Table S2 exactly"
+
+TOTAL,4254,

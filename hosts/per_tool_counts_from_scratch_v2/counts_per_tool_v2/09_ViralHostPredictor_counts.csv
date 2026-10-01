@@ -1,0 +1,41 @@
+# Tool,ViralHostPredictor
+# Recomputed from,"BabayanEtAl_VirusData.csv (536 rows), Reservoir + Vector columns"
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+Rodent (reservoir),83,MATCH
+mosquito (vector),75,MATCH
+Orphan (reservoir),69,MATCH
+Artiodactyl (reservoir),64,MATCH
+Primate (reservoir),55,MATCH
+Carnivore (reservoir),43,MATCH
+Galloanserae (reservoir),40,MATCH
+Neoaves (reservoir),33,MATCH
+Vespbat (reservoir),32,MATCH
+Pterobat (reservoir),27,MATCH
+Plant (reservoir),21,MATCH
+Insect (reservoir),20,MATCH
+tick (vector),20,MATCH
+Fish (reservoir),19,MATCH
+unknown (vector),19,MATCH
+sandfly (vector),12,MATCH
+thrip (vector),9,MATCH
+Reptile (reservoir),8,MATCH
+midge (vector),8,MATCH
+Lagomorph (reservoir),6,MATCH
+Perissodactyla (reservoir),4,MATCH
+leafhopper (vector),4,MATCH
+Scandentia (reservoir),3,MATCH
+planthopper (vector),3,MATCH
+Cetacean (reservoir),2,MATCH
+Diprotodontia (reservoir),2,MATCH
+"NA (reservoir, EXCL)",2,MATCH (2)
+aphid (vector),2,MATCH
+cimicid (vector),2,MATCH
+fruit fly (vector),2,MATCH
+louse (vector),2,MATCH
+Erinaceidae (reservoir),1,MATCH
+Macropod (reservoir),1,MATCH
+Soricomorph (reservoir),1,MATCH
+lepidoptera (vector),1,MATCH
+
+TOTAL,695,

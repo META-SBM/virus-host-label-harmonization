@@ -1,0 +1,378 @@
+Tool,Taxonomic_unit,N_families_in_tool,Family_names
+DeePaC-vir,Algavirales,1,Phycodnaviridae
+DeePaC-vir,Amarillovirales,3,Flaviviridae; Hepaciviridae; Pestiviridae
+DeePaC-vir,Archintovirales,1,Phypoliviridae
+DeePaC-vir,Articulavirales,2,Amnoonviridae; Orthomyxoviridae
+DeePaC-vir,Asfuvirales,1,Asfarviridae
+DeePaC-vir,Baphyvirales,1,Bacilladnaviridae
+DeePaC-vir,Blubervirales,1,Hepadnaviridae
+DeePaC-vir,Chitovirales,1,Poxviridae
+DeePaC-vir,Cirlivirales,3,Circoviridae; Endolinaviridae; Vilyaviridae
+DeePaC-vir,Durnavirales,3,Amalgaviridae; Curvulaviridae; Partitiviridae
+DeePaC-vir,Elliovirales,5,Fimoviridae; Hantaviridae; Peribunyaviridae; Phasmaviridae; Tospoviridae
+DeePaC-vir,Geplafuvirales,3,Geminiviridae; Genomoviridae; Geplanaviridae
+DeePaC-vir,Ghabrivirales,17,Alternaviridae; Artiviridae; Botybirnaviridae; Chrysoviridae; Fusagraviridae; Giardiaviridae; Inseviridae; Lebotiviridae; Megabirnaviridae; Monocitiviridae; Ootiviridae; Orthototiviridae; Phlegiviridae; Pistolviridae; Pseudototiviridae; Quadriviridae; Spiciviridae
+DeePaC-vir,Gredzevirales,1,Ouroboviridae
+DeePaC-vir,Hareavirales,3,Arenaviridae; Nairoviridae; Phenuiviridae
+DeePaC-vir,Hepelivirales,4,Alphatetraviridae; Benyviridae; Hepeviridae; Matonaviridae
+DeePaC-vir,Herpesvirales,3,Alloherpesviridae; Malacoherpesviridae; Orthoherpesviridae
+DeePaC-vir,Hypofuvirales,2,Fusariviridae; Hypoviridae
+DeePaC-vir,Imitervirales,1,Mimiviridae
+DeePaC-vir,Jingchuvirales,3,Aliusviridae; Chuviridae; Natareviridae
+DeePaC-vir,Jormunvirales,1,Draupnirviridae
+DeePaC-vir,Lavidavirales,1,Maviroviridae
+DeePaC-vir,Lefavirales,4,Baculoviridae; Filamentoviridae; Hytrosaviridae; Nudiviridae
+DeePaC-vir,Martellivirales,7,Bromoviridae; Closteroviridae; Endornaviridae; Kitaviridae; Mayoviridae; Togaviridae; Virgaviridae
+DeePaC-vir,Mividavirales,1,Sputniviroviridae
+DeePaC-vir,Mononegavirales,11,Artoviridae; Bornaviridae; Filoviridae; Lispiviridae; Mymonaviridae; Nyamiviridae; Paramyxoviridae; Pneumoviridae; Rhabdoviridae; Sunviridae; Xinmoviridae
+DeePaC-vir,Mulpavirales,3,Amesuviridae; Anicreviridae; Nanoviridae
+DeePaC-vir,Naedrevirales,1,Aspiviridae
+DeePaC-vir,Nidovirales,6,Arteriviridae; Coronaviridae; Mesoniviridae; Mononiviridae; Roniviridae; Tobaniviridae
+DeePaC-vir,Nodamuvirales,2,Nodaviridae; Sinhaliviridae
+DeePaC-vir,Ortervirales,3,Caulimoviridae; Metaviridae; Retroviridae
+DeePaC-vir,Ourlivirales,1,Botourmiaviridae
+DeePaC-vir,Patatavirales,1,Potyviridae
+DeePaC-vir,Piccovirales,1,Parvoviridae
+DeePaC-vir,Picornavirales,8,Caliciviridae; Dicistroviridae; Iflaviridae; Marnaviridae; Picornaviridae; Polycipiviridae; Secoviridae; Solinviviridae
+DeePaC-vir,Pimascovirales,4,Ascoviridae; Iridoviridae; Marseilleviridae; Pithoviridae
+DeePaC-vir,Polivirales,1,Bidnaviridae
+DeePaC-vir,Reovirales,2,Sedoreoviridae; Spinareoviridae
+DeePaC-vir,Rohanvirales,2,Adamaviridae; Nenyaviridae
+DeePaC-vir,Rowavirales,1,Adenoviridae
+DeePaC-vir,Sanitavirales,1,Anelloviridae
+DeePaC-vir,Saturnivirales,2,Kanorauviridae; Mahapunaviridae
+DeePaC-vir,Sepolyvirales,1,Polyomaviridae
+DeePaC-vir,Sobelivirales,3,Alvernaviridae; Barnaviridae; Solemoviridae
+DeePaC-vir,Stellavirales,1,Astroviridae
+DeePaC-vir,Tolivirales,3,Ambiguiviridae; Carmotetraviridae; Tombusviridae
+DeePaC-vir,Tymovirales,5,Alphaflexiviridae; Betaflexiviridae; Deltaflexiviridae; Gammaflexiviridae; Tymoviridae
+DeePaC-vir,Wolframvirales,1,Narnaviridae
+DeePaC-vir,Xenadelphovirales,1,Polymycoviridae
+DeePaC-vir,Yadokarivirales,1,Yadokariviridae
+DeePaC-vir,Zurhausenvirales,1,Papillomaviridae
+DeepHoF,Algavirales,1,Phycodnaviridae
+DeepHoF,Amarillovirales,3,Flaviviridae; Hepaciviridae; Pestiviridae
+DeepHoF,Archintovirales,1,Phypoliviridae
+DeepHoF,Articulavirales,2,Amnoonviridae; Orthomyxoviridae
+DeepHoF,Asfuvirales,1,Asfarviridae
+DeepHoF,Baphyvirales,1,Bacilladnaviridae
+DeepHoF,Blubervirales,1,Hepadnaviridae
+DeepHoF,Chitovirales,1,Poxviridae
+DeepHoF,Cirlivirales,3,Circoviridae; Endolinaviridae; Vilyaviridae
+DeepHoF,Cryppavirales,1,Mitoviridae
+DeepHoF,Durnavirales,3,Amalgaviridae; Curvulaviridae; Partitiviridae
+DeepHoF,Elliovirales,6,Cruliviridae; Fimoviridae; Hantaviridae; Peribunyaviridae; Phasmaviridae; Tospoviridae
+DeepHoF,Geplafuvirales,3,Geminiviridae; Genomoviridae; Geplanaviridae
+DeepHoF,Ghabrivirales,17,Alternaviridae; Artiviridae; Botybirnaviridae; Chrysoviridae; Fusagraviridae; Giardiaviridae; Inseviridae; Lebotiviridae; Megabirnaviridae; Monocitiviridae; Ootiviridae; Orthototiviridae; Phlegiviridae; Pistolviridae; Pseudototiviridae; Quadriviridae; Spiciviridae
+DeepHoF,Goujianvirales,1,Yueviridae
+DeepHoF,Gredzevirales,1,Ouroboviridae
+DeepHoF,Hareavirales,4,Arenaviridae; Mypoviridae; Nairoviridae; Phenuiviridae
+DeepHoF,Hepelivirales,4,Alphatetraviridae; Benyviridae; Hepeviridae; Matonaviridae
+DeepHoF,Herpesvirales,3,Alloherpesviridae; Malacoherpesviridae; Orthoherpesviridae
+DeepHoF,Hypofuvirales,3,Fusariviridae; Hypoviridae; Parahypoviridae
+DeepHoF,Imitervirales,2,Mimiviridae; Schizomimiviridae
+DeepHoF,Jingchuvirales,4,Aliusviridae; Chuviridae; Myriaviridae; Natareviridae
+DeepHoF,Jormunvirales,1,Draupnirviridae
+DeepHoF,Lavidavirales,1,Maviroviridae
+DeepHoF,Lefavirales,4,Baculoviridae; Filamentoviridae; Hytrosaviridae; Nudiviridae
+DeepHoF,Lineavirales,1,Oomyviridae
+DeepHoF,Martellivirales,8,Bromoviridae; Closteroviridae; Endornaviridae; Kitaviridae; Mayoviridae; Tobaliviridae; Togaviridae; Virgaviridae
+DeepHoF,Mividavirales,1,Sputniviroviridae
+DeepHoF,Mononegavirales,11,Artoviridae; Bornaviridae; Filoviridae; Lispiviridae; Mymonaviridae; Nyamiviridae; Paramyxoviridae; Pneumoviridae; Rhabdoviridae; Sunviridae; Xinmoviridae
+DeepHoF,Mulpavirales,4,Amesuviridae; Anicreviridae; Metaxyviridae; Nanoviridae
+DeepHoF,Muvirales,1,Qinviridae
+DeepHoF,Naedrevirales,1,Aspiviridae
+DeepHoF,Nidovirales,7,Arteriviridae; Coronaviridae; Euroniviridae; Medioniviridae; Mesoniviridae; Roniviridae; Tobaniviridae
+DeepHoF,Nodamuvirales,2,Nodaviridae; Sinhaliviridae
+DeepHoF,Ortervirales,3,Caulimoviridae; Metaviridae; Retroviridae
+DeepHoF,Ourlivirales,2,Botourmiaviridae; Ourmiaviridae
+DeepHoF,Patatavirales,1,Potyviridae
+DeepHoF,Piccovirales,1,Parvoviridae
+DeepHoF,Picornavirales,8,Caliciviridae; Dicistroviridae; Iflaviridae; Marnaviridae; Picornaviridae; Polycipiviridae; Secoviridae; Solinviviridae
+DeepHoF,Pimascovirales,5,Ascoviridae; Iridoviridae; Marseilleviridae; Orpheoviridae; Pithoviridae
+DeepHoF,Polivirales,1,Bidnaviridae
+DeepHoF,Reovirales,2,Sedoreoviridae; Spinareoviridae
+DeepHoF,Ringavirales,1,Pecoviridae
+DeepHoF,Rohanvirales,3,Adamaviridae; Kirkoviridae; Nenyaviridae
+DeepHoF,Rowavirales,1,Adenoviridae
+DeepHoF,Sanitavirales,1,Anelloviridae
+DeepHoF,Saturnivirales,2,Kanorauviridae; Mahapunaviridae
+DeepHoF,Sepolyvirales,1,Polyomaviridae
+DeepHoF,Sobelivirales,3,Alvernaviridae; Barnaviridae; Solemoviridae
+DeepHoF,Stellavirales,1,Astroviridae
+DeepHoF,Tolivirales,3,Ambiguiviridae; Carmotetraviridae; Tombusviridae
+DeepHoF,Tombendovirales,2,Pamosaviridae; Tomosaviridae
+DeepHoF,Tymovirales,5,Alphaflexiviridae; Betaflexiviridae; Deltaflexiviridae; Gammaflexiviridae; Tymoviridae
+DeepHoF,Wolframvirales,1,Narnaviridae
+DeepHoF,Xenadelphovirales,1,Polymycoviridae
+DeepHoF,Yadokarivirales,1,Yadokariviridae
+DeepHoF,Zurhausenvirales,1,Papillomaviridae
+EvoMIL,Amarillovirales,3,Flaviviridae; Hepaciviridae; Pestiviridae
+EvoMIL,Articulavirales,1,Orthomyxoviridae
+EvoMIL,Asfuvirales,1,Asfarviridae
+EvoMIL,Blubervirales,1,Hepadnaviridae
+EvoMIL,Chitovirales,1,Poxviridae
+EvoMIL,Cirlivirales,3,Circoviridae; Endolinaviridae; Vilyaviridae
+EvoMIL,Cryppavirales,1,Mitoviridae
+EvoMIL,Durnavirales,2,Amalgaviridae; Partitiviridae
+EvoMIL,Elliovirales,4,Fimoviridae; Hantaviridae; Peribunyaviridae; Tospoviridae
+EvoMIL,Geplafuvirales,2,Geminiviridae; Genomoviridae
+EvoMIL,Ghabrivirales,2,Chrysoviridae; Orthototiviridae
+EvoMIL,Hareavirales,3,Arenaviridae; Nairoviridae; Phenuiviridae
+EvoMIL,Hepelivirales,4,Alphatetraviridae; Benyviridae; Hepeviridae; Matonaviridae
+EvoMIL,Herpesvirales,1,Orthoherpesviridae
+EvoMIL,Lineavirales,1,Oomyviridae
+EvoMIL,Martellivirales,6,Bromoviridae; Closteroviridae; Endornaviridae; Mayoviridae; Togaviridae; Virgaviridae
+EvoMIL,Mononegavirales,6,Bornaviridae; Filoviridae; Nyamiviridae; Paramyxoviridae; Pneumoviridae; Rhabdoviridae
+EvoMIL,Mulpavirales,1,Nanoviridae
+EvoMIL,Naedrevirales,1,Aspiviridae
+EvoMIL,Nidovirales,4,Arteriviridae; Coronaviridae; Mesoniviridae; Tobaniviridae
+EvoMIL,Nodamuvirales,1,Nodaviridae
+EvoMIL,Ortervirales,2,Caulimoviridae; Retroviridae
+EvoMIL,Ourlivirales,2,Botourmiaviridae; Ourmiaviridae
+EvoMIL,Patatavirales,1,Potyviridae
+EvoMIL,Piccovirales,1,Parvoviridae
+EvoMIL,Picornavirales,4,Caliciviridae; Iflaviridae; Picornaviridae; Secoviridae
+EvoMIL,Pimascovirales,1,Marseilleviridae
+EvoMIL,Recrevirales,1,Redondoviridae
+EvoMIL,Reovirales,2,Sedoreoviridae; Spinareoviridae
+EvoMIL,Ringavirales,1,Pecoviridae
+EvoMIL,Rohanvirales,1,Kirkoviridae
+EvoMIL,Rowavirales,1,Adenoviridae
+EvoMIL,Sanitavirales,1,Anelloviridae
+EvoMIL,Sepolyvirales,1,Polyomaviridae
+EvoMIL,Sobelivirales,1,Solemoviridae
+EvoMIL,Stellavirales,1,Astroviridae
+EvoMIL,Tolivirales,1,Tombusviridae
+EvoMIL,Tombendovirales,1,Tomosaviridae
+EvoMIL,Tymovirales,4,Alphaflexiviridae; Betaflexiviridae; Deltaflexiviridae; Tymoviridae
+EvoMIL,Zurhausenvirales,1,Papillomaviridae
+GIVAL,Articulavirales,1,Orthomyxoviridae
+GIVAL,Chitovirales,1,Poxviridae
+GIVAL,Nidovirales,1,Coronaviridae
+Host Taxon Predictor,Amarillovirales,1,Flaviviridae
+Host Taxon Predictor,Articulavirales,1,Orthomyxoviridae
+Host Taxon Predictor,Blubervirales,1,Hepadnaviridae
+Host Taxon Predictor,Chitovirales,1,Poxviridae
+Host Taxon Predictor,Cirlivirales,1,Circoviridae
+Host Taxon Predictor,Durnavirales,2,Amalgaviridae; Partitiviridae
+Host Taxon Predictor,Elliovirales,5,Fimoviridae; Hantaviridae; Peribunyaviridae; Phasmaviridae; Tospoviridae
+Host Taxon Predictor,Geplafuvirales,2,Geminiviridae; Genomoviridae
+Host Taxon Predictor,Ghabrivirales,6,Botybirnaviridae; Chrysoviridae; Megabirnaviridae; Orthototiviridae; Pseudototiviridae; Quadriviridae
+Host Taxon Predictor,Hareavirales,3,Arenaviridae; Nairoviridae; Phenuiviridae
+Host Taxon Predictor,Hepelivirales,3,Alphatetraviridae; Benyviridae; Hepeviridae
+Host Taxon Predictor,Herpesvirales,2,Alloherpesviridae; Orthoherpesviridae
+Host Taxon Predictor,Hypofuvirales,1,Hypoviridae
+Host Taxon Predictor,Lefavirales,2,Baculoviridae; Nudiviridae
+Host Taxon Predictor,Martellivirales,6,Bromoviridae; Closteroviridae; Endornaviridae; Mayoviridae; Togaviridae; Virgaviridae
+Host Taxon Predictor,Mononegavirales,8,Bornaviridae; Filoviridae; Mymonaviridae; Nyamiviridae; Paramyxoviridae; Pneumoviridae; Rhabdoviridae; Sunviridae
+Host Taxon Predictor,Mulpavirales,1,Nanoviridae
+Host Taxon Predictor,Naedrevirales,1,Aspiviridae
+Host Taxon Predictor,Nidovirales,4,Arteriviridae; Coronaviridae; Mesoniviridae; Roniviridae
+Host Taxon Predictor,Nodamuvirales,2,Nodaviridae; Sinhaliviridae
+Host Taxon Predictor,Ortervirales,2,Caulimoviridae; Retroviridae
+Host Taxon Predictor,Ourlivirales,1,Ourmiaviridae
+Host Taxon Predictor,Patatavirales,1,Potyviridae
+Host Taxon Predictor,Piccovirales,1,Parvoviridae
+Host Taxon Predictor,Picornavirales,6,Caliciviridae; Dicistroviridae; Iflaviridae; Picornaviridae; Secoviridae; Solinviviridae
+Host Taxon Predictor,Pimascovirales,1,Iridoviridae
+Host Taxon Predictor,Reovirales,2,Sedoreoviridae; Spinareoviridae
+Host Taxon Predictor,Rowavirales,1,Adenoviridae
+Host Taxon Predictor,Sanitavirales,1,Anelloviridae
+Host Taxon Predictor,Sepolyvirales,1,Polyomaviridae
+Host Taxon Predictor,Sobelivirales,1,Solemoviridae
+Host Taxon Predictor,Stellavirales,1,Astroviridae
+Host Taxon Predictor,Tolivirales,1,Tombusviridae
+Host Taxon Predictor,Tymovirales,4,Alphaflexiviridae; Betaflexiviridae; Gammaflexiviridae; Tymoviridae
+Host Taxon Predictor,Wolframvirales,1,Narnaviridae
+Host Taxon Predictor,Zurhausenvirales,1,Papillomaviridae
+HostNet,Amarillovirales,1,Flaviviridae
+HostNet,Mononegavirales,1,Rhabdoviridae
+MENB,Amarillovirales,1,Flaviviridae
+MENB,Articulavirales,1,Orthomyxoviridae
+MENB,Mononegavirales,2,Paramyxoviridae; Rhabdoviridae
+MENB,Nidovirales,2,Arteriviridae; Coronaviridae
+MENB,Picornavirales,2,Caliciviridae; Picornaviridae
+MosViR,Amarillovirales,1,Flaviviridae
+MosViR,Articulavirales,1,Orthomyxoviridae
+MosViR,Asfuvirales,1,Asfarviridae
+MosViR,Cirlivirales,1,Circoviridae
+MosViR,Durnavirales,1,Partitiviridae
+MosViR,Elliovirales,2,Peribunyaviridae; Phasmaviridae
+MosViR,Geplafuvirales,1,Genomoviridae
+MosViR,Ghabrivirales,2,Artiviridae; Chrysoviridae
+MosViR,Hareavirales,2,Nairoviridae; Phenuiviridae
+MosViR,Hepelivirales,1,Alphatetraviridae
+MosViR,Martellivirales,2,Togaviridae; Virgaviridae
+MosViR,Mononegavirales,2,Rhabdoviridae; Xinmoviridae
+MosViR,Naedrevirales,1,Aspiviridae
+MosViR,Nidovirales,1,Mesoniviridae
+MosViR,Nodamuvirales,1,Nodaviridae
+MosViR,Piccovirales,1,Parvoviridae
+MosViR,Picornavirales,2,Dicistroviridae; Iflaviridae
+MosViR,Pimascovirales,1,Iridoviridae
+MosViR,Reovirales,2,Sedoreoviridae; Spinareoviridae
+MosViR,Sanitavirales,1,Anelloviridae
+MosViR,Stellavirales,1,Astroviridae
+MosViR,Tolivirales,1,Tombusviridae
+MosViR,Tymovirales,1,Tymoviridae
+MosViR,Wolframvirales,1,Narnaviridae
+RNAVirHost,Amarillovirales,1,Flaviviridae
+RNAVirHost,Articulavirales,2,Amnoonviridae; Orthomyxoviridae
+RNAVirHost,Blubervirales,1,Hepadnaviridae
+RNAVirHost,Cryppavirales,1,Mitoviridae
+RNAVirHost,Durnavirales,3,Amalgaviridae; Curvulaviridae; Partitiviridae
+RNAVirHost,Elliovirales,7,Cruliviridae; Fimoviridae; Hantaviridae; Peribunyaviridae; Phasmaviridae; Tospoviridae; Tulasviridae
+RNAVirHost,Ghabrivirales,7,Alternaviridae; Chrysoviridae; Giardiaviridae; Megabirnaviridae; Orthototiviridae; Pseudototiviridae; Quadriviridae
+RNAVirHost,Goujianvirales,1,Yueviridae
+RNAVirHost,Hareavirales,6,Arenaviridae; Discoviridae; Mypoviridae; Nairoviridae; Phenuiviridae; Wupedeviridae
+RNAVirHost,Hepelivirales,4,Alphatetraviridae; Benyviridae; Hepeviridae; Matonaviridae
+RNAVirHost,Hypofuvirales,2,Fusariviridae; Hypoviridae
+RNAVirHost,Jingchuvirales,5,Aliusviridae; Chuviridae; Crepuscuviridae; Myriaviridae; Natareviridae
+RNAVirHost,Martellivirales,7,Bromoviridae; Closteroviridae; Endornaviridae; Kitaviridae; Mayoviridae; Togaviridae; Virgaviridae
+RNAVirHost,Mononegavirales,11,Artoviridae; Bornaviridae; Filoviridae; Lispiviridae; Mymonaviridae; Nyamiviridae; Paramyxoviridae; Pneumoviridae; Rhabdoviridae; Sunviridae; Xinmoviridae
+RNAVirHost,Muvirales,1,Qinviridae
+RNAVirHost,Naedrevirales,1,Aspiviridae
+RNAVirHost,Nidovirales,10,Arteriviridae; Coronaviridae; Cremegaviridae; Euroniviridae; Gresnaviridae; Mesoniviridae; Mononiviridae; Olifoviridae; Roniviridae; Tobaniviridae
+RNAVirHost,Nodamuvirales,2,Nodaviridae; Sinhaliviridae
+RNAVirHost,Ortervirales,2,Caulimoviridae; Retroviridae
+RNAVirHost,Ourlivirales,1,Botourmiaviridae
+RNAVirHost,Patatavirales,1,Potyviridae
+RNAVirHost,Picornavirales,8,Caliciviridae; Dicistroviridae; Iflaviridae; Marnaviridae; Picornaviridae; Polycipiviridae; Secoviridae; Solinviviridae
+RNAVirHost,Reovirales,2,Sedoreoviridae; Spinareoviridae
+RNAVirHost,Sobelivirales,1,Solemoviridae
+RNAVirHost,Stellavirales,1,Astroviridae
+RNAVirHost,Tolivirales,2,Carmotetraviridae; Tombusviridae
+RNAVirHost,Tymovirales,5,Alphaflexiviridae; Betaflexiviridae; Deltaflexiviridae; Gammaflexiviridae; Tymoviridae
+RNAVirHost,Wolframvirales,1,Narnaviridae
+RNAVirHost,Yadokarivirales,1,Yadokariviridae
+SPHAK,Articulavirales,1,Orthomyxoviridae
+SPHAK,Geplafuvirales,1,Geminiviridae
+SPHAK,Martellivirales,3,Bromoviridae; Closteroviridae; Virgaviridae
+SPHAK,Mononegavirales,2,Paramyxoviridae; Pneumoviridae
+SPHAK,Mulpavirales,1,Nanoviridae
+SPHAK,Nidovirales,1,Coronaviridae
+SPHAK,Ortervirales,1,Retroviridae
+SPHAK,Patatavirales,1,Potyviridae
+SPHAK,Piccovirales,1,Parvoviridae
+SPHAK,Picornavirales,1,Caliciviridae
+SPHAK,Rowavirales,1,Adenoviridae
+SPHAK,Sanitavirales,1,Anelloviridae
+SPHAK,Sepolyvirales,1,Polyomaviridae
+SPHAK,Stellavirales,1,Astroviridae
+SPHAK,Zurhausenvirales,1,Papillomaviridae
+UniVH,Amarillovirales,3,Flaviviridae; Hepaciviridae; Pestiviridae
+UniVH,Articulavirales,1,Orthomyxoviridae
+UniVH,Cryppavirales,1,Mitoviridae
+UniVH,Durnavirales,3,Amalgaviridae; Curvulaviridae; Partitiviridae
+UniVH,Elliovirales,6,Fimoviridae; Hantaviridae; Peribunyaviridae; Phasmaviridae; Tospoviridae; Tulasviridae
+UniVH,Ghabrivirales,16,Alternaviridae; Artiviridae; Botybirnaviridae; Chrysoviridae; Fusagraviridae; Inseviridae; Lebotiviridae; Megabirnaviridae; Megatotiviridae; Orthototiviridae; Phlegiviridae; Pistolviridae; Pseudototiviridae; Quadriviridae; Spiciviridae; Yadonushiviridae
+UniVH,Hareavirales,3,Arenaviridae; Nairoviridae; Phenuiviridae
+UniVH,Hepelivirales,4,Alphatetraviridae; Benyviridae; Hepeviridae; Mycoalphaviridae
+UniVH,Hypofuvirales,3,Fusariviridae; Hypoviridae; Parahypoviridae
+UniVH,Jingchuvirales,1,Chuviridae
+UniVH,Martellivirales,7,Bromoviridae; Closteroviridae; Endornaviridae; Kitaviridae; Mayoviridae; Togaviridae; Virgaviridae
+UniVH,Mononegavirales,10,Artoviridae; Bornaviridae; Filoviridae; Lispiviridae; Mymonaviridae; Nyamiviridae; Paramyxoviridae; Pneumoviridae; Rhabdoviridae; Xinmoviridae
+UniVH,Nidovirales,6,Arteriviridae; Coronaviridae; Cremegaviridae; Mesoniviridae; Roniviridae; Tobaniviridae
+UniVH,Nodamuvirales,2,Nodaviridae; Sinhaliviridae
+UniVH,Ortervirales,2,Metaviridae; Retroviridae
+UniVH,Ourlivirales,3,Botourmiaviridae; Ourmiaviridae; Rhizouliviridae
+UniVH,Patatavirales,1,Potyviridae
+UniVH,Picornavirales,7,Caliciviridae; Dicistroviridae; Iflaviridae; Picornaviridae; Polycipiviridae; Secoviridae; Solinviviridae
+UniVH,Reovirales,2,Sedoreoviridae; Spinareoviridae
+UniVH,Sobelivirales,1,Solemoviridae
+UniVH,Stellavirales,1,Astroviridae
+UniVH,Tolivirales,3,Ambiguiviridae; Carmotetraviridae; Tombusviridae
+UniVH,Tymovirales,4,Alphaflexiviridae; Betaflexiviridae; Deltaflexiviridae; Tymoviridae
+UniVH,Wolframvirales,2,Narnaviridae; Splipalmiviridae
+UniVH,Xenadelphovirales,2,Hadakaviridae; Polymycoviridae
+VIDHOP,Articulavirales,1,Orthomyxoviridae
+VIDHOP,Mononegavirales,1,Rhabdoviridae
+VIDHOP,Reovirales,1,Sedoreoviridae
+VPF-Class,Algavirales,1,Phycodnaviridae
+VPF-Class,Asfuvirales,1,Asfarviridae
+VPF-Class,Blubervirales,1,Hepadnaviridae
+VPF-Class,Chitovirales,1,Poxviridae
+VPF-Class,Cirlivirales,1,Circoviridae
+VPF-Class,Geplafuvirales,1,Geminiviridae
+VPF-Class,Ghabrivirales,1,Megabirnaviridae
+VPF-Class,Herpesvirales,3,Alloherpesviridae; Malacoherpesviridae; Orthoherpesviridae
+VPF-Class,Imitervirales,1,Mimiviridae
+VPF-Class,Lefavirales,3,Baculoviridae; Hytrosaviridae; Nudiviridae
+VPF-Class,Mividavirales,1,Sputniviroviridae
+VPF-Class,Mulpavirales,1,Nanoviridae
+VPF-Class,Ortervirales,2,Caulimoviridae; Retroviridae
+VPF-Class,Piccovirales,1,Parvoviridae
+VPF-Class,Pimascovirales,4,Ascoviridae; Iridoviridae; Marseilleviridae; Pithoviridae
+VPF-Class,Polivirales,1,Bidnaviridae
+VPF-Class,Rowavirales,1,Adenoviridae
+VPF-Class,Sanitavirales,1,Anelloviridae
+VPF-Class,Sepolyvirales,1,Polyomaviridae
+VPF-Class,Zurhausenvirales,1,Papillomaviridae
+VirHostPRED,Algavirales,1,Phycodnaviridae
+VirHostPRED,Amarillovirales,2,Flaviviridae; Hepaciviridae
+VirHostPRED,Archintovirales,1,Phypoliviridae
+VirHostPRED,Articulavirales,1,Orthomyxoviridae
+VirHostPRED,Chitovirales,1,Poxviridae
+VirHostPRED,Cirlivirales,2,Circoviridae; Endolinaviridae
+VirHostPRED,Cryppavirales,1,Mitoviridae
+VirHostPRED,Elliovirales,3,Hantaviridae; Peribunyaviridae; Tospoviridae
+VirHostPRED,Geplafuvirales,2,Geminiviridae; Genomoviridae
+VirHostPRED,Ghabrivirales,4,Alternaviridae; Chrysoviridae; Inseviridae; Orthototiviridae
+VirHostPRED,Hareavirales,3,Arenaviridae; Nairoviridae; Phenuiviridae
+VirHostPRED,Hepelivirales,2,Hepeviridae; Matonaviridae
+VirHostPRED,Herpesvirales,2,Alloherpesviridae; Orthoherpesviridae
+VirHostPRED,Imitervirales,3,Allomimiviridae; Mimiviridae; Schizomimiviridae
+VirHostPRED,Jingchuvirales,1,Chuviridae
+VirHostPRED,Lefavirales,3,Baculoviridae; Hytrosaviridae; Nudiviridae
+VirHostPRED,Lineavirales,1,Oomyviridae
+VirHostPRED,Martellivirales,4,Closteroviridae; Mayoviridae; Togaviridae; Virgaviridae
+VirHostPRED,Mononegavirales,6,Filoviridae; Lispiviridae; Mymonaviridae; Nyamiviridae; Paramyxoviridae; Rhabdoviridae
+VirHostPRED,Nidovirales,3,Coronaviridae; Mesoniviridae; Roniviridae
+VirHostPRED,Ortervirales,2,Caulimoviridae; Retroviridae
+VirHostPRED,Patatavirales,1,Potyviridae
+VirHostPRED,Piccovirales,1,Parvoviridae
+VirHostPRED,Picornavirales,4,Caliciviridae; Picornaviridae; Polycipiviridae; Secoviridae
+VirHostPRED,Pimascovirales,4,Ascoviridae; Iridoviridae; Marseilleviridae; Pithoviridae
+VirHostPRED,Recrevirales,1,Redondoviridae
+VirHostPRED,Reovirales,2,Sedoreoviridae; Spinareoviridae
+VirHostPRED,Ringavirales,1,Pecoviridae
+VirHostPRED,Rohanvirales,1,Kirkoviridae
+VirHostPRED,Rowavirales,1,Adenoviridae
+VirHostPRED,Sanitavirales,1,Anelloviridae
+VirHostPRED,Sepolyvirales,1,Polyomaviridae
+VirHostPRED,Sobelivirales,1,Solemoviridae
+VirHostPRED,Stellavirales,1,Astroviridae
+VirHostPRED,Tolivirales,1,Tombusviridae
+VirHostPRED,Tymovirales,2,Alphaflexiviridae; Betaflexiviridae
+VirHostPRED,Zurhausenvirales,1,Papillomaviridae
+ViralHostPredictor,Amarillovirales,3,Flaviviridae; Hepaciviridae; Pestiviridae
+ViralHostPredictor,Elliovirales,4,Hantaviridae; Peribunyaviridae; Phasmaviridae; Tospoviridae
+ViralHostPredictor,Hareavirales,3,Arenaviridae; Nairoviridae; Phenuiviridae
+ViralHostPredictor,Hepelivirales,2,Hepeviridae; Matonaviridae
+ViralHostPredictor,Martellivirales,1,Togaviridae
+ViralHostPredictor,Mononegavirales,5,Filoviridae; Paramyxoviridae; Pneumoviridae; Rhabdoviridae; Sunviridae
+ViralHostPredictor,Nidovirales,2,Coronaviridae; Tobaniviridae
+ViralHostPredictor,Picornavirales,2,Caliciviridae; Picornaviridae
+ViralHostPredictor,Stellavirales,1,Astroviridae
+Zoonotic rank model,Amarillovirales,1,Flaviviridae
+Zoonotic rank model,Articulavirales,1,Orthomyxoviridae
+Zoonotic rank model,Asfuvirales,1,Asfarviridae
+Zoonotic rank model,Blubervirales,1,Hepadnaviridae
+Zoonotic rank model,Chitovirales,1,Poxviridae
+Zoonotic rank model,Cirlivirales,1,Circoviridae
+Zoonotic rank model,Elliovirales,3,Hantaviridae; Peribunyaviridae; Phasmaviridae
+Zoonotic rank model,Hareavirales,3,Arenaviridae; Nairoviridae; Phenuiviridae
+Zoonotic rank model,Hepelivirales,2,Hepeviridae; Matonaviridae
+Zoonotic rank model,Herpesvirales,1,Orthoherpesviridae
+Zoonotic rank model,Martellivirales,1,Togaviridae
+Zoonotic rank model,Mononegavirales,6,Bornaviridae; Filoviridae; Paramyxoviridae; Pneumoviridae; Rhabdoviridae; Sunviridae
+Zoonotic rank model,Nidovirales,3,Arteriviridae; Coronaviridae; Tobaniviridae
+Zoonotic rank model,Ortervirales,1,Retroviridae
+Zoonotic rank model,Piccovirales,1,Parvoviridae
+Zoonotic rank model,Picornavirales,2,Caliciviridae; Picornaviridae
+Zoonotic rank model,Reovirales,2,Sedoreoviridae; Spinareoviridae
+Zoonotic rank model,Rowavirales,1,Adenoviridae
+Zoonotic rank model,Sepolyvirales,1,Polyomaviridae
+Zoonotic rank model,Stellavirales,1,Astroviridae
+Zoonotic rank model,Zurhausenvirales,1,Papillomaviridae

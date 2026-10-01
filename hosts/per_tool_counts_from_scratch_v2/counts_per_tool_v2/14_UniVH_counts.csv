@@ -1,0 +1,22 @@
+# Tool,UniVH
+# Recomputed from,"dataset.csv (81,874 accession-pair rows), deduped by host.species.name -> 525-species candidate pool; host.order/host.class/host.kingdom columns"
+# Note,"Counting_unit is species, not accession-pair rows -- do not sum this column expecting 81,874. The dataset.csv file also carries its own 'dataset' column (train=77,561/val=2,633/test=1,680, unused -- see DATASET_SCOPE)."
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+"Animalia (other, no class match)",231,MATCH (20)
+Plantae,113,MATCH (113)
+Fungi,100,MATCH (100)
+Insecta,62,MATCH (62)
+Aves,58,MATCH (58)
+fish classes (Actinopteri etc.),42,MATCH (42)
+Carnivora,29,MATCH (29)
+Artiodactyla/Cetartiodactyla,18,MATCH (18)
+Primates (excl. human),18,MATCH (18)
+Chiroptera,17,MATCH (17)
+Rodentia,17,MATCH (17)
+Arachnida,14,MATCH (14)
+Mammalia (other orders),14,MATCH (14)
+Lepidosauria,2,MATCH (2)
+Homo sapiens,1,MATCH
+
+TOTAL,736,

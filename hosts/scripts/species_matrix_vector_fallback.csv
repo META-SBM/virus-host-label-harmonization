@@ -1,0 +1,6 @@
+Row,Tool,Count,Wholly_vector
+Culicidae,HostNet (Flavivirus),9253.0,Yes
+Culicidae,ViralHostPredictor,75.0,Yes
+Insecta,ViralHostPredictor,45.0,No
+Ixodida,HostNet (Flavivirus),373.0,Yes
+Ixodida,ViralHostPredictor,20.0,Yes

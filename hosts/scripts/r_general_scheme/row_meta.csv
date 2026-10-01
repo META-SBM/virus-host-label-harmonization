@@ -1,0 +1,59 @@
+row_id,name,gloss,italic,lineage,depth,is_header,parent,source_row,total
+r001,Primates,,0,Mammals,0,1,,,0
+r002,Homo sapiens,human,1,Mammals,1,0,Primates,Homo sapiens,240239
+r003,Chlorocebus aethiops,green monkey,1,Mammals,1,0,Primates,Chlorocebus aethiops,198
+r004,Macaca mulatta,rhesus macaque,1,Mammals,1,0,Primates,Macaca mulatta,191
+r005,Pan troglodytes,chimpanzee,1,Mammals,1,0,Primates,Pan troglodytes,132
+r006,Artiodactyla,even-toed ungulates,0,Mammals,0,1,,,0
+r007,Sus scrofa,pig,1,Mammals,1,0,Artiodactyla,Sus scrofa,62873
+r008,Bos taurus,cattle,1,Mammals,1,0,Artiodactyla,Bos taurus,6582
+r009,Capra hircus,goat,1,Mammals,1,0,Artiodactyla,Capra hircus,344
+r010,Ovis aries,sheep,1,Mammals,1,0,Artiodactyla,Ovis aries,142
+r011,Other Artiodactyla,,0,Mammals,1,0,Artiodactyla,Artiodactyla,632
+r012,Carnivora,carnivorans,0,Mammals,0,1,,,0
+r013,Canis lupus,wolf / domestic dog,1,Mammals,1,0,Carnivora,Canis lupus,11648
+r014,Vulpes vulpes,red fox,1,Mammals,1,0,Carnivora,Vulpes vulpes,1500
+r015,Mephitis mephitis,striped skunk,1,Mammals,1,0,Carnivora,Mephitis mephitis,1385
+r016,Procyon lotor,raccoon,1,Mammals,1,0,Carnivora,Procyon lotor,1146
+r017,Felis catus,domestic cat,1,Mammals,1,0,Carnivora,Felis catus,917
+r018,Nyctereutes procyonoides,raccoon dog,1,Mammals,1,0,Carnivora,Nyctereutes procyonoides,248
+r019,Mustela putorius,European polecat,1,Mammals,1,0,Carnivora,Mustela putorius,56
+r020,Other Carnivora,,0,Mammals,1,0,Carnivora,Carnivora,1597
+r021,Chiroptera,bats,0,Mammals,0,1,,,0
+r022,Eptesicus fuscus,big brown bat,1,Mammals,1,0,Chiroptera,Eptesicus fuscus,952
+r023,Tadarida brasiliensis,Brazilian free-tailed bat,1,Mammals,1,0,Chiroptera,Tadarida brasiliensis,519
+r024,Desmodus rotundus,vampire bat,1,Mammals,1,0,Chiroptera,Desmodus rotundus,360
+r025,Other Chiroptera,,0,Mammals,1,0,Chiroptera,Chiroptera,1518
+r026,Equus caballus,horse,1,Mammals,0,0,,Equus caballus,3019
+r027,Rodentia,rodents,0,Mammals,0,1,,,0
+r028,Mus musculus,house mouse,1,Mammals,1,0,Rodentia,Mus musculus,339
+r029,Rattus norvegicus,brown rat,1,Mammals,1,0,Rodentia,Rattus norvegicus,163
+r030,Mesocricetus auratus,golden hamster,1,Mammals,1,0,Rodentia,Mesocricetus auratus,72
+r031,Other Rodentia,,0,Mammals,1,0,Rodentia,Rodentia,1116
+r032,Non-human (undifferentiated),,0,Mammals,0,0,,Non-human (undifferentiated),2127
+r033,Other mammals,,0,Mammals,0,0,,Other mammals,914
+r034,Non-human primates,,0,Mammals,0,0,,Non-human primates,454
+r035,Humans + non-human primates,,0,Mammals,0,0,,Humans + non-human primates,55
+r036,Aves,birds,0,Non-mammalian vertebrates,0,1,,,0
+r037,Gallus gallus,chicken,1,Non-mammalian vertebrates,1,0,Aves,Gallus gallus,28662
+r038,Anas platyrhynchos,mallard duck,1,Non-mammalian vertebrates,1,0,Aves,Anas platyrhynchos,25343
+r039,Meleagris gallopavo,turkey,1,Non-mammalian vertebrates,1,0,Aves,Meleagris gallopavo,2240
+r040,Struthio camelus,ostrich,1,Non-mammalian vertebrates,1,0,Aves,Struthio camelus,240
+r041,Other Aves,,0,Non-mammalian vertebrates,1,0,Aves,Aves,67182
+r042,Fish,,0,Non-mammalian vertebrates,0,0,,Fish,698
+r043,Reptilia,reptiles,0,Non-mammalian vertebrates,0,0,,Reptilia,271
+r044,Amphibia,amphibians,0,Non-mammalian vertebrates,0,0,,Amphibia,38
+r045,Unresolved vertebrates,,0,Non-mammalian vertebrates,0,0,,Unresolved vertebrates,34864
+r046,Insecta,insects,0,Invertebrates,0,1,,,0
+r047,Culicidae,mosquitoes,0,Invertebrates,1,0,Insecta,Culicidae,12433
+r048,Other Insecta,,0,Invertebrates,1,0,Insecta,Insects,2499
+r049,Arachnida,arachnids,0,Invertebrates,0,1,,,0
+r050,Ixodida,ticks,0,Invertebrates,1,0,Arachnida,Ixodida,635
+r051,Other Arachnida,,0,Invertebrates,1,0,Arachnida,Arachnida,289
+r052,Crustacea,crustaceans,0,Invertebrates,0,0,,Crustacea,118
+r053,Other invertebrates,,0,Invertebrates,0,0,,Other invertebrates,8477
+r054,Plantae,plants,0,Plants,0,0,,Plantae,18115
+r055,Algae,,0,Algae,0,0,,Algae,668
+r056,Protists & oomycetes,,0,Protists & oomycetes,0,0,,Protists & oomycetes,77
+r057,Fungi,,0,Fungi,0,0,,Fungi,1527
+r058,Unknown host,,0,Unknown/Excluded,0,0,,Unknown host,84

@@ -1,0 +1,17 @@
+Tool,Endpoint_category,Evidence_unit_code,Display_name,N_families,N_order_assigned_families,N_orders,N_families_without_order
+DeepHoF,Host-taxon classification,N,DeepHoF,166,158,57,8
+RNAVirHost,Host-taxon classification,N,RNAVirHost,97,97,29,0
+Host Taxon Predictor,Host-taxon classification,N,HTP,82,79,36,3
+VPF-Class,Host-taxon classification,V,VPF-Class,30,28,20,2
+MENB,Host-taxon classification,N,MENB,8,8,5,0
+UniVH,Virus–host association scoring,H,UniVH,97,94,25,3
+EvoMIL,Virus–host association scoring,H,EvoMIL,83,77,40,6
+VIDHOP,Virus–host association scoring,N,VIDHOP,3,3,3,0
+HostNet,Virus–host association scoring,N,HostNet,2,2,2,0
+MosViR,Reservoir or vector prediction,N,MosViR,33,31,24,2
+ViralHostPredictor,Reservoir or vector prediction,N,ViralHostPredictor,23,23,9,0
+DeePaC-vir,Human-infectivity prediction,S,DeePaC-vir,145,140,51,5
+VirHostPRED,Human-infectivity prediction,P,VirHostPRED,76,72,37,4
+Zoonotic rank model,Human-infectivity prediction,S,zoonotic rank,36,35,21,1
+GIVAL,Host-adaptation scoring,P,GIVAL,3,3,3,0
+SPHAK,Spillover-risk prioritization,P,SPHAK,18,18,15,0

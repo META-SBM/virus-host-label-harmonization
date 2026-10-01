@@ -1,0 +1,11 @@
+name: viral-order-figure
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - pandas=2.3.3
+  - openpyxl=3.1.5
+  - r-base=4.5
+  - bioconductor-complexheatmap=2.26.1
+  - r-circlize>=0.4.16

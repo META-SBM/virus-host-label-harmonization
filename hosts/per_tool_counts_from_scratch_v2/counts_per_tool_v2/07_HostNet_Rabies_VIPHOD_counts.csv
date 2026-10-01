@@ -1,0 +1,24 @@
+# Tool,"HostNet (Rabies, VIPHOD)"
+# Recomputed from,VIDHOP/small_paper_version_Rabies_strict Y_train.csv + Y_test.csv ONLY (val split excluded -- matches original exactly only when val is excluded; same underlying source as VIDHOP's own Rabies_strict split)
+# Note,"17 species, total 11685 -- MATCHES original exactly (11,685) when only train+test are summed (adding val gives 12,025, +20 per species, which does NOT match -- val is genuinely excluded from HostNet's own reported counts)."
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+Canis lupus,5121,
+Bos taurus,2280,
+Vulpes vulpes,683,
+Mephitis mephitis,672,
+Procyon lotor,558,
+Homo sapiens,478,
+Eptesicus fuscus,460,
+Felis catus,259,
+Tadarida brasiliensis,245,
+Vulpes lagopus,178,
+Desmodus rotundus,164,
+Equus caballus,118,
+Nyctereutes procyonoides,101,
+Capra hircus,100,
+Lasiurus borealis,96,
+Artibeus lituratus,90,
+Cerdocyon thous,82,
+
+TOTAL,11685,

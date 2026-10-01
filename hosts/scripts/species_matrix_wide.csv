@@ -1,0 +1,1316 @@
+Row,Rank,Group,DeePaC-vir,DeepHoF,EvoMIL,GIVAL,Host Taxon Predictor,HostNet (Flavivirus),"HostNet (Rabies, VIPHOD)",MENB,MosViR,RNAVirHost,SPHAK,UniVH,VIDHOP,VPF-Class,VirHostPRED,ViralHostPredictor,Zoonotic rank
+Abelmoschus esculentus,species,Plants,22.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,4.0,157.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abelmoschus manihot,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Acartia tonsa,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Acerodon celebensis,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Acheta domesticus,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Actinidia chinensis,species,Plants,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Actinidia deliciosa,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Acyrthosiphon pisum,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Adoxophyes orana,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aedeomyia squamipennis,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aedes aegypti,species,Invertebrates,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,12.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aedes albopictus,species,Invertebrates,11.0,0.0,36.0,0.0,2.0,0.0,0.0,0.0,0.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aedes circumluteolus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aedes pseudoscutellaris,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aedes vexans,species,Invertebrates,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Agapanthus campanulatus,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Agaricus bisporus,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Agave tequilana,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ageratum conyzoides,species,Plants,7.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ageratum houstonianum,species,Plants,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Agrotis ipsilon,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Agrotis segetum,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ailuropoda melanoleuca,species,Mammals,13.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ailurus fulgens,species,Mammals,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aix galericulata,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aix sponsa,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alcea rosea,species,Plants,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Algae  (not resolved to species),not species-resolved,Algae,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,615.0,0.0,0.0,0.0
+Allamanda cathartica,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Allium ampeloprasum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Allium cepa,species,Plants,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Allium chinense,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Allium fistulosum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Allium sativum,species,Plants,12.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,157.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alopecurus myosuroides,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alouatta caraya,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alpinia purpurata,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alternaria alternata,species,Fungi,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alternaria arborescens,species,Fungi,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alternaria brassicicola,species,Fungi,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alternaria longipes,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amazona farinosa,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amazona oratrix,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amblyomma americanum,species,Invertebrates,3.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ameiva ameiva,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amorphophallus konjac,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amphibalanus rhizophorae,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amphibians  (not resolved to species),not species-resolved,Non-mammalian vertebrates,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amphibola crenata,species,Invertebrates,5.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ananas comosus,species,Plants,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anas acuta,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,0.0,778.0,0.0,0.0,0.0,0.0
+Anas carolinensis,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0,0.0,659.0,0.0,0.0,0.0,0.0
+Anas clypeata,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1085.0,0.0,0.0,0.0,0.0
+Anas crecca,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,37.0,0.0,727.0,0.0,0.0,0.0,0.0
+Anas discors,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2243.0,0.0,0.0,0.0,0.0
+Anas platyrhynchos,species,Non-mammalian vertebrates,32.0,0.0,40.0,0.0,6.0,0.0,0.0,0.0,0.0,50.0,219.0,0.0,24996.0,0.0,0.0,0.0,0.0
+Anas rubripes,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,346.0,0.0,0.0,0.0,0.0
+Anatidae,family,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,361.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andrena haemorrhoa,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andrographis paniculata,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anethum graveolens,species,Plants,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Angelonia angustifolia,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anguilla anguilla,species,Non-mammalian vertebrates,4.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anguilla australis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anguilla marmorata,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles albimanus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles annulipes,species,Invertebrates,2.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles atropos,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles coluzzii,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles coustani,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles farauti,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles funestus,species,Invertebrates,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles gambiae,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles hinesorum,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles meraukensis,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles quadrimaculatus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles sinensis,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles tessellatus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anopheles vagus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anourosorex squamipes,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anredera cordifolia,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anser albifrons,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,291.0,0.0,0.0,0.0,0.0
+Anser anser,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anser caerulescens,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anser cygnoides,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anser fabalis,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,201.0,0.0,0.0,0.0,0.0
+Anser indicus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,105.0,0.0,0.0,0.0,0.0
+Anser rossii,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anser sp.,species,Non-mammalian vertebrates,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Antennarius striatus,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Antheraea pernyi,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anthocercis littorea,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anthoxanthum odoratum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anticarsia gemmatalis,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Antilocapra americana,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Antonospora locustae,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aotus trivirgatus,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aphis fabae,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aphis glycines,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Apis cerana,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Apis mellifera,species,Invertebrates,18.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Apium graveolens,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aplysia californica,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Apodemus agrarius,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Apodemus argenteus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Apodemus chevrieri,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Apodemus flavicollis,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Apodemus sylvaticus,species,Mammals,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ara ararauna,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arabidopsis halleri,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arabidopsis thaliana,species,Plants,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arachis hypogaea,species,Plants,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arachis pintoi,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arachnida,class,Invertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0
+Arachnids  (not resolved to species),not species-resolved,Invertebrates,11.0,0.0,0.0,0.0,67.0,0.0,0.0,0.0,0.0,153.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aratinga solstitialis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arctium lappa,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arctocephalus forsteri,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arctocephalus gazella,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Areca catechu,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arenaria interpres,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,3374.0,0.0,0.0,0.0,0.0
+Argas miniatus,species,Invertebrates,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Argas reflexus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Armadillidium vulgare,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Armigeres subalbatus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Armoracia rusticana,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arracacia xanthorrhiza,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arrhenatherum elatius,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Artemisia annua,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Artemisia carvifolia,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Artemisina melana,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Artibeus jamaicensis,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Artibeus lituratus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,90.0,0.0,0.0,1.0,0.0,0.0,110.0,0.0,0.0,0.0,0.0
+Artiodactyla,order,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,64.0,143.0
+Asclepias viridis,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aselliscus stoliczkanus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aspergillus foetidus,species,Fungi,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aspergillus fumigatus,species,Fungi,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aspergillus ochraceus,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aspidites melanocephalus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Astragalus sinicus,species,Plants,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Asystasia gangetica,species,Plants,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ateles paniscus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ateles sp.,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atherigona orientalis,species,Invertebrates,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atheris squamigera,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atkinsonella hypoxylon,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atractylodes macrocephala,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aulacorthum magnoliae,species,Invertebrates,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Austrovenus stutchburyi,species,Invertebrates,13.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Avena sativa,species,Plants,17.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Avena sp.,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aves,class,Non-mammalian vertebrates,16.0,0.0,0.0,48905.0,0.0,0.0,0.0,1200.0,0.0,0.0,0.0,58.0,0.0,0.0,0.0,0.0,0.0
+Axonopus compressus,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bandicota sp.,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Barbus barbus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bats  (not resolved to species),not species-resolved,Mammals,27.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,102.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0
+Beauveria bassiana,species,Fungi,4.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bemisia tabaci,species,Invertebrates,7.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Benincasa hispida,species,Plants,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Beta vulgaris,species,Plants,15.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,52.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bettongia penicillata,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Betula pubescens,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bidens pilosa,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Biomphalaria glabrata,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bipolaris maydis,species,Fungi,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bipolaris victoriae,species,Fungi,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Birds  (not resolved to species),not species-resolved,Non-mammalian vertebrates,63.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,109.0,328.0,0.0,0.0,0.0,0.0,0.0,66.0
+Blainvillea rhomboidea,species,Plants,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Blattella germanica,species,Invertebrates,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Blicca bjoerkna,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boa constrictor,species,Non-mammalian vertebrates,5.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bombyx mori,species,Invertebrates,9.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bos grunniens,species,Mammals,7.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bos javanicus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bos taurus,species,Mammals,162.0,0.0,202.0,0.0,43.0,0.0,2280.0,0.0,0.0,294.0,85.0,0.0,3516.0,0.0,0.0,0.0,0.0
+Bothrops atrox,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Botryosphaeria dothidea,species,Fungi,3.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Botrytis cinerea,species,Fungi,14.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Botrytis porri,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bougainvillea spectabilis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Branta canadensis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,10.0,0.0,126.0,0.0,0.0,0.0,0.0
+Brassica juncea,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brassica napus,species,Plants,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brassica oleracea,species,Plants,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brassica rapa,species,Plants,6.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,16.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brevicoryne brassicae,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bromus catharticus,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bromus hordeaceus,species,Plants,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bromus inermis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brugmansia suaveolens,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bubalus bubalis,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Budorcas taxicolor,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Buteo jamaicensis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cacatua moluccensis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Caenorhabditis briggsae,species,Invertebrates,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Caenorhabditis elegans,species,Invertebrates,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cafeteria roenbergensis,species,Protists & oomycetes,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cairina moschata,species,Non-mammalian vertebrates,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,990.0,0.0,0.0,0.0,0.0
+Cajanus cajan,species,Plants,5.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,13.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Caladenia latifolia,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Calidris alba,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,127.0,0.0,0.0,0.0,0.0
+Calidris canutus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0
+Calidris fuscicollis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Calidris ruficollis,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,105.0,0.0,0.0,0.0,0.0
+Callinectes ornatus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Callinectes sapidus,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Callistephus chinensis,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Callithrix jacchus,species,Mammals,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Callosciurus erythraeus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Calomys callosus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Calomys laucha,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Caluromys philander,species,Mammals,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camellia oleifera,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camellia sinensis,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelus bactrianus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelus dromedarius,species,Mammals,14.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,9.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0
+Campanula takesimana,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camponotus japonicus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camponotus nipponicus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camponotus yamaokai,species,Invertebrates,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Canis lupus,species,Mammals,46.0,0.0,72.0,624.0,25.0,0.0,5121.0,0.0,0.0,60.0,134.0,0.0,5566.0,0.0,0.0,0.0,0.0
+Canna indica,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cannabis sativa,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Capitulum mitella,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Capra hircus,species,Mammals,17.0,0.0,31.0,0.0,2.0,0.0,100.0,0.0,0.0,59.0,15.0,0.0,120.0,0.0,0.0,0.0,0.0
+Capraria biflora,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Capreolus capreolus,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Capsella bursa-pastoris,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Capsicum annuum,species,Plants,26.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,54.0,99.0,0.0,0.0,0.0,0.0,0.0,0.0
+Capsicum baccatum,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Capsicum frutescens,species,Plants,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Carassius auratus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Caretta caretta,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Carica papaya,species,Plants,21.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,29.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0
+Caridea,infraorder,Invertebrates,0.0,0.0,0.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Carios pusillus,species,Invertebrates,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Carnegiea gigantea,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Carnivora,order,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0,0.0,43.0,62.0
+Carnivores  (not resolved to species),not species-resolved,Mammals,11.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,25.0,91.0,0.0,0.0,0.0,0.0,0.0,0.0
+Carollia perspicillata,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Carya illinoinensis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Castor canadensis,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Catharanthus roseus,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Catopsilia pomona,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Catostomus commersonii,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cavia porcellus,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cebus albifrons,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cebus apella,species,Mammals,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centaurea cyanus,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centropristis striata,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrosema brasilianum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ceratobasidium cereale,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ceratobasidium sp.,species,Fungi,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ceratorhiza oryzae-sativae,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cercis canadensis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cercocebus torquatus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cercopithecus ascanius,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cercopithecus erythrotis,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cercopithecus mitis,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cercopithecus mona,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cercopithecus neglectus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cerdocyon thous,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,82.0,0.0,0.0,2.0,1.0,0.0,102.0,0.0,0.0,0.0,0.0
+Cervidae,family,Mammals,2.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cervus elaphus,species,Mammals,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cestrum parqui,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chaerephon plicatus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chaetoceros lorenzianus,species,Algae,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chaetoceros tenuissimus,species,Algae,4.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chaetocoelopa sydneyensis,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Channa argus x Channa maculata,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Channa striata,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chaoborus trivitattus,species,Invertebrates,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Charybdis japonica,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelonia mydas,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chenopodiastrum murale,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chenopodium album,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chenopodium amaranticolor,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chenopodium quinoa,species,Plants,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,114.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cherax quadricarinatus,species,Invertebrates,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chiroptera,order,Mammals,52.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,59.0,70.0
+Chlorocebus (genus),genus,Mammals,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chlorocebus aethiops,species,Mammals,41.0,0.0,108.0,0.0,1.0,0.0,0.0,0.0,0.0,47.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chlorocebus pygerythrus,species,Mammals,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chlorocebus sabaeus,species,Mammals,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Choloepus didactylus,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chondrostereum purpureum,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Choristoneura occidentalis,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Choristoneura rosaceana,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chroicocephalus ridibundus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1476.0,0.0,0.0,0.0,0.0
+Chrysanthemum indicum,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chrysanthemum x morifolium,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chrysomya megacephala,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cicer arietinum,species,Plants,18.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,12.0,76.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ciconia ciconia,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cimex hemipterus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Circus aeruginosus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Citrullus lanatus,species,Plants,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0
+Citrus limon,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Citrus maxima,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Citrus reticulata,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Citrus reticulata x Citrus sinensis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Citrus sinensis,species,Plants,7.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,18.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Citrus volkameriana,species,Plants,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Civettictis civetta,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cladosporium cladosporioides,species,Fungi,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Clanis bilineata,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cleome affinis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+Clerodendrum cyrtophyllum,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Clitocybe odora,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Clitoria ternatea,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Clostera anachoreta,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Clostera anastomosis,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cnidoscolus urens,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coccinia grandis,species,Plants,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coleura afra,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colletotrichum fructicola,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colletotrichum higginsianum,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colobus guereza,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colocasia esculenta,species,Plants,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Columba livia,species,Non-mammalian vertebrates,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,11.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Columbidae,family,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,163.0,0.0,0.0,0.0,0.0,0.0,0.0
+Conepatus leuconotus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Copsychus saularis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coquillettidia albicosta,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coquillettidia xanthogaster,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coracias garrulus,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corallus annulatus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corchorus capsularis,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corchorus olitorius,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corchorus siliquosus,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cordyceps javanica,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cordyline fruticosa,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coriandrum sativum,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corvus coronoides,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corynorhinus rafinesquii,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coturnix coturnix,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coturnix japonica,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cracticus torquatus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crambe hispanica,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crassocephalum crepidioides,species,Plants,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cricetomys emini,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cricetulus griseus,species,Mammals,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cricetulus longicaudatus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crocidura douceti,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crocidura hirta,species,Mammals,8.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crocidura lasiura,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crocidura olivieri,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crocidura shantungensis,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crocus sativus,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cronartium ribicola,species,Fungi,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crotalaria juncea,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crotalus lepidus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croton glandulosus,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cryphonectria nitschkei,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cryphonectria parasitica,species,Fungi,8.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ctenocephalides felis,species,Invertebrates,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ctenopharyngodon idella,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cucumis melo,species,Plants,12.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,43.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cucumis sativus,species,Plants,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cucurbita maxima,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cucurbita moschata,species,Plants,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,9.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cucurbita pepo,species,Plants,2.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,34.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex annulioris,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex annulirostris,species,Invertebrates,5.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex australicus,species,Invertebrates,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex bitaeniorhynchus,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex chidesteri,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex decens,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex dunni,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex edwardsi,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex globocoxitus,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex modestus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex nebulosus,species,Invertebrates,4.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex nigripalpus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex pipiens,species,Invertebrates,7.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex portesi,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex quinquefasciatus,species,Invertebrates,6.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex simpliciforceps,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex sitiens,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex spissipes,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex tarsalis,species,Invertebrates,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex tritaeniorhynchus,species,Invertebrates,9.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culex vishnui,species,Invertebrates,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culicidae,family,Invertebrates,21.0,0.0,0.0,0.0,35.0,9253.0,0.0,0.0,2391.0,102.0,0.0,0.0,0.0,1.0,0.0,75.0,0.0
+Culicoides austropalpalis,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culicoides brevitarsis,species,Invertebrates,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culicoides insignis,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culicoides punctatus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Culiseta melanura,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Curvularia protuberata,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyamopsis tetragonoloba,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyanoramphus auriceps,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cycas revoluta,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyclopterus lumpus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cydia pomonella,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cygnus columbianus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,221.0,0.0,0.0,0.0,0.0
+Cygnus cygnus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,110.0,0.0,0.0,0.0,0.0
+Cygnus olor,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,242.0,0.0,0.0,0.0,0.0
+Cymbidium goeringii,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cymbidium hybrid,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cynanchum wilfordii,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cynara cardunculus,species,Plants,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cynodon dactylon,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cynopterus brachyotis,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyprinus carpio,species,Non-mammalian vertebrates,6.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyrtanthus elatus,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyrtomium falcatum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cytospora ceratosperma,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dactylis glomerata,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dahlia pinnata,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dama dama,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Damaliscus lunatus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Danaus plexippus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daphne mezereum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daphne odora,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daphnis nerii,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Datura inoxia,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Datura stramonium,species,Plants,8.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,19.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daucus carota,species,Plants,12.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,18.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Deinbollia borbonica,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delisea pulchra,species,Algae,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delphinapterus leucas,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delphinidae,family,Mammals,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Delphinus delphis,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dendrolimus punctatus,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dermacentor marginatus,species,Invertebrates,5.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Desmodium glabrum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Desmodus rotundus,species,Mammals,3.0,0.0,0.0,0.0,3.0,0.0,164.0,0.0,0.0,6.0,0.0,0.0,184.0,0.0,0.0,0.0,0.0
+Diabrotica virgifera,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diachasmimorpha longicaudata,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diadromus pulchellus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dianthus caryophyllus,species,Plants,7.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dianthus chinensis,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diaphorina citri,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diatraea saccharalis,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Digitaria ciliaris,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
+Digitaria didactyla,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Digitaria sanguinalis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dimocarpus longan,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dinocampus coccinellae,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dioscorea alata,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dioscorea communis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dioscorea japonica,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dioscorea opposita,species,Plants,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dioscorea parviflora,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dioscorea polystachya,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dioscorea rotundata,species,Plants,5.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dioscorea sansibarensis,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dioscorea trifida,species,Plants,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diospyros kaki,species,Plants,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diospyros virginiana,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diplacodes bipunctata,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diplodia sapinea,species,Fungi,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diplodia scrobiculata,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diplotaxis erucoides,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Discula destructiva,species,Fungi,2.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Disocactus flagelliformis,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diuris longifolia,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diuris pedunculata,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dobsonia moluccensis,species,Mammals,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dracaena sanderiana,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Drosophila affinis,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Drosophila ananassae,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Drosophila immigrans,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Drosophila melanogaster,species,Invertebrates,10.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Drosophila obscura,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Drosophila subobscura,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Duranta erecta,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dysaphis plantaginea,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dysphania ambrosioides,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ecballium elaterium,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Echinothrips americanus,species,Invertebrates,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eclipta prostrata,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ectropis obliqua,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eidolon helvum,species,Mammals,19.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,28.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eimeria tenella,species,Protists & oomycetes,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Elaeis guineensis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eleocharis dulcis,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Elettaria cardamomum,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eleusine indica,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eliurus majori,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Emberiza spodocephala,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Emilia sonchifolia,species,Plants,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Endoconidiophora polonica,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Endoconidiophora resinifera,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Enhydra lutris,species,Mammals,4.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eothenomys eleusis,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eothenomys miletus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Epichloe festucae,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Epirrita autumnata,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eptesicus fuscus,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,460.0,0.0,0.0,8.0,0.0,0.0,480.0,0.0,0.0,0.0,0.0
+Eptesicus serotinus,species,Mammals,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Equus asinus,species,Mammals,2.0,0.0,0.0,8.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Equus asinus x Equus caballus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Equus caballus,species,Mammals,33.0,0.0,54.0,182.0,10.0,0.0,118.0,0.0,0.0,82.0,71.0,0.0,2469.0,0.0,0.0,0.0,0.0
+Equus ferus,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eragrostis curvula,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eragrostis minor,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erethizon dorsatum,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eretmapodites leucopous,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erigeron breviscapus,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erinaceus amurensis,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erinaceus europaeus,species,Mammals,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,11.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erinaceus roumanicus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erinnyis ello,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eriobotrya japonica,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erysiphe necator,species,Fungi,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erysiphe palczewskii,species,Fungi,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erysiphe trifoliorum,species,Fungi,7.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erythemis simplicicollis,species,Invertebrates,5.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erythrocebus patas,species,Mammals,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erythrodiplax fusca,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erythrodiplax umbrata,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Esox lucius,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estrilda troglodytes,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Etheostoma fonticola,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eucampsipoda africana,species,Invertebrates,1.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eucharis x grandiflora,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eudromia elegans,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Euonymus maackii,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eupatorium makinoi,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Euphorbia caput-medusae,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
+Euphorbia heterophylla,species,Plants,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0
+Euphorbia pulcherrima,species,Plants,4.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Euproctis pseudoconspersa,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Euscelidius variegatus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eustoma grandiflorum,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eutrema japonicum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Falco tinnunculus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Falco vespertinus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fallopia dumetorum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Feliformia,suborder,Mammals,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Felis catus,species,Mammals,45.0,0.0,57.0,59.0,12.0,0.0,259.0,0.0,0.0,83.0,123.0,0.0,279.0,0.0,0.0,0.0,0.0
+Festuca pratensis,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ficus carica,species,Plants,2.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fish  (not resolved to species),not species-resolved,Non-mammalian vertebrates,21.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,145.0,0.0,42.0,0.0,0.0,0.0,19.0,39.0
+Flammulina velutipes,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Formica exsecta,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Formicarius analis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fragaria chiloensis,species,Plants,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fragaria vesca,species,Plants,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fragaria x ananassa,species,Plants,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Frankliniella occidentalis,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fritillaria thunbergii,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulica atra,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulmarus glacialis,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fungi,kingdom,Fungi,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,3.0
+Fungi  (not resolved to species),not species-resolved,Fungi,19.0,0.0,0.0,0.0,26.0,0.0,0.0,0.0,0.0,214.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fusarium asiaticum,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fusarium coeruleum,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fusarium globosum,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fusarium graminearum,species,Fungi,8.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fusarium langsethiae,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fusarium oxysporum,species,Fungi,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fusarium poae,species,Fungi,18.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fusarium solani,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gadus morhua,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gallinago gallinago,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gallinula chloropus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Galloanserae (bird clade),clade,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0
+Gallus gallus,species,Non-mammalian vertebrates,71.0,0.0,109.0,0.0,62.0,0.0,0.0,0.0,0.0,269.0,922.0,0.0,27229.0,0.0,0.0,0.0,0.0
+Garrulus glandarius,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gentiana triflora,species,Plants,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gerbera jamesonii,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gerbilliscus kempi,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gerygone albofrontata,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gigaspora margarita,species,Fungi,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Giraffa camelopardalis,species,Mammals,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Girardia tigrina,species,Invertebrates,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Glycine max,species,Plants,28.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,51.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0
+Golovinomyces cichoracearum,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gonimbrasia cytherea,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gorilla gorilla,species,Mammals,6.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gossypium darwinii,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gossypium hirsutum,species,Plants,15.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,3.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gossypium mustelinum,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Graminella nigrifrons,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Grammomys sp.,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gremmeniella abietina,species,Fungi,6.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Grus japonensis,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gymnanthemum amygdalinum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gymnocalycium mihanovichii,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Habenaria radiata,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haemaphysalis doenitzi,species,Invertebrates,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haemaphysalis flava,species,Invertebrates,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haemaphysalis hystricis,species,Invertebrates,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haliaeetus leucocephalus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haliotis discus,species,Invertebrates,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haliotis diversicolor,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Halyomorpha halys,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hardenbergia comptoniana,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hedyotis uncinella,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Helianthus annuus,species,Plants,5.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Helicobasidium mompa,species,Fungi,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heliconius erato,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Helicoverpa armigera,species,Invertebrates,8.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Helicoverpa zea,species,Invertebrates,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Helleborus x hybridus,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heloderma horridum,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hemidesmus indicus,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heracleum sphondylium,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Herpestes ichneumon,species,Mammals,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heterobasidion abietinum,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heterobasidion annosum,species,Fungi,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heterobasidion ecrustosum,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heterobasidion irregulare,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heterobasidion parviporum,species,Fungi,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heterodera glycines,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heteronychus arator,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hevea brasiliensis,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hexura picea,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hibiscus cannabinus,species,Plants,3.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hibiscus rosa-sinensis,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hibiscus sabdariffa,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hippeastrum sp.,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hipposideros armiger,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hipposideros cf. ruber,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hipposideros cineraceus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hipposideros commersoni,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hipposideros gigas,species,Mammals,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hipposideros larvatus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hipposideros pomona,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hipposideros pratti,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hipposideros vittatus,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Homalodisca vitripennis,species,Invertebrates,2.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Homo sapiens,species,Mammals,1309.0,32464.0,1321.0,53942.0,188.0,0.0,478.0,1200.0,0.0,4338.0,5480.0,1.0,136031.0,1247.0,2127.0,0.0,113.0
+Hordeum vulgare,species,Plants,16.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hoya wayetii,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Humans + non-human primates  (not resolved to species),not species-resolved,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0
+Humulus japonicus,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Humulus lupulus,species,Plants,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hyacinthus orientalis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hyalomma anatolicum,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hyalomma asiaticum,species,Invertebrates,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hyalomma dromedarii,species,Invertebrates,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hyalopterus pruni,species,Invertebrates,7.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hydrangea macrophylla,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hydrocoloeus minutus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hylaeamys megacephalus,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hylocereus undatus,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hylomyscus simus,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hypsugo pulveratus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hyptiotes gertschi,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ia io,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ilex paraguariensis,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Impatiens walleriana,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Imperata cylindrica,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indotestudo forstenii,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indri indri,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Insecta,class,Invertebrates,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62.0,0.0,0.0,0.0,65.0,67.0
+Insects  (not resolved to species),not species-resolved,Invertebrates,226.0,0.0,0.0,0.0,282.0,0.0,0.0,0.0,0.0,647.0,1.0,0.0,0.0,68.0,0.0,0.0,0.0
+Ipomoea batatas,species,Plants,40.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,41.0,59.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ipomoea indica,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ipomoea setosa,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Iris ensata,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Isoodon obesulus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ixeridium dentatum,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ixodes lividus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ixodes scapularis,species,Invertebrates,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ixodes uriae,species,Invertebrates,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ixodida,order,Invertebrates,5.0,0.0,0.0,0.0,13.0,373.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0
+Jasminum sambac,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jatropha curcas,species,Plants,6.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jatropha gossypiifolia,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jatropha multifida,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kalanchoe blossfeldiana,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Labidocera aestiva,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lablab purpureus,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lactuca sativa,species,Plants,10.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lagenaria siceraria,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lagenorhynchus acutus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lagenorhynchus albirostris,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lagothrix lagotricha,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lama glama,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lambdina fiscellaria,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lamium album,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lamium maculatum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Laodelphax striatella,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Larus argentatus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,306.0,0.0,0.0,0.0,0.0
+Larus glaucescens,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,152.0,0.0,0.0,0.0,0.0
+Lasiurus borealis,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,116.0,0.0,0.0,0.0,0.0
+Lasius neglectus,species,Invertebrates,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lasius niger,species,Invertebrates,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lates calcarifer,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leishmania aethiopica,species,Protists & oomycetes,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leishmania major,species,Protists & oomycetes,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lemur catta,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lens culinaris,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,7.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leonurus sibiricus,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Lepidosauria (reptile clade, excl. turtles/crocodiles)",clade,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Lepomis macrochirus,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leptonychotes weddellii,species,Mammals,9.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,293.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leptopilina boulardi,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leptosphaeria biglobosa,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lepus europaeus,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lepus granatensis,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lespedeza procumbens,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leucophaeus atricilla,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,290.0,0.0,0.0,0.0,0.0
+Liatris spicata,species,Plants,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ligustrum japonicum,species,Plants,3.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ligustrum obtusifolium,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lilium formosanum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lilium sp.,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Limatus flavisetosus,species,Invertebrates,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Linepithema humile,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lissotriton vulgaris,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lolium perenne,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lonchura striata,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lonicera japonica,species,Plants,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lophuromys sikapusi,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Loxodonta africana,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ludwigia hyssopifolia,species,Plants,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Luffa acutangula,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Luffa aegyptiaca,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lupinus nootkatensis,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lupinus polyphyllus,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lutrinae,subfamily,Mammals,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lutzomyia longipalpis,species,Invertebrates,1.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lycopersicon esculentum,species,Plants,0.0,0.0,0.0,0.0,19.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lygus lineolaris,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lymantria dispar,species,Invertebrates,7.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lymantria xylina,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lynx canadensis,species,Mammals,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lynx rufus,species,Mammals,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,89.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lytechinus variegatus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macaca (genus),genus,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macaca fascicularis,species,Mammals,20.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,10.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macaca fuscata,species,Mammals,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macaca mulatta,species,Mammals,40.0,0.0,73.0,0.0,3.0,0.0,0.0,0.0,0.0,65.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macaca nemestrina,species,Mammals,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macrobrachium rosenbergii,species,Invertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macrophomina phaseolina,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macroptilium lathyroides,species,Plants,5.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,1.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macrosiphum euphorbiae,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Macrotyloma uniflorum,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malus domestica,species,Plants,7.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,187.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malus pumila,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malus sylvestris,species,Plants,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malva parviflora,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malvastrum coromandelianum,species,Plants,12.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mamestra brassicae,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mandrillus sphinx,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manihot esculenta,species,Plants,20.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,25.0,238.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manis (genus),genus,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manis javanica,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mansonia africana,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mansonia uniformis,species,Invertebrates,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mareca americana,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,154.0,0.0,0.0,0.0,0.0
+Mareca penelope,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,0.0,248.0,0.0,0.0,0.0,0.0
+Mareca strepera,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,132.0,0.0,0.0,0.0,0.0
+Marmota himalayana,species,Mammals,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mastomys natalensis,species,Mammals,9.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Medicago lupulina,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Medicago sativa,species,Plants,11.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,34.0,84.0,0.0,0.0,0.0,0.0,0.0,0.0
+Megaskepasma erythrochlamys,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Meleagris gallopavo,species,Non-mammalian vertebrates,23.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,13.0,74.0,0.0,2123.0,0.0,0.0,0.0,0.0
+Meles meles,species,Mammals,5.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Melopsittacus undulatus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mentha x gracilis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mephitis mephitis,species,Mammals,1.0,0.0,0.0,19.0,1.0,0.0,672.0,0.0,0.0,0.0,0.0,0.0,692.0,0.0,0.0,0.0,0.0
+Meriones unguiculatus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mesocricetus auratus,species,Mammals,11.0,0.0,42.0,0.0,2.0,0.0,0.0,0.0,0.0,15.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miathyria marcella,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Micaelamys namaquensis,species,Mammals,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Micromonas pusilla,species,Plants,3.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Micromys minutus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Microplitis demolitor,species,Invertebrates,1.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Microtus agrestis,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Microtus arvalis,species,Mammals,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Microtus fortis,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Microtus maximowiczii,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Microtus montanus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Microtus oeconomus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Microtus pennsylvanicus,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mikania micrantha,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miniopterus fuliginosus,species,Mammals,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miniopterus magnater,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miniopterus pusillus,species,Mammals,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Miniopterus schreibersii,species,Mammals,13.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,28.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mirabilis jalapa,species,Plants,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mirounga leonina,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mnemiopsis leidyi,species,Invertebrates,4.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Molossus molossus,species,Mammals,6.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Momordica charantia,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mops condylurus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Morelia spilota,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Morelia viridis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Morus alba,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Murina leucogaster,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mus caroli,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mus minutoides,species,Mammals,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mus musculus,species,Mammals,71.0,0.0,174.0,0.0,7.0,0.0,0.0,0.0,0.0,74.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mus sp.,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Musa acuminata,species,Plants,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0
+Musa sp.,species,Plants,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0
+Musa x paradisiaca,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Musca domestica,species,Invertebrates,6.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mustela lutreola,species,Mammals,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mustela putorius,species,Mammals,5.0,0.0,0.0,38.0,3.0,0.0,0.0,0.0,0.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myiopsitta monachus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myodes glareolus,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,17.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myodes rufocanus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis blythii,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis daubentonii,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis davidii,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis laniger,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis lucifugus,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis myotis,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis mystacinus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis nattereri,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis ricketti,species,Mammals,5.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,4.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis sp.,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis velifer,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotis yumanensis,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myotomys unisulcatus,species,Mammals,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myrmica scabrinodis,species,Invertebrates,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mythimna unipuncta,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nanorana parkeri,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Narcissus pseudonarcissus,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Narcissus tazetta,species,Plants,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neoaves (bird clade),clade,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,0.0
+Neodiprion abietis,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neodiprion sertifer,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neodon clarkei,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neofusicoccum luteum,species,Fungi,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neoscona nautica,species,Invertebrates,4.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neotoma albigula,species,Mammals,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neotoma lepida,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neovison vison,species,Mammals,3.0,0.0,0.0,81.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nephelomys albigularis,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nephila clavipes,species,Invertebrates,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nephotettix cincticeps,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nesidiocoris tenuis,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicotiana benthamiana,species,Plants,33.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,132.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicotiana clevelandii,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicotiana debneyi,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicotiana glauca,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicotiana glutinosa,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicotiana occidentalis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicotiana rustica,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicotiana tabacum,species,Plants,26.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,80.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicotiana velutina,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nigrospora oryzae,species,Fungi,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nilaparvata lugens,species,Invertebrates,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Niviventer confucianus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Non-human (undifferentiated)  (not resolved to species),not species-resolved,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2127.0,0.0,0.0
+Non-human primates  (not resolved to species),not species-resolved,Mammals,17.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,61.0,13.0,18.0,0.0,0.0,0.0,0.0,69.0
+Notemigonus crysoleucas,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Numididae sp.,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nyctalus velutinus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nyctereutes procyonoides,species,Mammals,1.0,0.0,0.0,22.0,1.0,0.0,101.0,0.0,0.0,0.0,2.0,0.0,121.0,0.0,0.0,0.0,0.0
+Nycticebus coucang,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nylanderia fulva,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nyssomyia flaviscutellata,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ochlerotatus camptorhynchus,species,Invertebrates,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ochlerotatus caspius,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ochlerotatus fulvus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ochlerotatus scapularis,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ochlerotatus taeniorhynchus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ochlerotatus vigilax,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ocimum basilicum,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odobenus rosmarus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odocoileus hemionus,species,Mammals,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odocoileus virginianus,species,Mammals,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oeciacus vicarius,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oecomys bicolor,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Olea europaea,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oligoryzomys fulvescens,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oligoryzomys longicaudatus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oligoryzomys mattogrossae,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oligoryzomys microtis,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oligoryzomys nigripes,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oncopera intricoides,species,Invertebrates,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oncorhynchus keta,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oncorhynchus kisutch,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oncorhynchus mykiss,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oncorhynchus tshawytscha,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Operophtera brumata,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ophiostoma himal-ulmi,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ophiostoma novo-ulmi,species,Fungi,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Opsiphanes invirae,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Opuntia ficus-indica,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Opuntia microdasys,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Orgyia pseudotsugata,species,Invertebrates,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oriolus oriolus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ornithodoros capensis,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ornithodoros coriaceus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ornithodoros erraticus,species,Invertebrates,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oryctes rhinoceros,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oryctolagus cuniculus,species,Mammals,16.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,37.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oryza rufipogon,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oryza sativa,species,Plants,14.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,57.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oryza sp.,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oryzomys sp.,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Other invertebrates  (not resolved to species),not species-resolved,Invertebrates,44.0,0.0,0.0,0.0,544.0,0.0,0.0,0.0,0.0,87.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0
+Other mammals  (not resolved to species),not species-resolved,Mammals,56.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,31.0,14.0,0.0,0.0,0.0,20.0,64.0
+Other/unresolved mammals  (not resolved to species),not species-resolved,Mammals,3.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Otolemur crassicaudatus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Otomops martiensseni,species,Mammals,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Otostigmus scaber,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ovis aries,species,Mammals,29.0,0.0,51.0,0.0,9.0,0.0,0.0,0.0,0.0,51.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oxalis corniculata,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oxalis tuberosa,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paguma larvata,species,Mammals,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pan paniscus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pan troglodytes,species,Mammals,33.0,0.0,45.0,0.0,18.0,0.0,0.0,0.0,0.0,26.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Panax ginseng,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Panax notoginseng,species,Plants,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Panicum virgatum,species,Plants,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pantala flavescens,species,Invertebrates,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Panthera leo,species,Mammals,2.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Panthera tigris,species,Mammals,0.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+Papaver somniferum,species,Plants,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paphies subtriangulata,species,Invertebrates,14.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Papio anubis,species,Mammals,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Papio cynocephalus,species,Mammals,6.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Papio hamadryas,species,Mammals,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Papio ursinus,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Parabuteo unicinctus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paracoccus marginatus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paralichthys olivaceus,species,Non-mammalian vertebrates,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paramuricea placomus,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paraphaeosphaeria minitans,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Parthenium hysterophorus,species,Plants,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Parus major,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paspalum dilatatum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paspalum setaceum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Passiflora caerulea,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Passiflora edulis,species,Plants,5.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,9.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0
+Passiflora incarnata,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pelargonium x hortorum,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pelargonium zonale,species,Plants,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pelodiscus sinensis,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Penaeus monodon,species,Invertebrates,7.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Penaeus vannamei,species,Invertebrates,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,7.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+Penicillium aurantiogriseum,species,Fungi,6.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Penicillium chrysogenum,species,Fungi,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Penicillium digitatum,species,Fungi,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Penicillium janczewskii,species,Fungi,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Penicillium roqueforti,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Penicillium stoloniferum,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Perameles bougainville,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Perca fluviatilis,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Perina nuda,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Peromyscus beatae,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Peromyscus californicus,species,Mammals,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Peromyscus crinitus,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Peromyscus maniculatus,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Persea americana,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Petasites japonicus,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Petrochirus diogenes,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Petroica traversi,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Petroselinum crispum,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Petunia x hybrida,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phaius flavus,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phalaenopsis equestris,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phascolarctos cinereus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phaseolus lunatus,species,Plants,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phaseolus vulgaris,species,Plants,30.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,66.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phasianus colchicus,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philander opossum,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philodromus dispar,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phlebiopsis gigantea,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phlebotomus perfiliewi,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phleum pratense,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phlox divaricata,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phlox stolonifera,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phoca vitulina,species,Mammals,7.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,6.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phocoena phocoena,species,Mammals,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phocoena spinipinnis,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phodopus sungorus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phomopsis vexans,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phragmites australis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Physalis heterophylla,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Physalis peruviana,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phytolacca americana,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phytomonas serpens,species,Protists & oomycetes,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phytophthora infestans,species,Protists & oomycetes,4.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phytophthora parasitica,species,Protists & oomycetes,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pieris rapae,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Piliocolobus rufomitratus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Piliocolobus tephrosceles,species,Mammals,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pimephales promelas,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pinellia ternata,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pinus nigra,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Piper nigrum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pipistrellus abramus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pipistrellus pipistrellus,species,Mammals,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pisum sativum,species,Plants,6.0,0.0,0.0,0.0,31.0,0.0,0.0,0.0,0.0,36.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Planococcus citri,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Plantae,kingdom,Plants,0.0,4787.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,113.0,0.0,0.0,0.0,21.0,61.0
+Plantago asiatica,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Plantago lanceolata,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Plantago major,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Plants  (not resolved to species),not species-resolved,Plants,346.0,0.0,1187.0,0.0,308.0,0.0,0.0,0.0,0.0,1587.0,507.0,0.0,0.0,10.0,0.0,0.0,0.0
+Plautia stali,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pleione humilis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pleospora typhicola,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pleurotus ostreatus,species,Fungi,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ploceus cucullatus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Plodia interpunctella,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Plumeria rubra,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Plutella xylostella,species,Invertebrates,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Poa cookii,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pogona vitticeps,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pongo abelii,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pongo pygmaeus,species,Mammals,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pouzolzia zeylanica,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Primnoa pacifica,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Primula malacoides,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Procordulia grayi,species,Invertebrates,11.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Procyon lotor,species,Mammals,4.0,0.0,0.0,2.0,2.0,0.0,558.0,0.0,0.0,1.0,1.0,0.0,578.0,0.0,0.0,0.0,0.0
+Proechimys guyannensis,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Proscyllium habereri,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Protists & oomycetes  (not resolved to species),not species-resolved,Protists & oomycetes,47.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prunus armeniaca,species,Plants,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prunus avium,species,Plants,9.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,41.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prunus cerasifera,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prunus domestica,species,Plants,6.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prunus dulcis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prunus mume,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prunus persica,species,Plants,12.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,56.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prunus salicina,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Psammotettix alienus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Psathyromyia abonnenci,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pseudogymnoascus destructans,species,Fungi,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pseudotsuga menziesii,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Psittacula krameri,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Psittacus erithacus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Psophocarpus tetragonolobus,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pteromalus puparum,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pteronotus parnellii,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pteropus giganteus,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pteropus hypomelanus,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pteropus scapulatus,species,Mammals,2.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pteropus sp.,species,Mammals,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pteropus vampyrus,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pueraria montana,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Puma concolor,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pycnonotus jocosus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pycnonotus sinensis,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pygoscelis adeliae,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pygoscelis papua,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pyricularia oryzae,species,Fungi,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pyrus communis,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Python regius,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rana pipiens,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rangifer tarandus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raphanus raphanistrum,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raphanus sativus,species,Plants,5.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,16.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rattus andamanensis,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rattus argentiventer,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rattus leucopus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rattus norvegicus,species,Mammals,23.0,0.0,48.0,0.0,15.0,0.0,0.0,0.0,0.0,67.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rattus rattus,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rattus tanezumi,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rehmannia glutinosa,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Reithrodontomys megalotis,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Reptiles  (not resolved to species),not species-resolved,Non-mammalian vertebrates,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Reptilia,class,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,17.0
+Rhabdomys pumilio,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus affinis,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus alcyone,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus blasii,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus cornutus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus eloquens,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus ferrumequinum,species,Mammals,13.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,9.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus hipposideros,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus macrotis,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus malayanus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus pusillus,species,Mammals,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus sinicus,species,Mammals,10.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,19.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinolophus stheno,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhinopithecus roxellana,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhipicephalus decoloratus,species,Invertebrates,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhipicephalus microplus,species,Invertebrates,4.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhizoctonia solani,species,Fungi,8.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhizomys pruinosus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhizophagus irregularis,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhizophagus sp. (in: Fungi),species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhododendron maximum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhopalosiphum padi,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhynchobatus djiddensis,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhynchosia minima,species,Plants,6.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ribes americanum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ribes nigrum,species,Plants,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ribes rubrum,species,Plants,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Riparia paludicola,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Riptortus pedestris,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Robinia pseudoacacia,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rodentia,order,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,0.0,17.0,0.0,0.0,0.0,83.0,138.0
+Rodents  (not resolved to species),not species-resolved,Mammals,75.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,228.0,12.0,0.0,0.0,54.0,0.0,0.0,0.0
+Rosa hybrid,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rosa multiflora,species,Plants,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rosa rugosa,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rosa sp.,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rosellinia necatrix,species,Fungi,13.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rousettus aegyptiacus,species,Mammals,5.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rousettus amplexicaudatus,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rousettus leschenaultii,species,Mammals,8.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rousettus madagascariensis,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rousettus sp.,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rubus canadensis,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rubus idaeus,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rubus occidentalis,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rudbeckia hirta,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rumex obtusifolius,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rupicapra rupicapra,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sabethes intermedius,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saccharomyces cerevisiae,species,Fungi,6.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saccharomyces kudriavzevii,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saccharum barberi,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saccharum officinarum,species,Plants,12.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,16.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saccharum sinense,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saccharum sp.,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saimiri boliviensis,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saimiri sciureus,species,Mammals,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Salmo salar,species,Non-mammalian vertebrates,8.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,23.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Salmo trutta,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Salvelinus fontinalis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Salvia divinorum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Salvia hispanica,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Salvia splendens,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sambucus nigra,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sambucus racemosa,species,Plants,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sapajus apella,species,Mammals,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sapajus xanthosternos,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sauropus androgynus,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Scalopus aquaticus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Scheffersomyces segobiensis,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Schizaphis graminum,species,Invertebrates,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Schmidtea mediterranea,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sciurus variegatoides,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sciurus vulgaris,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sclerotinia minor,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sclerotinia nivalis,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sclerotinia sclerotiorum,species,Fungi,22.0,0.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sclerotium hydrophilum,species,Fungi,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Scophthalmus maximus,species,Non-mammalian vertebrates,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Scotophilus dinganii,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Scotophilus kuhlii,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0
+Scrophularia californica,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Scylla serrata,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Secale cereale,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sechium edule,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Senecio scandens,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Senna occidentalis,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Serinus canaria,species,Non-mammalian vertebrates,5.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sesbania grandiflora,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Setaria italica,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Setaria verticillata,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sibirionetta formosa,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,155.0,0.0,0.0,0.0,0.0
+Sicyonia brevirostris,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sicyos edulis,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sida acuta,species,Plants,3.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sida rhombifolia,species,Plants,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sida urens,species,Plants,4.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sigesbeckia glabrescens,species,Plants,5.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sigmodon alstoni,species,Mammals,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sigmodon hispidus,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sigmodon mascotensis,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Silurus glanis,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sinapis alba,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Siniperca chuatsi,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Smallanthus sonchifolius,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sodiomyces alkalinus,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sogatella furcifera,species,Invertebrates,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum aculeatissimum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum aethiopicum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum betaceum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum chancayense,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum dulcamara,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum lycopersicum,species,Plants,187.0,0.0,0.0,0.0,78.0,0.0,0.0,0.0,0.0,98.0,598.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum mammosum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum melongena,species,Plants,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum muricatum,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum nigrum,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum nodiflorum,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum phureja,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum pimpinellifolium,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum quitoense,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum torvum,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum tuberosum,species,Plants,25.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,84.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solanum viarum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solea senegalensis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solenopsis invicta,species,Invertebrates,5.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Somateria mollissima,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sonchus oleraceus,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sooretamys angouya,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sorbus aucuparia,species,Plants,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sorex araneus,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sorex isodon,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sorex roboratus,species,Mammals,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sorghum arundinaceum,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sorghum bicolor,species,Plants,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sorghum halepense,species,Plants,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sparus aurata,species,Non-mammalian vertebrates,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Spathiphyllum patinii,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Spermophilus dauricus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Spinacia oleracea,species,Plants,16.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,29.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Spissistilus festinus,species,Invertebrates,2.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Spodoptera eridania,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Spodoptera exigua,species,Invertebrates,5.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Spodoptera frugiperda,species,Invertebrates,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Stachytarpheta jamaicensis,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Stemphylium lycopersici,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Stercorarius maccormicki,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Struthio camelus,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,231.0,0.0,0.0,0.0,0.0
+Sturnira lilium,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sturnus vulgaris,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Styphnolobium japonicum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Suncus murinus,species,Mammals,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sus scrofa,species,Mammals,166.0,0.0,219.0,17486.0,64.0,0.0,0.0,1200.0,0.0,536.0,762.0,0.0,42440.0,0.0,0.0,0.0,0.0
+Synedrella nodiflora,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Syringa vulgaris,species,Plants,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tadarida brasiliensis,species,Mammals,3.0,0.0,0.0,0.0,4.0,0.0,245.0,0.0,0.0,0.0,2.0,0.0,265.0,0.0,0.0,0.0,0.0
+Tadorna ferruginea,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,204.0,0.0,0.0,0.0,0.0
+Taeniopygia guttata,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tagetes patula,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Talpa europaea,species,Mammals,3.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Taphozous melanopogon,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Teleogryllus oceanicus,species,Invertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telfairia occidentalis,species,Plants,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telosma cordata,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Testudo hermanni,species,Non-mammalian vertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Testudo horsfieldii,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thalassia testudinum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thaumetopoea pityocampa,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thelephora terrestris,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Theobroma cacao,species,Plants,12.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thesium chinense,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thielaviopsis basicola,species,Fungi,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tholymis tillarga,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thunbergia alata,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thysanoplusia orichalcea,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tinca tinca,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tipula oleracea,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tolypocladium cylindrosporum,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Torulaspora delbrueckii,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trematomus pennellii,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Triaenops afer,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Triatoma infestans,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trichechus manatus,species,Mammals,4.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trichoderma asperellum,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trichoderma atroviride,species,Fungi,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trichoderma harzianum,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trichomonas vaginalis,species,Protists & oomycetes,5.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trichoplusia ni,species,Invertebrates,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trichosanthes kirilowii,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trichosurus vulpecula,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trifolium incarnatum,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trifolium pratense,species,Plants,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trifolium repens,species,Plants,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,11.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trifolium resupinatum,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trifolium subterraneum,species,Plants,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trigonella foenum-graecum,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trisetum flavescens,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Triticum aestivum,species,Plants,26.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,93.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tuber aestivum,species,Fungi,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tulipa fosteriana,species,Plants,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tulipa gesneriana,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tupaia belangeri,species,Mammals,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Turdus hortulorum,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Turdus merula,species,Non-mammalian vertebrates,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Turdus pallidus,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tursiops aduncus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tursiops truncatus,species,Mammals,9.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tylonycteris pachypus,species,Mammals,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ulmus glabra,species,Plants,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ungulates  (not resolved to species),not species-resolved,Mammals,17.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,86.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+Unknown host  (not resolved to species),not species-resolved,Unknown/Excluded,1.0,9.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0,0.0
+Unresolved invertebrates  (not resolved to species),not species-resolved,Invertebrates,0.0,7424.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,231.0,0.0,0.0,0.0,0.0,0.0
+Unresolved vertebrates  (not resolved to species),not species-resolved,Non-mammalian vertebrates,4.0,10245.0,0.0,0.0,4.0,0.0,0.0,0.0,24611.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uria aalge,species,Non-mammalian vertebrates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,198.0,0.0,0.0,0.0,0.0
+Urochloa plantaginea,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Urocyon cinereoargenteus,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uroderma bilobatum,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Urotrichus talpoides,species,Mammals,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ursidae,family,Mammals,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ustilaginoidea virens,species,Fungi,8.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ustilago maydis,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vaccinium corymbosum,species,Plants,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,20.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vanilla planifolia,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Varecia variegata,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Varroa destructor,species,Invertebrates,6.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vasconcellea x heilbornii,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Velarifictorus micado,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Verticillium dahliae,species,Fungi,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vespertilio sinensis,species,Mammals,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vespula pensylvanica,species,Invertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vicia faba,species,Plants,10.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,38.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vicia sativa,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vicugna pacos,species,Mammals,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,118.0,0.0,0.0,0.0,0.0
+Vigna mungo,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vigna radiata,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,47.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vigna unguiculata,species,Plants,10.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,52.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vitis labrusca x Vitis vinifera,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vitis sp.,species,Plants,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vitis vinifera,species,Plants,42.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,235.0,67.0,0.0,0.0,0.0,0.0,0.0,0.0
+Viverridae,family,Mammals,0.0,0.0,0.0,5.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vulpes lagopus,species,Mammals,0.0,0.0,0.0,0.0,0.0,0.0,178.0,0.0,0.0,0.0,0.0,0.0,198.0,0.0,0.0,0.0,0.0
+Vulpes vulpes,species,Mammals,2.0,0.0,0.0,106.0,1.0,0.0,683.0,0.0,0.0,5.0,0.0,0.0,703.0,0.0,0.0,0.0,0.0
+Wissadula amplissima,species,Plants,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wisteria sinensis,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Xanthocnemis zealandica,species,Invertebrates,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Xanthophyllomyces dendrorhous,species,Fungi,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Xenopus laevis,species,Non-mammalian vertebrates,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Zalophus californianus,species,Mammals,10.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Zantedeschia aethiopica,species,Plants,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Zanthoxylum armatum,species,Plants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Zea mays,species,Plants,24.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,124.0,125.0,0.0,0.0,0.0,0.0,0.0,0.0
+Zinnia elegans,species,Plants,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Zostera marina,species,Plants,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Zygodontomys brevicauda,species,Mammals,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

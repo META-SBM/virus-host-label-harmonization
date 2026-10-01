@@ -1,0 +1,23 @@
+# Tool,Zoonotic rank
+# Recomputed from,"AllInternalData_Checked.csv (1,258 records), Reservoir column"
+# Note,"Confirmed this project's own dataset-scope audit: the tool's Makefile runs SelectHoldoutData.R with --holdoutProportion 0 (""Holdout not currently used -- not enough data""), so this file is the tool's complete dataset, not a train-only slice of something fuller."
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+Orphan/blank/NA/NONE (EXCL),341,MATCH (341)
+Artiodactyl,143,MATCH (143)
+Rodent,138,MATCH (138)
+Human,113,MATCH (113)
+Pterobat/Vespbat/Chiroptera (combined),70,MATCH (70)
+NonHumanPrimate,69,MATCH (69)
+Insect,67,MATCH (67)
+bird orders (9 tags combined),66,MATCH (66)
+minor mammal orders (10 tags combined),64,MATCH (64)
+Carnivore,62,MATCH (62)
+Plant,61,MATCH (61)
+Fish,39,MATCH (39)
+Reptile,17,MATCH (17)
+Fungi,3,MATCH (3)
+MULTIPLE/Protist (EXCL),3,MATCH (3)
+Crustacean/Bivalve (combined),2,MATCH (2)
+
+TOTAL,1258,

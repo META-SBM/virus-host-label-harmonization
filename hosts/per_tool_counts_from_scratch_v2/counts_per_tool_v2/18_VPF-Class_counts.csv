@@ -1,0 +1,20 @@
+# Tool,VPF-Class
+# Recomputed from,"VPF_Class/2019_VPF_GenHost_REclassification_new.tsv, genus-level host reclassification filtered to membership ratio >=50% (the cut above which a profile can satisfy only one genus, so each of the 12,253 profiles is counted once)"
+# Note,"COUNTING UNIT IS A PROTEIN-FAMILY PROFILE, NOT A VIRUS. The release classifies viral protein families, not viruses; a profile spans many viruses and a virus contributes many profiles, so these counts are not comparable with any record count elsewhere in this review. The tool entered the review through citation searching and has no rows in original_reported_labels.xlsx to match against. See scripts/assess_vpf_class.py and DECISIONS.md entry 11."
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+"Prokaryote/Archaea host genus (negative, EXCL)",10258,"non-eukaryotic, outside the review's scope"
+Homo,1247,
+Aureococcus,562,
+Apis,65,
+Mus,54,
+Ectocarpus,45,
+Glycine,5,
+Micromonas,5,
+Vitis,4,
+Bombyx,3,
+Ostreococcus,3,
+Aedes,1,
+Manihot,1,
+
+TOTAL,12253,

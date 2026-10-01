@@ -1,0 +1,17 @@
+Tool,Display_name,Endpoint_category,Evidence_unit_code,Evidence_unit_label
+DeepHoF,DeepHoF,Host-taxon classification,N,nucleotide sequence / genome / contig
+RNAVirHost,RNAVirHost,Host-taxon classification,N,nucleotide sequence / genome / contig
+Host Taxon Predictor,HTP,Host-taxon classification,N,nucleotide sequence / genome / contig
+VPF-Class,VPF-Class,Host-taxon classification,V,VPF profile
+MENB,MENB,Host-taxon classification,N,nucleotide sequence / genome / contig
+UniVH,UniVH,Virus–host association scoring,H,virus-host pair / association
+EvoMIL,EvoMIL,Virus–host association scoring,H,virus-host pair / association
+VIDHOP,VIDHOP,Virus–host association scoring,N,nucleotide sequence / genome / contig
+HostNet,HostNet,Virus–host association scoring,N,nucleotide sequence / genome / contig
+MosViR,MosViR,Reservoir or vector prediction,N,nucleotide sequence / genome / contig
+ViralHostPredictor,ViralHostPredictor,Reservoir or vector prediction,N,nucleotide sequence / genome / contig
+DeePaC-vir,DeePaC-vir,Human-infectivity prediction,S,source species or taxon metadata
+VirHostPRED,VirHostPRED,Human-infectivity prediction,P,protein record / accession
+Zoonotic rank model,zoonotic rank,Human-infectivity prediction,S,source species or taxon metadata
+GIVAL,GIVAL,Host-adaptation scoring,P,protein record / accession
+SPHAK,SPHAK,Spillover-risk prioritization,P,protein record / accession

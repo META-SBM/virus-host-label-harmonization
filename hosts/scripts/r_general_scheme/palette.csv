@@ -1,0 +1,38 @@
+kind,key,value,extra
+meta,n_real_categories,50,
+meta,n_header_rows,8,
+meta,n_tools,16,
+meta,total_records,545898,
+ink,INK_PRIMARY,#0b0b0b,
+ink,INK_SECONDARY,#52514e,
+ink,GRID,#e1e0d9,
+ink,BASELINE,#c3c2b7,
+ink,SURFACE,#ffffff,
+ink,PAGE,#ffffff,
+ink,SEQ_450,#2a78d6,
+ink,SEQ_700,#0d366b,
+ink,CAT_RED,#e34948,
+ink,CAT_MAGENTA,#e87ba4,
+ink,BLANK_CELL,#ffffff,
+lineage,Mammals,#1e88e5,#6db2ee
+lineage,Non-mammalian vertebrates,#f4511e,#f88e6d
+lineage,Invertebrates,#8e0000,#b65959
+lineage,Plants,#00bfa5,#59d5c4
+lineage,Algae,#64dd17,#9ae968
+lineage,Protists & oomycetes,#7b1fa2,#a96dc3
+lineage,Fungi,#d81b8c,#e66bb4
+lineage,Unknown/Excluded,#78909c,#a7b7bf
+endpoint,A,#4472a8,Host-taxon classification
+endpoint,B,#4a9169,Species-level or virus-specific host association
+endpoint,C,#c9a227,Reservoir or vector prediction
+endpoint,D,#c1584a,Human-infectivity prediction
+endpoint,E,#8064a8,Host-adaptation scoring
+endpoint,F,#3f9e9e,Spillover-risk prioritization
+record_type,seq,#1baf7a,Sequence-level (per isolate)
+record_type,taxon,#eda100,Virus-taxon-level (per species)
+record_type,dedup,#4a3aa7,Deduped species pool
+record_type,profile,#8a5a2b,Protein-family profile (not a virus)
+molecule_type,nt,#2a78d6,Nucleotide sequence
+molecule_type,aa,#e34948,Protein sequence
+molecule_type,mixed,#e87ba4,Mixed nt + protein
+molecule_type,meta,#c3c2b7,Accession metadata only

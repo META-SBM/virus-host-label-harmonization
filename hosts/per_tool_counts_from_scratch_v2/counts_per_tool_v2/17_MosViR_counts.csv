@@ -1,0 +1,9 @@
+# Tool,MosViR
+# Recomputed from,"mosquito_500.fasta.xz + arboviruses_500bp.fasta.xz (Zenodo 10.5281/zenodo.10975789), 500 bp fragments collapsed to 27,002 source sequences"
+# Note,"Host-range classes, not host taxa: a mosquito-specific virus replicates only in mosquito cells, an arbovirus in the mosquito vector and a vertebrate host. The 500 bp set is used because a short sequence appears in no longer fragment set, and fragments are collapsed to their source sequence. The third released class, `other viruses` (620,553 source sequences), is the not-mosquito-associated background for the first classification step; it is not counted, because it asserts no host and its accessions cannot be resolved to check it against the review's eukaryotic scope. Identifiers throughout the release are truncated accessions, so these records carry no resolvable viral taxonomy. Not matched against original_reported_labels.xlsx: this tool entered the review through citation searching, after that workbook was curated."
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+arbovirus,24611,
+mosquito-specific virus,2391,
+
+TOTAL,27002,

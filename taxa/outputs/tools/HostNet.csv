@@ -1,0 +1,3 @@
+Tool,Current_ICTV_family,Source_unit,Source_record_count,Source_file,Source_label,Mapping_method,Verification_status,Notes
+HostNet,Flaviviridae,N,9623,input_original/public_sources/hostnet/hostnet/datasets/Flavivirus,Flavivirus task dataset,explicit_task_dataset_identity_to_current_family,confirmed_from_structured_dataset,Family-level presence inferred from HostNet Flavivirus task dataset identity; row count sums X_train/X_val/X_test records.
+HostNet,Rhabdoviridae,N,11682,input_original/public_sources/hostnet/hostnet/datasets/Rabies,Rabies lyssavirus task dataset,explicit_task_dataset_identity_to_current_family,confirmed_from_structured_dataset,Family-level presence inferred from HostNet Rabies task dataset identity; row count sums X_train/X_val/X_test records.

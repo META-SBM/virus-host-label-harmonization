@@ -1,0 +1,774 @@
+source_file,accession,occurrences,extra_rows,host,virus_species,virus_family,identical_in_every_field
+animal_train.csv,ABF56632,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABF56641,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABO21709,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABP64731,2,1,Mus musculus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABQ45850,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABQ51935,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABQ58979,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABW95938,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABW97449,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABW97460,2,1,Coturnix japonica,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ABX38814,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACA25348,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACA29668,2,1,Galliformes,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACB32201,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACB32203,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACB32205,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACF16400,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACH82060,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACJ24940,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACJ24962,2,1,Cygnus olor,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACM68968,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACT33158,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACT33159,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACT33160,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACT33161,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACT33163,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACT83738,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACT83739,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACT83741,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACV67039,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACV67040,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACV67041,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ACX94091,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADD84494,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADD84498,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADF83500,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADG85225,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADG85249,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADJ38087,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADJ38088,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADJ96330,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADK26591,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADK26592,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADK26593,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADM18089,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADM18091,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADM18092,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADM18093,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADM18096,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADM18097,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADM18098,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADO34911,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADO34915,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADO34923,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADO34927,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADO39882,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADO84715,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADU85609,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADU85709,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADU85714,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADU85715,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADV19280,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADW41784,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADW41785,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADW41786,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADW41787,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADW93781,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADW93785,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADW93797,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADW93801,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADZ05689,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADZ13515,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADZ13517,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADZ31433,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ADZ96085,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEA02181,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEA48989,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEA92627,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEA92629,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEA92630,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEF28999,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21014,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21016,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21017,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21019,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21020,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21021,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21023,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21024,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21025,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21026,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEG21028,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEH26544,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEJ90180,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEJ90184,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEJ90188,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEK98496,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEM23889,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN02507,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN02510,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN02512,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN02515,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN02516,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68573,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68575,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68581,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68903,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68904,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68911,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68914,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68917,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68919,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68920,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68922,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68925,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68927,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68928,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68929,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68933,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68935,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68936,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68938,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68948,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68953,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN68954,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN79400,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN79403,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEN79409,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEO08998,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEO09000,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEO09002,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEO09003,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEO92117,2,1,Accipitridae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEP17297,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEP17308,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEP33157,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEP71333,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEP71337,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ50027,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61287,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61297,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61347,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61367,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61377,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61387,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61397,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61427,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61437,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEQ61447,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AER34931,2,1,Mareca strepera,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AER39762,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AER57973,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AET50886,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AET50890,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AET80429,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEV21634,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEV21644,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEW46923,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEW46943,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEW46953,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEX30517,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEX63424,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEX63612,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEY75628,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEZ01113,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AEZ01133,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC18007,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC18325,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC36397,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98266,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98267,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98268,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98271,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98272,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98273,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98274,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98275,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98276,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98278,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98279,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFC98282,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFE03195,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFE11239,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFE11247,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFE11257,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFH41185,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFH41313,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFH41323,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFH53714,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFH53736,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFH77030,2,1,Columbidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFH77050,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFI73285,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFI73296,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFJ19048,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFJ69895,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFJ69896,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFJ69898,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFJ69899,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFJ69902,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFK13858,2,1,Accipitriformes,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFK13933,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFK13944,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFK13966,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFK73114,2,1,Psittacidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFK73138,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFL56683,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFL56922,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFM47151,2,1,Columbidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFM47165,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFN06479,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFN06490,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFN66948,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFN69297,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO82821,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO82822,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO82823,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83270,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83271,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83272,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83274,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83278,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83280,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83282,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83284,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83287,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83288,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83290,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83291,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83292,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83293,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83294,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83296,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83299,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83301,2,1,Anas,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFO83303,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFP36183,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFP83224,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFP83249,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFQ37281,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFQ60223,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFQ60389,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFR11186,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFU10242,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFV77695,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFV77715,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFW16061,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX65300,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68899,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68900,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68901,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68902,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68903,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68904,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68905,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68907,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68909,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68910,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68912,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68914,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68916,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AFX68917,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGB84771,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGB84833,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGB84843,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGC13459,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGC13463,2,1,Hirundo rustica,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGC74196,2,1,Feliformia,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGC74212,2,1,Felis catus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGC96166,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGC96167,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGC96169,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGC96172,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGE15508,2,1,Fringilla montifringilla,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGG86796,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGH25290,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGH25310,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGH30707,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGI02344,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGI02345,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGI02564,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGI02565,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGI02567,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGI40679,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGI40680,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGI40682,2,1,Felis catus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGI55592,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGJ73211,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGJ73471,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK24187,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK24257,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK24287,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK24317,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK24407,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK24417,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK24427,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK24437,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK72304,2,1,Anser sp.,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGK72316,2,1,Anser sp.,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGL07681,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGL51629,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGL51640,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGL51649,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGL74758,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGL96846,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGN28426,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGN69456,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGN69801,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGO51387,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGR54592,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGR54594,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGR54595,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGR54598,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGR54599,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGR55266,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGS08985,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGT18787,2,1,Fringillidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGU01763,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGU01765,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGU70003,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGV40766,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGV74310,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGV74311,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGV74313,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGV74314,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGV74327,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGV74330,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGV74334,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGV74338,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGW27061,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGX93481,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGY14471,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGY14522,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGY42496,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AGY42549,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHA11441,2,1,Numididae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHA11452,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHA11461,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHA57202,2,1,Larus dominicanus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHA98369,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHA98414,2,1,Arenaria interpres,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHA98415,2,1,Arenaria interpres,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59380,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59384,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59387,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59388,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59389,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59390,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59392,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59393,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59395,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59398,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59399,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59400,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59402,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59403,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59406,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59407,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59408,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59464,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB59468,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB72860,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB72861,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB73570,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB73571,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB73572,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB73577,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB73579,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB73581,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB73587,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB73588,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHB73596,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26227,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26263,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26275,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26287,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26311,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26359,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26371,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26419,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26431,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26443,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHG26479,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH00771,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH00775,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH00777,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH00781,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH00783,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH00866,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH25352,2,1,Columbidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH25378,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH25379,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHH25382,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHI43271,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHI43536,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHI43537,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHI43540,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHI43541,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHI43542,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHI97124,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHI97126,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHI97128,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHJ02842,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHJ57411,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHK10696,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHK10703,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHL21302,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHL21308,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHL21312,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHL21316,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHM24205,2,1,Fulica atra,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHM24258,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHN19421,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHN19428,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHW83226,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHX38123,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHX38147,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHY20942,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHY20952,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHY84441,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHY84442,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHY95082,2,1,Mustela putorius furo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHY95115,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHZ59219,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHZ59260,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHZ59272,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHZ59296,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHZ65520,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHZ65522,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHZ65524,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AHZ65528,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48116,2,1,Sibirionetta formosa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48136,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48146,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48156,2,1,Otis tarda,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48166,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48186,2,1,Anas crecca,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48206,2,1,Anas crecca,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48226,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48236,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48256,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48286,2,1,Anser anser,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48316,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48336,2,1,Sibirionetta formosa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48346,2,1,Sibirionetta formosa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48356,2,1,Numenius arquata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48366,2,1,Numenius arquata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48376,2,1,Numenius arquata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48396,2,1,Sibirionetta formosa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID48406,2,1,Sibirionetta formosa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID57871,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AID70634,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52501,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52513,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52525,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52537,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52560,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52572,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52620,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52644,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52656,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52692,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52703,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52715,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52787,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52842,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52853,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE52977,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53000,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53025,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53047,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53058,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53120,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53143,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53272,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53306,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53351,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53450,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53489,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53519,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53547,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53558,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53570,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIE53604,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIF72782,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIF72792,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIG94040,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIJ10959,2,1,Arenaria interpres,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIJ10966,2,1,Arenaria interpres,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIK26285,2,1,Cairina moschata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIK26291,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIK26313,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIK26323,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIK26355,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIL95872,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIL95874,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIL95882,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIL95886,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIL95890,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIL95898,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIL95906,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIN25510,2,1,Suidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIN25514,2,1,Suidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIN76241,2,1,Spatula discors,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIN76252,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIN76263,2,1,Larus argentatus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIN76274,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIN76307,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIN76373,2,1,Spatula clypeata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIO11661,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIP92464,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIQ82563,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIQ82564,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR93993,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94012,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94013,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94014,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94015,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94016,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94021,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94032,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94042,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94052,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94083,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIR94094,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIT38333,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIT38344,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIT38448,2,1,Mustela lutreola,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIT38468,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIT93147,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIT93162,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIU46599,2,1,Felis catus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIU46609,2,1,Anser cygnoides,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIU46626,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIU46628,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIU46631,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIU46632,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIU46634,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIU46635,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIV09219,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIW60824,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIW63298,2,1,Leucophaeus pipixcan,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIW63709,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIX94903,2,1,Laridae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIZ07500,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AIZ95453,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJC68721,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJE30344,2,1,Anas acuta,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJF45746,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJF45762,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJK00166,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJK00188,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJK00198,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJK00207,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJK00218,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJK00229,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJK00245,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJM70554,2,1,Anas carolinensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJM70587,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJY53727,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJY53728,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJY53729,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJY53733,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJY53734,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJY53736,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJY53738,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AJY79435,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKD00237,2,1,Numenius arquata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKD00247,2,1,Numenius arquata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKD00257,2,1,Himantopus himantopus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKD00297,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKD00891,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKD01002,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKD01041,2,1,Laridae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKE14373,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKH14375,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKH14387,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKH14518,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKH14668,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKH14680,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKH14704,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKH14716,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKI82556,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ80205,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84537,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84538,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84539,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84540,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84542,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84550,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84552,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84553,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84555,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84556,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84559,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKJ84565,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKL91078,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKM15211,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKM15262,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKN08867,2,1,Canis lupus familiaris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKP04601,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKQ44045,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKQ44057,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKS48049,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKS48050,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKS48051,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AKS48055,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALD19453,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALH21262,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALH21298,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALH21333,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALQ12453,2,1,Phasianinae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALQ12477,2,1,Panthera tigris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALQ12501,2,1,Panthera tigris,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALQ12539,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALR82074,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19046,2,1,Branta canadensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19058,2,1,Bubo scandiacus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19082,2,1,Branta canadensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19106,2,1,Falco peregrinus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19130,2,1,Mareca americana,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19190,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19202,2,1,Anas acuta,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19250,2,1,Anas acuta,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19333,2,1,Mareca americana,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19345,2,1,Branta canadensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19381,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ALT19441,2,1,Spatula clypeata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMA11230,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMA11234,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMA11830,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMA11832,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMA11833,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMD38700,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMD38712,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMD38724,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMP44540,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMP44541,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMP44579,2,1,Phasianinae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMQ48984,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMQ48985,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AMU04537,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANC28275,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANC28499,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANC28539,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AND61317,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AND61356,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AND61357,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AND61369,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AND61377,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AND99885,2,1,Pavo cristatus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANH21800,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANH21803,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANH21807,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANH21811,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANH56339,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANJ61792,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANK78255,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANM71617,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANM71964,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANM72001,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANM72548,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANM72572,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANO46201,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANQ69355,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ANU25386,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOG29591,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOG29595,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOO54180,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOO54703,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOO54704,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOO54705,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOO54706,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOO54707,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOO54711,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOS87366,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOS87369,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOS87370,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOS87371,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOS87373,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOS87374,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOS87380,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOS87381,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOS87382,2,1,Equus caballus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOT22442,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AOW32270,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APA05129,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APA05131,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APA05139,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APA05141,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APA05153,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APA05163,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APA05165,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APA05167,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APC57916,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APD69977,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APD69999,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APO39310,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APO40569,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APQ31627,2,1,Meleagris gallopavo,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APQ31639,2,1,Galliformes,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APQ31979,2,1,Mustela lutreola,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APQ32000,2,1,Mustela lutreola,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APQ32010,2,1,Mustela lutreola,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,APR73174,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25409,2,1,Anas carolinensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25455,2,1,Mareca americana,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25467,2,1,Spatula clypeata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25491,2,1,Spatula clypeata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25502,2,1,Spatula clypeata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25514,2,1,Anas carolinensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25550,2,1,Anas carolinensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25572,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25596,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25656,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25704,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25714,2,1,Spatula clypeata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25738,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25762,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25810,2,1,Anas carolinensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25870,2,1,Spatula clypeata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25905,2,1,Anas carolinensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25917,2,1,Anas carolinensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25941,2,1,Anas carolinensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25977,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS25989,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26025,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26037,2,1,Arenaria interpres,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26049,2,1,Arenaria interpres,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26085,2,1,Spatula discors,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26117,2,1,Spatula discors,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26129,2,1,Spatula clypeata,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26163,2,1,Anas carolinensis,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26257,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26353,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26509,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26533,2,1,Spatula discors,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQS26557,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AQU12491,2,1,Anas acuta,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ARD27291,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ARG42352,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ARG42780,2,1,Feliformia,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ASF57839,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ASO96862,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ASO96874,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ASV60822,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ASV62103,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ASW34090,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ATI21642,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ATI25889,2,1,Feliformia,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ATQ38933,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ATW74967,2,1,Spatula discors,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,ATY74269,2,1,Aves,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AUF34898,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AUI42274,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AUI42275,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AUN86786,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AUN86798,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AVK43491,2,1,Homo sapiens,Betainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AVT56047,2,1,Sus scrofa,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AVV61746,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AXE75646,2,1,Gallus gallus,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AXE75650,2,1,Anatidae,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,AYP10452,2,1,Anas platyrhynchos,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,BFY88644,2,1,Felis catus,Feline leukemia virus,Retroviridae,yes
+animal_train.csv,XCZ58594,2,1,Anatidae,Goose astrovirus,Astroviridae,yes
+animal_train.csv,XDO56842,2,1,Gallus gallus,Avian leukosis virus,Retroviridae,yes
+animal_train.csv,XFA11826,2,1,Capra hircus,Enzootic nasal tumour virus 2,Retroviridae,yes
+animal_train.csv,XHJ84831,2,1,Anatidae,Goose astrovirus,Astroviridae,yes
+animal_train.csv,XKR74939,2,1,Anatidae,Goose astrovirus 2,Astroviridae,yes
+animal_train.csv,XLZ15281,2,1,Columbidae,Orthoavulavirus javaense,Paramyxoviridae,yes
+animal_train.csv,YP_009118475,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes
+animal_train.csv,YP_009118626,2,1,Homo sapiens,Alphainfluenzavirus influenzae,Orthomyxoviridae,yes

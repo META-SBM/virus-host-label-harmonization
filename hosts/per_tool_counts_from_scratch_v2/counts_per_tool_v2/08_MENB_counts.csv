@@ -1,0 +1,10 @@
+# Tool,MENB
+# Recomputed from,"msaf127_supplementary_data.pdf, Supplementary Figure 1A (per-strain train/test table, transcribed from rendered PDF page 3) -- TRAIN counts only, this IS what the article itself headlines as its dataset"
+# Note,"Re-derived from the article's OWN supplementary dataset-composition figure. Every host-family cell in Suppl. Fig. 1A sums to exactly 300 training sequences; x4 families = 1200 train sequences per host, identical for Human/Avian/Swine."
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+"Avian (train, x4 families)",1200,Per-strain composition table (Suppl. Fig. 1A) sums to exactly 300 train sequences per host per viral family x 4 families
+"Human (train, x4 families)",1200,Per-strain composition table (Suppl. Fig. 1A) sums to exactly 300 train sequences per host per viral family x 4 families
+"Swine (train, x4 families)",1200,Per-strain composition table (Suppl. Fig. 1A) sums to exactly 300 train sequences per host per viral family x 4 families
+
+TOTAL,3600,

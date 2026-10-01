@@ -1,0 +1,18 @@
+order,tool,endpoint_id,endpoint_label,dataset_size,dataset_size_unit,counting_unit,molecule_type,molecule_detail,source_in_article,include_in_analysis
+1,DeepHoF,A,Host-taxon classification,61684,genome records,seq,nt,"nucleotide, complete genome",,yes
+2,RNAVirHost,A,Host-taxon classification,14500,sequence records,seq,nt,"nucleotide, complete genome/CDS",,yes
+3,Host Taxon Predictor,A,Host-taxon classification,5282,sequence records,seq,nt,"nucleotide, genome metadata",,yes
+4,MENB,A,Host-taxon classification,3600,train sequences,seq,nt,"nucleotide, complete genome",,yes
+5,UniVH,B,Species-level or virus-specific host association,81874,accession-pair rows,dedup,mixed,nucleotide + protein,,yes
+6,EvoMIL,B,Species-level or virus-specific host association,3869,virus-host associations,taxon,aa,protein (ESM embeddings),,yes
+7,HostNet,B,Species-level or virus-specific host association,21311,sequence records (Rabies/VIPHOD + Flavivirus combined),seq,nt,"nucleotide, accession-level",,yes
+8,VIDHOP,B,Species-level or virus-specific host association,263962,sequence records,seq,nt,"nucleotide, short fragment (100-400bp)",,yes
+9,ViralHostPredictor,C,Reservoir or vector prediction,536,virus records,taxon,nt,"nucleotide, CDS only",,yes
+10,VirHostPRED,D,Human-infectivity prediction,4254,sequence records,seq,aa,"protein (RefSeq, CD-HIT)",,yes
+11,Zoonotic rank,D,Human-infectivity prediction,1258,pathogen records,taxon,nt,"nucleotide, 1 genome/species",,yes
+12,HostClassifier,D,Human-infectivity prediction,58055,database records,taxon,meta,accession-level metadata,,no
+13,GIVAL,E,Host-adaptation scoring,121753,sequence records,seq,aa,protein (HMM/vBERT),,yes
+14,SPHAK,F,Spillover-risk prioritization,13570,training sequences,seq,aa,protein (nt tested & dropped),,yes
+15,DeePaC-vir,D,Human-infectivity prediction,9496,virus records,taxon,nt,"nucleotide, sequencing reads",,yes
+16,MosViR,C,Reservoir or vector prediction,27002,source viral sequences,seq,nt,"nucleotide, assembled contigs",,yes
+17,VPF-Class,A,Host-taxon classification,19056,protein-family profiles,profile,aa,protein (viral protein families),"Endpoint and molecule: title and Section 2.1 (host prediction from viral protein families). Dataset size is NOT from the article: it reports 731K IMG/VR contigs it was applied to, which is a different quantity from what the release contains, so the profile count in 2019_VPF_GenHost_REclassification_new.tsv is used instead",yes

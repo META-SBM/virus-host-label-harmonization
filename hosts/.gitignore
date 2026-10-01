@@ -1,0 +1,24 @@
+# The tools' raw files (~470 MB of third-party data), as a folder or a link to
+# one. Their provenance goes in instead: sources/MANIFEST.csv carries a SHA-256,
+# a DOI or URL and, where it was recorded, a retrieval date for every one of the
+# 34 files.
+raw_sources
+
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+
+# R opens a default device when a script draws outside png().
+Rplots.pdf
+
+# Superseded logs, the old draft figure and transfer bundles. The repository
+# carries one figure and the code that makes it.
+archive/
+
+# The matplotlib rendering of the same matrix: a cross-check the pipeline draws
+# on every run, not the publication figure. host_general_scheme_R.png is.
+host_general_scheme.png
+
+# Scratch tables sweep_threshold.py writes and deletes on every run.
+scripts/_sweep_*

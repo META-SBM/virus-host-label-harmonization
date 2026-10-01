@@ -1,0 +1,34 @@
+# Tool,GIVAL
+# Recomputed from,"df_AIV_before_sample.csv (121,753 sequences), host column"
+# Note,"'Mammal (unspecified)' (1199 records) further resolved by parsing the host token out of record_id (A/<host>/<location>/<strain>/<year>, standard influenza strain naming) -- the df_AIV_before_sample.csv host column itself has no finer resolution, but record_id does. Canine/Equine match the committed counts_per_tool_v2 file exactly."
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+Human,53942,MATCH (53942)
+Avian,48905,MATCH (48905)
+Swine,17486,MATCH (17486)
+Canine,624,
+Unknown (EXCL),221,MATCH (221)
+Equine,182,
+Fox,106,
+Mink,81,
+Feline,59,
+Ferret,30,
+Tiger,29,
+Raccoon dog,22,
+Skunk,19,
+Donkey,8,
+Polecat,8,
+Lion,6,
+Owston's civet,5,
+Virginia opossum,5,
+Badger,3,
+Bear,3,
+Bobcat,3,
+Bottlenose dolphin,2,
+Otter,2,
+Raccoon,2,
+Chiroptera (CHI) -- CoV post-hoc grouping,nan,"not present in this file, no released count (as originally documented)"
+Primates (PRI) -- CoV post-hoc grouping,nan,"not present in this file, no released count (as originally documented)"
+Suiformes/Artiodactyla -- CoV post-hoc grouping,nan,"not present in this file, no released count (as originally documented)"
+
+TOTAL,121753,

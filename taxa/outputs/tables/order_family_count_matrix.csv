@@ -1,0 +1,17 @@
+Tool,N_current_families,N_taxonomic_units,Algavirales,Amarillovirales,Archintovirales,Articulavirales,Asfuvirales,Baphyvirales,Blubervirales,Chitovirales,Cirlivirales,Cryppavirales,Durnavirales,Elliovirales,Geplafuvirales,Ghabrivirales,Goujianvirales,Gredzevirales,Hareavirales,Hepelivirales,Herpesvirales,Hypofuvirales,Imitervirales,Jingchuvirales,Jormunvirales,Lavidavirales,Lefavirales,Lineavirales,Martellivirales,Mividavirales,Mononegavirales,Mulpavirales,Muvirales,Naedrevirales,Nidovirales,Nodamuvirales,Ortervirales,Ourlivirales,Patatavirales,Piccovirales,Picornavirales,Pimascovirales,Polivirales,Recrevirales,Reovirales,Ringavirales,Rohanvirales,Rowavirales,Sanitavirales,Saturnivirales,Sepolyvirales,Sobelivirales,Stellavirales,Tolivirales,Tombendovirales,Tymovirales,Wolframvirales,Xenadelphovirales,Yadokarivirales,Zurhausenvirales
+DeepHoF,158,57,1,3,1,2,1,1,1,1,3,1,3,6,3,17,1,1,4,4,3,3,2,4,1,1,4,1,8,1,11,4,1,1,7,2,3,2,1,1,8,5,1,0,2,1,3,1,1,2,1,3,1,3,2,5,1,1,1,1
+RNAVirHost,97,29,0,1,0,2,0,0,1,0,0,1,3,7,0,7,1,0,6,4,0,2,0,5,0,0,0,0,7,0,11,0,1,1,10,2,2,1,1,0,8,0,0,0,2,0,0,0,0,0,0,1,1,2,0,5,1,0,1,0
+Host Taxon Predictor,79,36,0,1,0,1,0,0,1,1,1,0,2,5,2,6,0,0,3,3,2,1,0,0,0,0,2,0,6,0,8,1,0,1,4,2,2,1,1,1,6,1,0,0,2,0,0,1,1,0,1,1,1,1,0,4,1,0,0,1
+VPF-Class,28,20,1,0,0,0,1,0,1,1,1,0,0,0,1,1,0,0,0,0,3,0,1,0,0,0,3,0,0,1,0,1,0,0,0,0,2,0,0,1,0,4,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+MENB,8,5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UniVH,94,25,0,3,0,1,0,0,0,0,0,1,3,6,0,16,0,0,3,4,0,3,0,1,0,0,0,0,7,0,10,0,0,0,6,2,2,3,1,0,7,0,0,0,2,0,0,0,0,0,0,1,1,3,0,4,2,2,0,0
+EvoMIL,77,40,0,3,0,1,1,0,1,1,3,1,2,4,2,2,0,0,3,4,1,0,0,0,0,0,0,1,6,0,6,1,0,1,4,1,2,2,1,1,4,1,0,1,2,1,1,1,1,0,1,1,1,1,1,4,0,0,0,1
+VIDHOP,3,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HostNet,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MosViR,31,24,0,1,0,1,1,0,0,0,1,0,1,2,1,2,0,0,2,1,0,0,0,0,0,0,0,0,2,0,2,0,0,1,1,1,0,0,0,1,2,1,0,0,2,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0
+ViralHostPredictor,23,9,0,3,0,0,0,0,0,0,0,0,0,4,0,0,0,0,3,2,0,0,0,0,0,0,0,0,1,0,5,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+DeePaC-vir,140,51,1,3,1,2,1,1,1,1,3,0,3,5,3,17,0,1,3,4,3,2,1,3,1,1,4,0,7,1,11,3,0,1,6,2,3,1,1,1,8,4,1,0,2,0,2,1,1,2,1,3,1,3,0,5,1,1,1,1
+VirHostPRED,72,37,1,2,1,1,0,0,0,1,2,1,0,3,2,4,0,0,3,2,2,0,3,1,0,0,3,1,4,0,6,0,0,0,3,0,2,0,1,1,4,4,0,1,2,1,1,1,1,0,1,1,1,1,0,2,0,0,0,1
+Zoonotic rank model,35,21,0,1,0,1,1,0,1,1,1,0,0,3,0,0,0,0,3,2,1,0,0,0,0,0,0,0,1,0,6,0,0,0,3,0,1,0,0,1,2,0,0,0,2,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+GIVAL,3,3,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SPHAK,18,15,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,1,0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1

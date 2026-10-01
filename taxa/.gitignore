@@ -1,0 +1,14 @@
+# Raw article supplements and tool datasets: not ours to redistribute, and large.
+# data/SOURCES.csv records what they are and where they came from.
+data/input_original
+data/input_original/
+
+# Large reference tables rebuilt from the sources above.
+data/provenance/data_lineage.csv
+
+__pycache__/
+*.pyc
+.DS_Store
+
+# local scratch, not part of the pipeline
+_to_delete/

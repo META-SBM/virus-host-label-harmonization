@@ -1,0 +1,305 @@
+Row,Rank,Group,Tool,Count
+Algae,category (harmonized scheme),Algae,DeePaC-vir,48.0
+Algae,category (harmonized scheme),Algae,Host Taxon Predictor,5.0
+Algae,category (harmonized scheme),Algae,VPF-Class,615.0
+Amphibia,class (rolled up),Non-mammalian vertebrates,DeePaC-vir,20.0
+Amphibia,class (rolled up),Non-mammalian vertebrates,Host Taxon Predictor,5.0
+Amphibia,class (rolled up),Non-mammalian vertebrates,RNAVirHost,13.0
+Anas platyrhynchos,species,Non-mammalian vertebrates,DeePaC-vir,32.0
+Anas platyrhynchos,species,Non-mammalian vertebrates,EvoMIL,40.0
+Anas platyrhynchos,species,Non-mammalian vertebrates,Host Taxon Predictor,6.0
+Anas platyrhynchos,species,Non-mammalian vertebrates,RNAVirHost,50.0
+Anas platyrhynchos,species,Non-mammalian vertebrates,SPHAK,219.0
+Anas platyrhynchos,species,Non-mammalian vertebrates,VIDHOP,24996.0
+Arachnida,class (rolled up),Invertebrates,DeePaC-vir,30.0
+Arachnida,class (rolled up),Invertebrates,Host Taxon Predictor,80.0
+Arachnida,class (rolled up),Invertebrates,RNAVirHost,165.0
+Arachnida,class (rolled up),Invertebrates,UniVH,14.0
+Artiodactyla,order (rolled up),Mammals,DeePaC-vir,63.0
+Artiodactyla,order (rolled up),Mammals,Host Taxon Predictor,48.0
+Artiodactyla,order (rolled up),Mammals,RNAVirHost,124.0
+Artiodactyla,order (rolled up),Mammals,SPHAK,54.0
+Artiodactyla,order (rolled up),Mammals,UniVH,18.0
+Artiodactyla,order (rolled up),Mammals,VIDHOP,118.0
+Artiodactyla,order (rolled up),Mammals,ViralHostPredictor,64.0
+Artiodactyla,order (rolled up),Mammals,Zoonotic rank,143.0
+Aves,class (rolled up),Non-mammalian vertebrates,DeePaC-vir,172.0
+Aves,class (rolled up),Non-mammalian vertebrates,GIVAL,48905.0
+Aves,class (rolled up),Non-mammalian vertebrates,Host Taxon Predictor,91.0
+Aves,class (rolled up),Non-mammalian vertebrates,MENB,1200.0
+Aves,class (rolled up),Non-mammalian vertebrates,RNAVirHost,213.0
+Aves,class (rolled up),Non-mammalian vertebrates,SPHAK,1109.0
+Aves,class (rolled up),Non-mammalian vertebrates,UniVH,58.0
+Aves,class (rolled up),Non-mammalian vertebrates,VIDHOP,15295.0
+Aves,class (rolled up),Non-mammalian vertebrates,ViralHostPredictor,73.0
+Aves,class (rolled up),Non-mammalian vertebrates,Zoonotic rank,66.0
+Bos taurus,species,Mammals,DeePaC-vir,162.0
+Bos taurus,species,Mammals,EvoMIL,202.0
+Bos taurus,species,Mammals,Host Taxon Predictor,43.0
+Bos taurus,species,Mammals,"HostNet (Rabies, VIPHOD)",2280.0
+Bos taurus,species,Mammals,RNAVirHost,294.0
+Bos taurus,species,Mammals,SPHAK,85.0
+Bos taurus,species,Mammals,VIDHOP,3516.0
+Canis lupus,species,Mammals,DeePaC-vir,46.0
+Canis lupus,species,Mammals,EvoMIL,72.0
+Canis lupus,species,Mammals,GIVAL,624.0
+Canis lupus,species,Mammals,Host Taxon Predictor,25.0
+Canis lupus,species,Mammals,"HostNet (Rabies, VIPHOD)",5121.0
+Canis lupus,species,Mammals,RNAVirHost,60.0
+Canis lupus,species,Mammals,SPHAK,134.0
+Canis lupus,species,Mammals,VIDHOP,5566.0
+Capra hircus,species,Mammals,DeePaC-vir,17.0
+Capra hircus,species,Mammals,EvoMIL,31.0
+Capra hircus,species,Mammals,Host Taxon Predictor,2.0
+Capra hircus,species,Mammals,"HostNet (Rabies, VIPHOD)",100.0
+Capra hircus,species,Mammals,RNAVirHost,59.0
+Capra hircus,species,Mammals,SPHAK,15.0
+Capra hircus,species,Mammals,VIDHOP,120.0
+Carnivora,order (rolled up),Mammals,DeePaC-vir,81.0
+Carnivora,order (rolled up),Mammals,GIVAL,132.0
+Carnivora,order (rolled up),Mammals,Host Taxon Predictor,44.0
+Carnivora,order (rolled up),Mammals,"HostNet (Rabies, VIPHOD)",260.0
+Carnivora,order (rolled up),Mammals,RNAVirHost,105.0
+Carnivora,order (rolled up),Mammals,SPHAK,541.0
+Carnivora,order (rolled up),Mammals,UniVH,29.0
+Carnivora,order (rolled up),Mammals,VIDHOP,300.0
+Carnivora,order (rolled up),Mammals,ViralHostPredictor,43.0
+Carnivora,order (rolled up),Mammals,Zoonotic rank,62.0
+Chiroptera,order (rolled up),Mammals,DeePaC-vir,231.0
+Chiroptera,order (rolled up),Mammals,Host Taxon Predictor,113.0
+Chiroptera,order (rolled up),Mammals,"HostNet (Rabies, VIPHOD)",186.0
+Chiroptera,order (rolled up),Mammals,RNAVirHost,385.0
+Chiroptera,order (rolled up),Mammals,SPHAK,231.0
+Chiroptera,order (rolled up),Mammals,UniVH,17.0
+Chiroptera,order (rolled up),Mammals,VIDHOP,226.0
+Chiroptera,order (rolled up),Mammals,ViralHostPredictor,59.0
+Chiroptera,order (rolled up),Mammals,Zoonotic rank,70.0
+Chlorocebus aethiops,species,Mammals,DeePaC-vir,41.0
+Chlorocebus aethiops,species,Mammals,EvoMIL,108.0
+Chlorocebus aethiops,species,Mammals,Host Taxon Predictor,1.0
+Chlorocebus aethiops,species,Mammals,RNAVirHost,47.0
+Chlorocebus aethiops,species,Mammals,SPHAK,1.0
+Crustacea,subphylum,Invertebrates,DeePaC-vir,21.0
+Crustacea,subphylum,Invertebrates,Host Taxon Predictor,43.0
+Crustacea,subphylum,Invertebrates,RNAVirHost,42.0
+Crustacea,subphylum,Invertebrates,SPHAK,12.0
+Culicidae,family,Invertebrates,DeePaC-vir,123.0
+Culicidae,family,Invertebrates,EvoMIL,36.0
+Culicidae,family,Invertebrates,Host Taxon Predictor,137.0
+Culicidae,family,Invertebrates,HostNet (Flavivirus),9253.0
+Culicidae,family,Invertebrates,MosViR,2391.0
+Culicidae,family,Invertebrates,RNAVirHost,415.0
+Culicidae,family,Invertebrates,SPHAK,2.0
+Culicidae,family,Invertebrates,VPF-Class,1.0
+Culicidae,family,Invertebrates,ViralHostPredictor,75.0
+Desmodus rotundus,species,Mammals,DeePaC-vir,3.0
+Desmodus rotundus,species,Mammals,Host Taxon Predictor,3.0
+Desmodus rotundus,species,Mammals,"HostNet (Rabies, VIPHOD)",164.0
+Desmodus rotundus,species,Mammals,RNAVirHost,6.0
+Desmodus rotundus,species,Mammals,VIDHOP,184.0
+Eptesicus fuscus,species,Mammals,DeePaC-vir,3.0
+Eptesicus fuscus,species,Mammals,Host Taxon Predictor,1.0
+Eptesicus fuscus,species,Mammals,"HostNet (Rabies, VIPHOD)",460.0
+Eptesicus fuscus,species,Mammals,RNAVirHost,8.0
+Eptesicus fuscus,species,Mammals,VIDHOP,480.0
+Equus caballus,species,Mammals,DeePaC-vir,33.0
+Equus caballus,species,Mammals,EvoMIL,54.0
+Equus caballus,species,Mammals,GIVAL,182.0
+Equus caballus,species,Mammals,Host Taxon Predictor,10.0
+Equus caballus,species,Mammals,"HostNet (Rabies, VIPHOD)",118.0
+Equus caballus,species,Mammals,RNAVirHost,82.0
+Equus caballus,species,Mammals,SPHAK,71.0
+Equus caballus,species,Mammals,VIDHOP,2469.0
+Felis catus,species,Mammals,DeePaC-vir,45.0
+Felis catus,species,Mammals,EvoMIL,57.0
+Felis catus,species,Mammals,GIVAL,59.0
+Felis catus,species,Mammals,Host Taxon Predictor,12.0
+Felis catus,species,Mammals,"HostNet (Rabies, VIPHOD)",259.0
+Felis catus,species,Mammals,RNAVirHost,83.0
+Felis catus,species,Mammals,SPHAK,123.0
+Felis catus,species,Mammals,VIDHOP,279.0
+Fish,category (harmonized scheme),Non-mammalian vertebrates,DeePaC-vir,100.0
+Fish,category (harmonized scheme),Non-mammalian vertebrates,Host Taxon Predictor,87.0
+Fish,category (harmonized scheme),Non-mammalian vertebrates,RNAVirHost,406.0
+Fish,category (harmonized scheme),Non-mammalian vertebrates,SPHAK,5.0
+Fish,category (harmonized scheme),Non-mammalian vertebrates,UniVH,42.0
+Fish,category (harmonized scheme),Non-mammalian vertebrates,ViralHostPredictor,19.0
+Fish,category (harmonized scheme),Non-mammalian vertebrates,Zoonotic rank,39.0
+Fungi,category (harmonized scheme),Fungi,DeePaC-vir,285.0
+Fungi,category (harmonized scheme),Fungi,Host Taxon Predictor,241.0
+Fungi,category (harmonized scheme),Fungi,RNAVirHost,898.0
+Fungi,category (harmonized scheme),Fungi,UniVH,100.0
+Fungi,category (harmonized scheme),Fungi,Zoonotic rank,3.0
+Gallus gallus,species,Non-mammalian vertebrates,DeePaC-vir,71.0
+Gallus gallus,species,Non-mammalian vertebrates,EvoMIL,109.0
+Gallus gallus,species,Non-mammalian vertebrates,Host Taxon Predictor,62.0
+Gallus gallus,species,Non-mammalian vertebrates,RNAVirHost,269.0
+Gallus gallus,species,Non-mammalian vertebrates,SPHAK,922.0
+Gallus gallus,species,Non-mammalian vertebrates,VIDHOP,27229.0
+Homo sapiens,species,Mammals,DeePaC-vir,1309.0
+Homo sapiens,species,Mammals,DeepHoF,32464.0
+Homo sapiens,species,Mammals,EvoMIL,1321.0
+Homo sapiens,species,Mammals,GIVAL,53942.0
+Homo sapiens,species,Mammals,Host Taxon Predictor,188.0
+Homo sapiens,species,Mammals,"HostNet (Rabies, VIPHOD)",478.0
+Homo sapiens,species,Mammals,MENB,1200.0
+Homo sapiens,species,Mammals,RNAVirHost,4338.0
+Homo sapiens,species,Mammals,SPHAK,5480.0
+Homo sapiens,species,Mammals,UniVH,1.0
+Homo sapiens,species,Mammals,VIDHOP,136031.0
+Homo sapiens,species,Mammals,VPF-Class,1247.0
+Homo sapiens,species,Mammals,VirHostPRED,2127.0
+Homo sapiens,species,Mammals,Zoonotic rank,113.0
+Humans + non-human primates,category (harmonized scheme),Mammals,ViralHostPredictor,55.0
+Insects,category (harmonized scheme),Invertebrates,DeePaC-vir,523.0
+Insects,category (harmonized scheme),Invertebrates,Host Taxon Predictor,530.0
+Insects,category (harmonized scheme),Invertebrates,RNAVirHost,1183.0
+Insects,category (harmonized scheme),Invertebrates,SPHAK,1.0
+Insects,category (harmonized scheme),Invertebrates,UniVH,62.0
+Insects,category (harmonized scheme),Invertebrates,VPF-Class,68.0
+Insects,category (harmonized scheme),Invertebrates,ViralHostPredictor,65.0
+Insects,category (harmonized scheme),Invertebrates,Zoonotic rank,67.0
+Ixodida,order,Invertebrates,DeePaC-vir,44.0
+Ixodida,order,Invertebrates,Host Taxon Predictor,69.0
+Ixodida,order,Invertebrates,HostNet (Flavivirus),373.0
+Ixodida,order,Invertebrates,RNAVirHost,126.0
+Ixodida,order,Invertebrates,SPHAK,3.0
+Ixodida,order,Invertebrates,ViralHostPredictor,20.0
+Macaca mulatta,species,Mammals,DeePaC-vir,40.0
+Macaca mulatta,species,Mammals,EvoMIL,73.0
+Macaca mulatta,species,Mammals,Host Taxon Predictor,3.0
+Macaca mulatta,species,Mammals,RNAVirHost,65.0
+Macaca mulatta,species,Mammals,SPHAK,10.0
+Meleagris gallopavo,species,Non-mammalian vertebrates,DeePaC-vir,23.0
+Meleagris gallopavo,species,Non-mammalian vertebrates,Host Taxon Predictor,7.0
+Meleagris gallopavo,species,Non-mammalian vertebrates,RNAVirHost,13.0
+Meleagris gallopavo,species,Non-mammalian vertebrates,SPHAK,74.0
+Meleagris gallopavo,species,Non-mammalian vertebrates,VIDHOP,2123.0
+Mephitis mephitis,species,Mammals,DeePaC-vir,1.0
+Mephitis mephitis,species,Mammals,GIVAL,19.0
+Mephitis mephitis,species,Mammals,Host Taxon Predictor,1.0
+Mephitis mephitis,species,Mammals,"HostNet (Rabies, VIPHOD)",672.0
+Mephitis mephitis,species,Mammals,VIDHOP,692.0
+Mesocricetus auratus,species,Mammals,DeePaC-vir,11.0
+Mesocricetus auratus,species,Mammals,EvoMIL,42.0
+Mesocricetus auratus,species,Mammals,Host Taxon Predictor,2.0
+Mesocricetus auratus,species,Mammals,RNAVirHost,15.0
+Mesocricetus auratus,species,Mammals,SPHAK,2.0
+Mus musculus,species,Mammals,DeePaC-vir,71.0
+Mus musculus,species,Mammals,EvoMIL,174.0
+Mus musculus,species,Mammals,Host Taxon Predictor,7.0
+Mus musculus,species,Mammals,RNAVirHost,74.0
+Mus musculus,species,Mammals,SPHAK,13.0
+Mustela putorius,species,Mammals,DeePaC-vir,5.0
+Mustela putorius,species,Mammals,GIVAL,38.0
+Mustela putorius,species,Mammals,Host Taxon Predictor,3.0
+Mustela putorius,species,Mammals,RNAVirHost,8.0
+Mustela putorius,species,Mammals,SPHAK,2.0
+Non-human (undifferentiated),category (harmonized scheme),Mammals,VirHostPRED,2127.0
+Non-human primates,category (harmonized scheme),Mammals,DeePaC-vir,86.0
+Non-human primates,category (harmonized scheme),Mammals,Host Taxon Predictor,71.0
+Non-human primates,category (harmonized scheme),Mammals,RNAVirHost,184.0
+Non-human primates,category (harmonized scheme),Mammals,SPHAK,26.0
+Non-human primates,category (harmonized scheme),Mammals,UniVH,18.0
+Non-human primates,category (harmonized scheme),Mammals,Zoonotic rank,69.0
+Nyctereutes procyonoides,species,Mammals,DeePaC-vir,1.0
+Nyctereutes procyonoides,species,Mammals,GIVAL,22.0
+Nyctereutes procyonoides,species,Mammals,Host Taxon Predictor,1.0
+Nyctereutes procyonoides,species,Mammals,"HostNet (Rabies, VIPHOD)",101.0
+Nyctereutes procyonoides,species,Mammals,SPHAK,2.0
+Nyctereutes procyonoides,species,Mammals,VIDHOP,121.0
+Other invertebrates,category (harmonized scheme),Invertebrates,DeePaC-vir,107.0
+Other invertebrates,category (harmonized scheme),Invertebrates,DeepHoF,7424.0
+Other invertebrates,category (harmonized scheme),Invertebrates,Host Taxon Predictor,603.0
+Other invertebrates,category (harmonized scheme),Invertebrates,RNAVirHost,109.0
+Other invertebrates,category (harmonized scheme),Invertebrates,SPHAK,1.0
+Other invertebrates,category (harmonized scheme),Invertebrates,UniVH,231.0
+Other invertebrates,category (harmonized scheme),Invertebrates,Zoonotic rank,2.0
+Other mammals,category (harmonized scheme),Mammals,DeePaC-vir,243.0
+Other mammals,category (harmonized scheme),Mammals,GIVAL,15.0
+Other mammals,category (harmonized scheme),Mammals,Host Taxon Predictor,114.0
+Other mammals,category (harmonized scheme),Mammals,RNAVirHost,331.0
+Other mammals,category (harmonized scheme),Mammals,SPHAK,113.0
+Other mammals,category (harmonized scheme),Mammals,UniVH,14.0
+Other mammals,category (harmonized scheme),Mammals,ViralHostPredictor,20.0
+Other mammals,category (harmonized scheme),Mammals,Zoonotic rank,64.0
+Ovis aries,species,Mammals,DeePaC-vir,29.0
+Ovis aries,species,Mammals,EvoMIL,51.0
+Ovis aries,species,Mammals,Host Taxon Predictor,9.0
+Ovis aries,species,Mammals,RNAVirHost,51.0
+Ovis aries,species,Mammals,SPHAK,2.0
+Pan troglodytes,species,Mammals,DeePaC-vir,33.0
+Pan troglodytes,species,Mammals,EvoMIL,45.0
+Pan troglodytes,species,Mammals,Host Taxon Predictor,18.0
+Pan troglodytes,species,Mammals,RNAVirHost,26.0
+Pan troglodytes,species,Mammals,SPHAK,10.0
+Plantae,kingdom (rolled up),Plants,DeePaC-vir,1794.0
+Plantae,kingdom (rolled up),Plants,DeepHoF,4787.0
+Plantae,kingdom (rolled up),Plants,EvoMIL,1187.0
+Plantae,kingdom (rolled up),Plants,Host Taxon Predictor,1158.0
+Plantae,kingdom (rolled up),Plants,RNAVirHost,5508.0
+Plantae,kingdom (rolled up),Plants,SPHAK,3476.0
+Plantae,kingdom (rolled up),Plants,UniVH,113.0
+Plantae,kingdom (rolled up),Plants,VPF-Class,10.0
+Plantae,kingdom (rolled up),Plants,ViralHostPredictor,21.0
+Plantae,kingdom (rolled up),Plants,Zoonotic rank,61.0
+Procyon lotor,species,Mammals,DeePaC-vir,4.0
+Procyon lotor,species,Mammals,GIVAL,2.0
+Procyon lotor,species,Mammals,Host Taxon Predictor,2.0
+Procyon lotor,species,Mammals,"HostNet (Rabies, VIPHOD)",558.0
+Procyon lotor,species,Mammals,RNAVirHost,1.0
+Procyon lotor,species,Mammals,SPHAK,1.0
+Procyon lotor,species,Mammals,VIDHOP,578.0
+Protists & oomycetes,category (harmonized scheme),Protists & oomycetes,DeePaC-vir,64.0
+Protists & oomycetes,category (harmonized scheme),Protists & oomycetes,Host Taxon Predictor,13.0
+Rattus norvegicus,species,Mammals,DeePaC-vir,23.0
+Rattus norvegicus,species,Mammals,EvoMIL,48.0
+Rattus norvegicus,species,Mammals,Host Taxon Predictor,15.0
+Rattus norvegicus,species,Mammals,RNAVirHost,67.0
+Rattus norvegicus,species,Mammals,SPHAK,10.0
+Reptilia,class (rolled up),Non-mammalian vertebrates,DeePaC-vir,41.0
+Reptilia,class (rolled up),Non-mammalian vertebrates,Host Taxon Predictor,32.0
+Reptilia,class (rolled up),Non-mammalian vertebrates,RNAVirHost,171.0
+Reptilia,class (rolled up),Non-mammalian vertebrates,UniVH,2.0
+Reptilia,class (rolled up),Non-mammalian vertebrates,ViralHostPredictor,8.0
+Reptilia,class (rolled up),Non-mammalian vertebrates,Zoonotic rank,17.0
+Rodentia,order (rolled up),Mammals,DeePaC-vir,167.0
+Rodentia,order (rolled up),Mammals,Host Taxon Predictor,79.0
+Rodentia,order (rolled up),Mammals,RNAVirHost,527.0
+Rodentia,order (rolled up),Mammals,SPHAK,51.0
+Rodentia,order (rolled up),Mammals,UniVH,17.0
+Rodentia,order (rolled up),Mammals,VPF-Class,54.0
+Rodentia,order (rolled up),Mammals,ViralHostPredictor,83.0
+Rodentia,order (rolled up),Mammals,Zoonotic rank,138.0
+Struthio camelus,species,Non-mammalian vertebrates,DeePaC-vir,2.0
+Struthio camelus,species,Non-mammalian vertebrates,Host Taxon Predictor,1.0
+Struthio camelus,species,Non-mammalian vertebrates,RNAVirHost,1.0
+Struthio camelus,species,Non-mammalian vertebrates,SPHAK,5.0
+Struthio camelus,species,Non-mammalian vertebrates,VIDHOP,231.0
+Sus scrofa,species,Mammals,DeePaC-vir,166.0
+Sus scrofa,species,Mammals,EvoMIL,219.0
+Sus scrofa,species,Mammals,GIVAL,17486.0
+Sus scrofa,species,Mammals,Host Taxon Predictor,64.0
+Sus scrofa,species,Mammals,MENB,1200.0
+Sus scrofa,species,Mammals,RNAVirHost,536.0
+Sus scrofa,species,Mammals,SPHAK,762.0
+Sus scrofa,species,Mammals,VIDHOP,42440.0
+Tadarida brasiliensis,species,Mammals,DeePaC-vir,3.0
+Tadarida brasiliensis,species,Mammals,Host Taxon Predictor,4.0
+Tadarida brasiliensis,species,Mammals,"HostNet (Rabies, VIPHOD)",245.0
+Tadarida brasiliensis,species,Mammals,SPHAK,2.0
+Tadarida brasiliensis,species,Mammals,VIDHOP,265.0
+Unknown host,category (harmonized scheme),Unknown/Excluded,DeePaC-vir,1.0
+Unknown host,category (harmonized scheme),Unknown/Excluded,DeepHoF,9.0
+Unknown host,category (harmonized scheme),Unknown/Excluded,Host Taxon Predictor,5.0
+Unknown host,category (harmonized scheme),Unknown/Excluded,ViralHostPredictor,69.0
+Unresolved vertebrates,category (harmonized scheme),Non-mammalian vertebrates,DeePaC-vir,4.0
+Unresolved vertebrates,category (harmonized scheme),Non-mammalian vertebrates,DeepHoF,10245.0
+Unresolved vertebrates,category (harmonized scheme),Non-mammalian vertebrates,Host Taxon Predictor,4.0
+Unresolved vertebrates,category (harmonized scheme),Non-mammalian vertebrates,MosViR,24611.0
+Vulpes vulpes,species,Mammals,DeePaC-vir,2.0
+Vulpes vulpes,species,Mammals,GIVAL,106.0
+Vulpes vulpes,species,Mammals,Host Taxon Predictor,1.0
+Vulpes vulpes,species,Mammals,"HostNet (Rabies, VIPHOD)",683.0
+Vulpes vulpes,species,Mammals,RNAVirHost,5.0
+Vulpes vulpes,species,Mammals,VIDHOP,703.0

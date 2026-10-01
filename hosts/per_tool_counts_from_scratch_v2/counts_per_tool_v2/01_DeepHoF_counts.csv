@@ -1,0 +1,13 @@
+# Tool,DeepHoF
+# Recomputed from,"41598_2021_96903_MOESM5_ESM.xlsx (train_genome_info + test_genome_info sheets, Host column, 61,684 total genome records)"
+# Note,"human/non-human vertebrate mutually exclusive (human wins); invertebrate/plant/germ each counted independently of every other tag (incl. human) -- up to 4 of 5 categories can include the same record, 5,256 of 61,684 records counted 2-3x. See Potential_double_count in label_categories.csv. germ is DeepHoF's residual microbial class (11,529 of 12,020 records are viruses of bacteria or archaea, 491 of fungi, protists and algae -- see scripts/resolve_germ.py) and is excluded as non-eukaryotic."
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+human,32464,MATCH (32464)
+"germ (microbial hosts, EXCL)",12020,MATCH (12020)
+non-human vertebrate,10245,MATCH (10245)
+invertebrate,7424,MATCH (7424)
+plant,4787,MATCH (4787)
+- (untagged),9,"MATCH (9) -- Unknown host, previously silently dropped"
+
+TOTAL,66949,

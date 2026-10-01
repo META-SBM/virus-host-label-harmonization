@@ -1,0 +1,8 @@
+Question,Answer,Detail
+Is there a countable record unit?,no,"a row is a protein-family profile, not a virus, a sequence or a virus-host pair; the three host tables do not even cover the same profiles (DomHost 23,543, FamHost 19,782, GenHost 19,056)"
+Does a profile name one host?,no,"median 8 families and 8 genera per profile, up to 61 and 82"
+Can the percentages stand in for counts?,no,"they are shares of a profile's hits: median 1.6% on the 16,595 Eukaryota rows, and 3.2% even in the best-supported hit-count tier"
+Do the three rank tables nest?,no,"each rank is reclassified independently, so 219 of the 1,064 profiles at Eukaryota 100% carry a bacterial family in the family table -- e.g. 3300000271___PBR_1003569_2_2: Hominidae 67%, Streptococcaceae 33%"
+Can profiles be grouped back into virus-level records?,no,"only 10,685 of 23,543 profiles carry a genome accession, and 979 of the 1,303 genomes they name (75%) have profiles that disagree on the host domain"
+Is the corpus within a eukaryotic-host review?,mostly not,"dominant domain per profile: Bacteria 20,685, Eukaryota 2,612, Archaea 246"
+Are the virus-taxonomy tables usable as they stand?,not directly,"same shape (median 4 families per profile), and the three commonest families are the morphological Caudovirales families ICTV abolished in 2021 (Myoviridae 18,178, Siphoviridae 17,316, Podoviridae 13,791)"

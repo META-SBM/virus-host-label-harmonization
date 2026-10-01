@@ -1,0 +1,1316 @@
+Host entity,Rank,Lineage,Figure category,Why,Vector axis,Dataset instances,Records,DeePaC-vir,DeepHoF,EvoMIL,GIVAL,Host Taxon Predictor,HostNet (Flavivirus),"HostNet (Rabies, VIPHOD)",MENB,MosViR,RNAVirHost,SPHAK,UniVH,VIDHOP,VPF-Class,VirHostPRED,ViralHostPredictor,Zoonotic rank
+Artiodactyla,order,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,3,225,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,64,143
+Ungulates  (not resolved to species),not species-resolved,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,4,136,17,0,0,0,21,0,0,0,0,86,12,0,0,0,0,0,0
+Vicugna pacos,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,4,123,3,0,0,0,1,0,0,0,0,1,0,0,118,0,0,0,0
+Camelus dromedarius,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,4,63,14,0,0,0,5,0,0,0,0,9,35,0,0,0,0,0,0
+Bos grunniens,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,4,14,7,0,0,0,1,0,0,0,0,3,3,0,0,0,0,0,0
+Odocoileus hemionus,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,3,14,4,0,0,0,1,0,0,0,0,9,0,0,0,0,0,0,0
+Cervidae,family,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,2,12,2,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+Capreolus capreolus,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,4,8,2,0,0,0,1,0,0,0,0,3,2,0,0,0,0,0,0
+Giraffa camelopardalis,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,3,8,5,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Rupicapra rupicapra,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,3,6,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Bubalus bubalis,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Camelus bactrianus,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Delphinapterus leucas,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Lama glama,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Rangifer tarandus,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Bos javanicus,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Dama dama,species,Mammals,Artiodactyla,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bos taurus,species,Mammals,Bos taurus,Named by >=6 instances; drawn as its own row,,7,6582,162,0,202,0,43,0,2280,0,0,294,85,0,3516,0,0,0,0
+Canis lupus,species,Mammals,Canis lupus,Named by >=6 instances; drawn as its own row,,8,11648,46,0,72,624,25,0,5121,0,0,60,134,0,5566,0,0,0,0
+Capra hircus,species,Mammals,Capra hircus,Named by >=6 instances; drawn as its own row,,7,344,17,0,31,0,2,0,100,0,0,59,15,0,120,0,0,0,0
+Vulpes lagopus,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,2,376,0,0,0,0,0,0,178,0,0,0,0,0,198,0,0,0,0
+Leptonychotes weddellii,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,3,305,9,0,0,0,3,0,0,0,0,0,293,0,0,0,0,0,0
+Cerdocyon thous,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,4,187,0,0,0,0,0,0,82,0,0,2,1,0,102,0,0,0,0
+Carnivores  (not resolved to species),not species-resolved,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,4,135,11,0,0,0,8,0,0,0,0,25,91,0,0,0,0,0,0
+Carnivora,order,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,3,134,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,43,62
+Lynx rufus,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,4,98,1,0,0,3,0,0,0,0,0,5,89,0,0,0,0,0,0
+Neovison vison,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,3,85,3,0,0,81,0,0,0,0,0,1,0,0,0,0,0,0,0
+Feliformia,suborder,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,2,38,5,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0
+Panthera tigris,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,2,38,0,0,0,29,0,0,0,0,0,0,9,0,0,0,0,0,0
+Zalophus californianus,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,3,32,10,0,0,0,6,0,0,0,0,16,0,0,0,0,0,0,0
+Mustela lutreola,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,3,29,3,0,0,0,0,0,0,0,0,1,25,0,0,0,0,0,0
+Puma concolor,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,3,26,2,0,0,0,0,0,0,0,0,6,18,0,0,0,0,0,0
+Phoca vitulina,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,4,24,7,0,0,0,6,0,0,0,0,6,5,0,0,0,0,0,0
+Ailuropoda melanoleuca,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,4,20,13,0,0,0,1,0,0,0,0,2,4,0,0,0,0,0,0
+Viverridae,family,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,2,15,0,0,0,5,10,0,0,0,0,0,0,0,0,0,0,0,0
+Meles meles,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,4,12,5,0,0,3,2,0,0,0,0,0,2,0,0,0,0,0,0
+Panthera leo,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,3,12,2,0,0,6,0,0,0,0,0,4,0,0,0,0,0,0,0
+Herpestes ichneumon,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,2,8,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Arctocephalus gazella,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,4,7,1,0,0,0,1,0,0,0,0,1,4,0,0,0,0,0,0
+Ailurus fulgens,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,3,6,3,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Civettictis civetta,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Ursidae,family,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,1,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lutrinae,subfamily,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odobenus rosmarus,species,Mammals,Carnivora,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Lasiurus borealis,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,212,0,0,0,0,0,0,96,0,0,0,0,0,116,0,0,0,0
+Artibeus lituratus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,201,0,0,0,0,0,0,90,0,0,1,0,0,110,0,0,0,0
+Chiroptera,order,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,198,52,0,0,0,0,0,0,0,0,0,0,17,0,0,0,59,70
+Bats  (not resolved to species),not species-resolved,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,182,27,0,0,0,14,0,0,0,0,102,39,0,0,0,0,0,0
+Eidolon helvum,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,66,19,0,0,0,18,0,0,0,0,28,1,0,0,0,0,0,0
+Rhinolophus sinicus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,52,10,0,0,0,5,0,0,0,0,19,18,0,0,0,0,0,0
+Miniopterus schreibersii,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,50,13,0,0,0,5,0,0,0,0,28,4,0,0,0,0,0,0
+Scotophilus kuhlii,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,46,1,0,0,0,0,0,0,0,0,17,28,0,0,0,0,0,0
+Rhinolophus ferrumequinum,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,37,13,0,0,0,3,0,0,0,0,9,12,0,0,0,0,0,0
+Rhinolophus affinis,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,35,2,0,0,0,0,0,0,0,0,10,23,0,0,0,0,0,0
+Pipistrellus abramus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,33,0,0,0,0,0,0,0,0,0,7,26,0,0,0,0,0,0
+Rousettus aegyptiacus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,30,5,0,0,0,7,0,0,0,0,18,0,0,0,0,0,0,0
+Rousettus leschenaultii,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,30,8,0,0,0,12,0,0,0,0,10,0,0,0,0,0,0,0
+Pteropus scapulatus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,24,2,0,0,0,11,0,0,0,0,11,0,0,0,0,0,0,0
+Rhinolophus pusillus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,24,5,0,0,0,0,0,0,0,0,6,13,0,0,0,0,0,0
+Myotis ricketti,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,23,5,0,0,0,3,0,0,0,0,4,11,0,0,0,0,0,0
+Tylonycteris pachypus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,19,2,0,0,0,0,0,0,0,0,1,16,0,0,0,0,0,0
+Miniopterus fuliginosus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,17,5,0,0,0,1,0,0,0,0,6,5,0,0,0,0,0,0
+Hipposideros pomona,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,15,2,0,0,0,0,0,0,0,0,7,6,0,0,0,0,0,0
+Eptesicus serotinus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,11,4,0,0,0,2,0,0,0,0,3,2,0,0,0,0,0,0
+Hipposideros armiger,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,10,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,0,0
+Myotis daubentonii,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,10,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,0,0
+Hipposideros larvatus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,9,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0
+Pipistrellus pipistrellus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,9,3,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0
+Carollia perspicillata,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,8,3,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Molossus molossus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,8,6,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Otomops martiensseni,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,8,3,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0
+Pteropus giganteus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,8,2,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0
+Myotis lucifugus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,7,3,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Rhinolophus malayanus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,7,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,0,0
+Rousettus amplexicaudatus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Cynopterus brachyotis,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,6,3,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+Myotis davidii,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,6,1,0,0,0,1,0,0,0,0,3,1,0,0,0,0,0,0
+Sturnira lilium,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,6,3,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Miniopterus pusillus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,5,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Murina leucogaster,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Myotis laniger,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,5,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0
+Pteronotus parnellii,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,5,2,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Vespertilio sinensis,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,4,5,2,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+Chaerephon plicatus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+Hipposideros cineraceus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+Hipposideros vittatus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Miniopterus magnater,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Nyctalus velutinus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Pteropus hypomelanus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Rhinolophus blasii,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Rhinolophus hipposideros,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Rhinolophus stheno,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Rousettus madagascariensis,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Triaenops afer,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Hipposideros pratti,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Hypsugo pulveratus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Myotis yumanensis,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Rhinolophus alcyone,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Rhinolophus cornutus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Rhinolophus eloquens,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Uroderma bilobatum,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Coleura afra,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Myotis blythii,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Myotis mystacinus,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Myotis sp.,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Myotis velifer,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Rousettus sp.,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Scotophilus dinganii,species,Mammals,Chiroptera,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Chlorocebus aethiops,species,Mammals,Chlorocebus aethiops,Named by >=6 instances; drawn as its own row,,5,198,41,0,108,0,1,0,0,0,0,47,1,0,0,0,0,0,0
+Desmodus rotundus,species,Mammals,Desmodus rotundus,Named by >=6 instances; drawn as its own row,,5,360,3,0,0,0,3,0,164,0,0,6,0,0,184,0,0,0,0
+Eptesicus fuscus,species,Mammals,Eptesicus fuscus,Named by >=6 instances; drawn as its own row,,5,952,3,0,0,0,1,0,460,0,0,8,0,0,480,0,0,0,0
+Equus caballus,species,Mammals,Equus caballus,Named by >=6 instances; drawn as its own row,,8,3019,33,0,54,182,10,0,118,0,0,82,71,0,2469,0,0,0,0
+Felis catus,species,Mammals,Felis catus,Named by >=6 instances; drawn as its own row,,8,917,45,0,57,59,12,0,259,0,0,83,123,0,279,0,0,0,0
+Homo sapiens,species,Mammals,Homo sapiens,Named by >=6 instances; drawn as its own row,,14,240239,1309,32464,1321,53942,188,0,478,1200,0,4338,5480,1,136031,1247,2127,0,113
+Humans + non-human primates  (not resolved to species),not species-resolved,Mammals,Humans + non-human primates,Grouped under its harmonized category as it stands,,1,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0
+Macaca mulatta,species,Mammals,Macaca mulatta,Named by >=6 instances; drawn as its own row,,5,191,40,0,73,0,3,0,0,0,0,65,10,0,0,0,0,0,0
+Mephitis mephitis,species,Mammals,Mephitis mephitis,Named by >=6 instances; drawn as its own row,,5,1385,1,0,0,19,1,0,672,0,0,0,0,0,692,0,0,0,0
+Mesocricetus auratus,species,Mammals,Mesocricetus auratus,Named by >=6 instances; drawn as its own row,,5,72,11,0,42,0,2,0,0,0,0,15,2,0,0,0,0,0,0
+Mus musculus,species,Mammals,Mus musculus,Named by >=6 instances; drawn as its own row,,5,339,71,0,174,0,7,0,0,0,0,74,13,0,0,0,0,0,0
+Mustela putorius,species,Mammals,Mustela putorius,Named by >=6 instances; drawn as its own row,,5,56,5,0,0,38,3,0,0,0,0,8,2,0,0,0,0,0,0
+Non-human (undifferentiated)  (not resolved to species),not species-resolved,Mammals,Non-human (undifferentiated),Grouped under its harmonized category as it stands,,1,2127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2127,0,0
+Non-human primates  (not resolved to species),not species-resolved,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,6,189,17,0,0,0,11,0,0,0,0,61,13,18,0,0,0,0,69
+Macaca fascicularis,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,4,42,20,0,0,0,6,0,0,0,0,10,6,0,0,0,0,0,0
+Papio cynocephalus,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,39,6,0,0,0,11,0,0,0,0,22,0,0,0,0,0,0,0
+Chlorocebus (genus),genus,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,27,0,0,0,0,1,0,0,0,0,26,0,0,0,0,0,0,0
+Chlorocebus pygerythrus,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,19,4,0,0,0,4,0,0,0,0,11,0,0,0,0,0,0,0
+Gorilla gorilla,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,4,18,6,0,0,0,3,0,0,0,0,7,2,0,0,0,0,0,0
+Chlorocebus sabaeus,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,13,1,0,0,0,6,0,0,0,0,6,0,0,0,0,0,0,0
+Papio anubis,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,12,5,0,0,0,1,0,0,0,0,6,0,0,0,0,0,0,0
+Cebus apella,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,11,0,0,0,0,10,0,0,0,0,1,0,0,0,0,0,0,0
+Mandrillus sphinx,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,11,2,0,0,0,2,0,0,0,0,7,0,0,0,0,0,0,0
+Piliocolobus tephrosceles,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,9,3,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Macaca (genus),genus,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,6,2,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Colobus guereza,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,5,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Lemur catta,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,5,2,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Varecia variegata,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,4,5,1,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0
+Cercopithecus ascanius,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Cercopithecus mona,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Cercopithecus neglectus,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Macaca fuscata,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,4,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Pan paniscus,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,4,1,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+Papio hamadryas,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,4,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Saimiri boliviensis,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,3,4,1,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Cercocebus torquatus,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Ateles sp.,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Cercopithecus mitis,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Erythrocebus patas,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Indri indri,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Otolemur crassicaudatus,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Piliocolobus rufomitratus,species,Mammals,Non-human primates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Nyctereutes procyonoides,species,Mammals,Nyctereutes procyonoides,Named by >=6 instances; drawn as its own row,,6,248,1,0,0,22,1,0,101,0,0,0,2,0,121,0,0,0,0
+Other mammals  (not resolved to species),not species-resolved,Mammals,Other mammals,Grouped under its harmonized category as it stands,,7,192,56,0,0,5,2,0,0,0,0,0,31,14,0,0,0,20,64
+Other/unresolved mammals  (not resolved to species),not species-resolved,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,63,3,0,0,0,18,0,0,0,0,42,0,0,0,0,0,0,0
+Oryctolagus cuniculus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,4,59,16,0,0,0,5,0,0,0,0,37,1,0,0,0,0,0,0
+Lynx canadensis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,34,3,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0
+Talpa europaea,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,28,3,0,0,0,6,0,0,0,0,19,0,0,0,0,0,0,0
+Odocoileus virginianus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,25,4,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0
+Erinaceus europaeus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,4,23,3,0,0,0,3,0,0,0,0,11,6,0,0,0,0,0,0
+Manis (genus),genus,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,1,21,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0
+Sapajus apella,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,20,5,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0
+Tursiops truncatus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,4,20,9,0,0,0,2,0,0,0,0,2,7,0,0,0,0,0,0
+Equus asinus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,4,16,2,0,0,8,1,0,0,0,0,5,0,0,0,0,0,0,0
+Paguma larvata,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,13,3,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+Callithrix jacchus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,12,4,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+Crocidura hirta,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,12,8,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0
+Phascolarctos cinereus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,4,12,1,0,0,0,1,0,0,0,0,4,6,0,0,0,0,0,0
+Antilocapra americana,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,11,1,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+Crocidura shantungensis,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,11,1,0,0,0,3,0,0,0,0,7,0,0,0,0,0,0,0
+Lepus granatensis,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,11,0,0,0,0,0,0,0,0,0,1,10,0,0,0,0,0,0
+Trichosurus vulpecula,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,11,3,0,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0
+Caluromys philander,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,10,0,0,0,0,3,0,0,0,0,7,0,0,0,0,0,0,0
+Crocidura lasiura,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,10,1,0,0,0,3,0,0,0,0,6,0,0,0,0,0,0,0
+Phocoena phocoena,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,4,10,3,0,0,0,3,0,0,0,0,3,1,0,0,0,0,0,0
+Sorex araneus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,10,1,0,0,0,1,0,0,0,0,8,0,0,0,0,0,0,0
+Suncus murinus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,4,10,2,0,0,0,2,0,0,0,0,4,2,0,0,0,0,0,0
+Anourosorex squamipes,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,9,1,0,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0
+Lepus europaeus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,9,2,0,0,0,1,0,0,0,0,6,0,0,0,0,0,0,0
+Trichechus manatus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,8,4,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0
+Crocidura douceti,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Enhydra lutris,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,7,4,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Macaca nemestrina,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,7,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Oryzomys sp.,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,7,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Sorex roboratus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Tupaia belangeri,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,7,4,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Dobsonia moluccensis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,6,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Hipposideros gigas,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,6,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Pteropus sp.,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,6,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Choloepus didactylus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0
+Equus ferus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,5,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Lagenorhynchus albirostris,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,4,5,1,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0
+Manis javanica,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,5,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0
+Myotis myotis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Pongo pygmaeus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,5,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Saimiri sciureus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,5,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Taphozous melanopogon,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Aotus trivirgatus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Arctocephalus forsteri,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Budorcas taxicolor,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Cervus elaphus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,4,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Delphinus delphis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,3,4,2,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Equus asinus x Equus caballus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Erethizon dorsatum,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Hipposideros commersoni,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Pteropus vampyrus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Scalopus aquaticus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Acerodon celebensis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cavia porcellus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Crocidura olivieri,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Erinaceus amurensis,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Microtus oeconomus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Mops condylurus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Papio ursinus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Phocoena spinipinnis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Phodopus sungorus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Rhabdomys pumilio,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Rhinolophus macrotis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Sapajus xanthosternos,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Alouatta caraya,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Artibeus jamaicensis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aselliscus stoliczkanus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ateles paniscus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bettongia penicillata,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Callosciurus erythraeus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Castor canadensis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cebus albifrons,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cercopithecus erythrotis,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Conepatus leuconotus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Corynorhinus rafinesquii,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Damaliscus lunatus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Delphinidae,family,Mammals,Other mammals,Grouped under its harmonized category as it stands,,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erinaceus roumanicus,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Gerbilliscus kempi,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Hipposideros cf. ruber,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ia io,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Isoodon obesulus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Lagenorhynchus acutus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Lagothrix lagotricha,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Loxodonta africana,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Mirounga leonina,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Mus sp.,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Myotis nattereri,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Nycticebus coucang,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Perameles bougainville,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Philander opossum,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Pongo abelii,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rhinopithecus roxellana,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Sciurus vulgaris,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Sorex isodon,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Tursiops aduncus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Urocyon cinereoargenteus,species,Mammals,Other mammals,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Urotrichus talpoides,species,Mammals,Other mammals,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ovis aries,species,Mammals,Ovis aries,Named by >=6 instances; drawn as its own row,,5,142,29,0,51,0,9,0,0,0,0,51,2,0,0,0,0,0,0
+Pan troglodytes,species,Mammals,Pan troglodytes,Named by >=6 instances; drawn as its own row,,5,132,33,0,45,0,18,0,0,0,0,26,10,0,0,0,0,0,0
+Procyon lotor,species,Mammals,Procyon lotor,Named by >=6 instances; drawn as its own row,,7,1146,4,0,0,2,2,0,558,0,0,1,1,0,578,0,0,0,0
+Rattus norvegicus,species,Mammals,Rattus norvegicus,Named by >=6 instances; drawn as its own row,,5,163,23,0,48,0,15,0,0,0,0,67,10,0,0,0,0,0,0
+Rodents  (not resolved to species),not species-resolved,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,5,378,75,0,0,0,9,0,0,0,0,228,12,0,0,54,0,0,0
+Rodentia,order,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,5,276,2,0,0,0,0,0,0,0,0,36,0,17,0,0,0,83,138
+Mastomys natalensis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,35,9,0,0,0,8,0,0,0,0,18,0,0,0,0,0,0,0
+Myodes glareolus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,4,24,2,0,0,0,1,0,0,0,0,17,4,0,0,0,0,0,0
+Apodemus agrarius,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,23,1,0,0,0,1,0,0,0,0,21,0,0,0,0,0,0,0
+Marmota himalayana,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,22,4,0,0,0,2,0,0,0,0,16,0,0,0,0,0,0,0
+Apodemus sylvaticus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,4,18,4,0,0,0,1,0,0,0,0,4,9,0,0,0,0,0,0
+Rattus argentiventer,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,18,0,0,0,0,0,0,0,0,0,11,7,0,0,0,0,0,0
+Microtus agrestis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,16,0,0,0,0,0,0,0,0,0,9,7,0,0,0,0,0,0
+Hylaeamys megacephalus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,14,2,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0
+Microtus arvalis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,14,3,0,0,0,2,0,0,0,0,9,0,0,0,0,0,0,0
+Rattus tanezumi,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,13,1,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0
+Rattus andamanensis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,4,12,2,0,0,0,1,0,0,0,0,5,4,0,0,0,0,0,0
+Rhizomys pruinosus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,12,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,0,0
+Sigmodon alstoni,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,11,2,0,0,0,4,0,0,0,0,5,0,0,0,0,0,0,0
+Micaelamys namaquensis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,10,2,0,0,0,4,0,0,0,0,4,0,0,0,0,0,0,0
+Apodemus flavicollis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,4,9,1,0,0,0,3,0,0,0,0,3,2,0,0,0,0,0,0
+Microtus maximowiczii,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,8,1,0,0,0,3,0,0,0,0,4,0,0,0,0,0,0,0
+Peromyscus maniculatus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,8,3,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Rattus rattus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,8,2,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0
+Eliurus majori,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Eothenomys eleusis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Hylomyscus simus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Oligoryzomys fulvescens,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,7,2,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Peromyscus beatae,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Peromyscus crinitus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,7,3,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Proechimys guyannensis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Sigmodon hispidus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,7,2,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Apodemus chevrieri,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,6,1,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Eothenomys miletus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Microtus fortis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Microtus pennsylvanicus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,5,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Mus minutoides,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Myotomys unisulcatus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Oecomys bicolor,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Peromyscus californicus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Sooretamys angouya,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Cricetulus griseus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,4,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Cricetulus longicaudatus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Meriones unguiculatus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Myodes rufocanus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+Neodon clarkei,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Neotoma lepida,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Niviventer confucianus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Bandicota sp.,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Calomys callosus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Cricetomys emini,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Grammomys sp.,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Lophuromys sikapusi,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Micromys minutus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Microtus montanus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Mus caroli,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Neotoma albigula,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Nephelomys albigularis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Oligoryzomys longicaudatus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Oligoryzomys mattogrossae,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Zygodontomys brevicauda,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apodemus argenteus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Calomys laucha,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Oligoryzomys microtis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Oligoryzomys nigripes,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rattus leucopus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Reithrodontomys megalotis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Sciurus variegatoides,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Sigmodon mascotensis,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Spermophilus dauricus,species,Mammals,Rodentia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Sus scrofa,species,Mammals,Sus scrofa,Named by >=6 instances; drawn as its own row,,8,62873,166,0,219,17486,64,0,0,1200,0,536,762,0,42440,0,0,0,0
+Tadarida brasiliensis,species,Mammals,Tadarida brasiliensis,Named by >=6 instances; drawn as its own row,,5,519,3,0,0,0,4,0,245,0,0,0,2,0,265,0,0,0,0
+Vulpes vulpes,species,Mammals,Vulpes vulpes,Named by >=6 instances; drawn as its own row,,6,1500,2,0,0,106,1,0,683,0,0,5,0,0,703,0,0,0,0
+Amphibians  (not resolved to species),not species-resolved,Non-mammalian vertebrates,Amphibia,Grouped under the conventional taxon of its harmonized category,,2,26,13,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0
+Lissotriton vulgaris,species,Non-mammalian vertebrates,Amphibia,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Rana pipiens,species,Non-mammalian vertebrates,Amphibia,Grouped under the conventional taxon of its harmonized category,,2,4,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Nanorana parkeri,species,Non-mammalian vertebrates,Amphibia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Xenopus laevis,species,Non-mammalian vertebrates,Amphibia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Anas platyrhynchos,species,Non-mammalian vertebrates,Anas platyrhynchos,Named by >=6 instances; drawn as its own row,,6,25343,32,0,40,0,6,0,0,0,0,50,219,0,24996,0,0,0,0
+Aves,class,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,50179,16,0,0,48905,0,0,0,1200,0,0,0,58,0,0,0,0,0
+Arenaria interpres,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,3393,0,0,0,0,0,0,0,0,0,0,19,0,3374,0,0,0,0
+Anas discors,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,2243,0,0,0,0,0,0,0,0,0,0,0,0,2243,0,0,0,0
+Chroicocephalus ridibundus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,1478,0,0,0,0,0,0,0,0,0,1,1,0,1476,0,0,0,0
+Anas clypeata,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,1085,0,0,0,0,0,0,0,0,0,0,0,0,1085,0,0,0,0
+Cairina moschata,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,1011,5,0,0,0,1,0,0,0,0,0,15,0,990,0,0,0,0
+Anas acuta,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,797,0,0,0,0,0,0,0,0,0,1,18,0,778,0,0,0,0
+Anas crecca,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,766,0,0,0,0,0,0,0,0,0,2,37,0,727,0,0,0,0
+Anas carolinensis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,700,0,0,0,0,0,0,0,0,0,0,41,0,659,0,0,0,0
+Birds  (not resolved to species),not species-resolved,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,5,601,63,0,0,0,35,0,0,0,0,109,328,0,0,0,0,0,66
+Anatidae,family,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,361,0,0,0,0,0,0,0,0,0,0,361,0,0,0,0,0,0
+Anas rubripes,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,349,1,0,0,0,1,0,0,0,0,1,0,0,346,0,0,0,0
+Larus argentatus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,310,1,0,0,0,0,0,0,0,0,0,3,0,306,0,0,0,0
+Anser albifrons,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,295,1,0,0,0,0,0,0,0,0,1,2,0,291,0,0,0,0
+Leucophaeus atricilla,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,290,0,0,0,0,0,0,0,0,0,0,0,0,290,0,0,0,0
+Mareca penelope,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,257,1,0,0,0,0,0,0,0,0,3,5,0,248,0,0,0,0
+Calidris canutus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,250,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0
+Cygnus olor,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,246,0,0,0,0,0,0,0,0,0,0,4,0,242,0,0,0,0
+Cygnus columbianus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,221,0,0,0,0,0,0,0,0,0,0,0,0,221,0,0,0,0
+Anser fabalis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,204,0,0,0,0,0,0,0,0,0,0,3,0,201,0,0,0,0
+Tadorna ferruginea,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,204,0,0,0,0,0,0,0,0,0,0,0,0,204,0,0,0,0
+Uria aalge,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,204,0,0,0,0,0,0,0,0,0,3,3,0,198,0,0,0,0
+Sibirionetta formosa,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,172,0,0,0,0,0,0,0,0,0,0,17,0,155,0,0,0,0
+Mareca americana,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,168,0,0,0,0,0,0,0,0,0,0,14,0,154,0,0,0,0
+Columbidae,family,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,163,0,0,0,0,0,0,0,0,0,0,163,0,0,0,0,0,0
+Larus glaucescens,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,152,0,0,0,0,0,0,0,0,0,0,0,0,152,0,0,0,0
+Mareca strepera,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,141,0,0,0,0,0,0,0,0,0,0,9,0,132,0,0,0,0
+Branta canadensis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,139,1,0,0,0,0,0,0,0,0,2,10,0,126,0,0,0,0
+Calidris alba,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,127,0,0,0,0,0,0,0,0,0,0,0,0,127,0,0,0,0
+Cygnus cygnus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,110,0,0,0,0,0,0,0,0,0,0,0,0,110,0,0,0,0
+Calidris ruficollis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,106,0,0,0,0,0,0,0,0,0,1,0,0,105,0,0,0,0
+Anser indicus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,105,0,0,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0
+Galloanserae (bird clade),clade,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0
+Neoaves (bird clade),clade,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,1,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0
+Columba livia,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,23,5,0,0,0,1,0,0,0,0,11,6,0,0,0,0,0,0
+Anser sp.,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,20,6,0,0,0,0,0,0,0,0,4,10,0,0,0,0,0,0
+Somateria mollissima,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,16,1,0,0,0,7,0,0,0,0,8,0,0,0,0,0,0,0
+Serinus canaria,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,12,5,0,0,0,4,0,0,0,0,3,0,0,0,0,0,0,0
+Anser anser,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,11,3,0,0,0,2,0,0,0,0,1,5,0,0,0,0,0,0
+Coracias garrulus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,10,3,0,0,0,2,0,0,0,0,5,0,0,0,0,0,0,0
+Turdus merula,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,10,5,0,0,0,1,0,0,0,0,3,1,0,0,0,0,0,0
+Anser cygnoides,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,8,0,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0
+Gerygone albofrontata,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,6,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Ploceus cucullatus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,6,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Pygoscelis adeliae,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,6,3,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Pygoscelis papua,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,6,3,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Anser caerulescens,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,5,1,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0
+Coturnix japonica,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,5,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0
+Fulica atra,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,5,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0
+Grus japonensis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,5,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+Oriolus oriolus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,5,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0
+Phasianus colchicus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,5,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0
+Psittacula krameri,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,4,5,1,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0
+Ara ararauna,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Coturnix coturnix,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Cyanoramphus auriceps,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Falco tinnunculus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Stercorarius maccormicki,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Aix galericulata,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Aix sponsa,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Cacatua moluccensis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Calidris fuscicollis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Circus aeruginosus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Copsychus saularis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Eudromia elegans,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Falco vespertinus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Fulmarus glacialis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Psittacus erithacus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Riparia paludicola,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Sturnus vulgaris,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Turdus hortulorum,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Amazona farinosa,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Amazona oratrix,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Anser rossii,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Aratinga solstitialis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Buteo jamaicensis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ciconia ciconia,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Corvus coronoides,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cracticus torquatus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Emberiza spodocephala,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Estrilda troglodytes,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Formicarius analis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Gallinago gallinago,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Gallinula chloropus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Garrulus glandarius,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Haliaeetus leucocephalus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Hydrocoloeus minutus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Lonchura striata,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Melopsittacus undulatus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Myiopsitta monachus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Numididae sp.,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Parabuteo unicinctus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Parus major,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Petroica traversi,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pycnonotus jocosus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Pycnonotus sinensis,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Taeniopygia guttata,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Turdus pallidus,species,Non-mammalian vertebrates,Aves,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Fish  (not resolved to species),not species-resolved,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,6,291,21,0,0,0,25,0,0,0,0,145,0,42,0,0,0,19,39
+Oncorhynchus tshawytscha,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,4,50,2,0,0,0,1,0,0,0,0,45,2,0,0,0,0,0,0
+Pimephales promelas,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,41,3,0,0,0,2,0,0,0,0,36,0,0,0,0,0,0,0
+Salmo salar,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,4,36,8,0,0,0,2,0,0,0,0,23,3,0,0,0,0,0,0
+Oncorhynchus mykiss,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,28,3,0,0,0,2,0,0,0,0,23,0,0,0,0,0,0,0
+Ctenopharyngodon idella,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,27,2,0,0,0,12,0,0,0,0,13,0,0,0,0,0,0,0
+Notemigonus crysoleucas,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,27,3,0,0,0,2,0,0,0,0,22,0,0,0,0,0,0,0
+Etheostoma fonticola,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,23,1,0,0,0,11,0,0,0,0,11,0,0,0,0,0,0,0
+Scophthalmus maximus,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,18,4,0,0,0,2,0,0,0,0,12,0,0,0,0,0,0,0
+Perca fluviatilis,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,14,2,0,0,0,2,0,0,0,0,10,0,0,0,0,0,0,0
+Cyprinus carpio,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,13,6,0,0,0,3,0,0,0,0,4,0,0,0,0,0,0,0
+Oncorhynchus keta,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,12,1,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0
+Oncorhynchus kisutch,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,11,1,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+Anguilla anguilla,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,9,4,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0
+Antennarius striatus,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,9,2,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0
+Gadus morhua,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,9,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+Salmo trutta,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,9,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+Paralichthys olivaceus,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,6,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Sparus aurata,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,6,3,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Lepomis macrochirus,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,5,2,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Carassius auratus,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Siniperca chuatsi,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Blicca bjoerkna,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Channa striata,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Cyclopterus lumpus,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Esox lucius,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Lates calcarifer,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Proscyllium habereri,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Rhynchobatus djiddensis,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Salvelinus fontinalis,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Silurus glanis,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Solea senegalensis,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Anguilla australis,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Anguilla marmorata,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Barbus barbus,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Catostomus commersonii,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Centropristis striata,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Channa argus x Channa maculata,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Tinca tinca,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Trematomus pennellii,species,Non-mammalian vertebrates,Fish,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Gallus gallus,species,Non-mammalian vertebrates,Gallus gallus,Named by >=6 instances; drawn as its own row,,6,28662,71,0,109,0,62,0,0,0,0,269,922,0,27229,0,0,0,0
+Meleagris gallopavo,species,Non-mammalian vertebrates,Meleagris gallopavo,Named by >=6 instances; drawn as its own row,,5,2240,23,0,0,0,7,0,0,0,0,13,74,0,2123,0,0,0,0
+Boa constrictor,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,3,86,5,0,0,0,6,0,0,0,0,75,0,0,0,0,0,0,0
+Reptiles  (not resolved to species),not species-resolved,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,59,10,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,0
+Reptilia,class,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,17
+Atheris squamigera,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,3,22,2,0,0,0,10,0,0,0,0,10,0,0,0,0,0,0,0
+Morelia viridis,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,3,14,1,0,0,0,1,0,0,0,0,12,0,0,0,0,0,0,0
+Ameiva ameiva,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,3,9,3,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Python regius,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,3,8,1,0,0,0,1,0,0,0,0,6,0,0,0,0,0,0,0
+Morelia spilota,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,3,7,3,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Pelodiscus sinensis,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,7,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Corallus annulatus,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,3,6,1,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Chelonia mydas,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,5,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Testudo hermanni,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Aspidites melanocephalus,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Bothrops atrox,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Caretta caretta,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Crotalus lepidus,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Heloderma horridum,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Indotestudo forstenii,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Lepidosauria (reptile clade, excl. turtles/crocodiles)",clade,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Pogona vitticeps,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Testudo horsfieldii,species,Non-mammalian vertebrates,Reptilia,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Struthio camelus,species,Non-mammalian vertebrates,Struthio camelus,Named by >=6 instances; drawn as its own row,,5,240,2,0,0,0,1,0,0,0,0,1,5,0,231,0,0,0,0
+Unresolved vertebrates  (not resolved to species),not species-resolved,Non-mammalian vertebrates,Unresolved vertebrates,Grouped under its harmonized category as it stands,,4,34864,4,10245,0,0,4,0,0,0,24611,0,0,0,0,0,0,0,0
+Arachnids  (not resolved to species),not species-resolved,Invertebrates,Arachnida,Grouped under the conventional taxon of its harmonized category,,3,231,11,0,0,0,67,0,0,0,0,153,0,0,0,0,0,0,0
+Arachnida,class,Invertebrates,Arachnida,Grouped under the conventional taxon of its harmonized category,,1,14,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0
+Neoscona nautica,species,Invertebrates,Arachnida,Grouped under the conventional taxon of its harmonized category,,3,14,4,0,0,0,5,0,0,0,0,5,0,0,0,0,0,0,0
+Varroa destructor,species,Invertebrates,Arachnida,Vector or crustacean taxon; own row by explicit mapping,,3,14,6,0,0,0,2,0,0,0,0,6,0,0,0,0,0,0,0
+Nephila clavipes,species,Invertebrates,Arachnida,Grouped under the conventional taxon of its harmonized category,,2,6,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Carios pusillus,species,Invertebrates,Arachnida,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Hexura picea,species,Invertebrates,Arachnida,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hyptiotes gertschi,species,Invertebrates,Arachnida,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Philodromus dispar,species,Invertebrates,Arachnida,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Penaeus monodon,species,Invertebrates,Crustacea,Vector or crustacean taxon; own row by explicit mapping,,4,27,7,0,0,0,8,0,0,0,0,9,3,0,0,0,0,0,0
+Caridea,infraorder,Invertebrates,Crustacea,Vector or crustacean taxon; own row by explicit mapping,,1,23,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+Penaeus vannamei,species,Invertebrates,Crustacea,Vector or crustacean taxon; own row by explicit mapping,,4,23,3,0,0,0,4,0,0,0,0,7,9,0,0,0,0,0,0
+Callinectes sapidus,species,Invertebrates,Crustacea,Vector or crustacean taxon; own row by explicit mapping,,3,18,2,0,0,0,2,0,0,0,0,14,0,0,0,0,0,0,0
+Macrobrachium rosenbergii,species,Invertebrates,Crustacea,Vector or crustacean taxon; own row by explicit mapping,,3,10,2,0,0,0,2,0,0,0,0,6,0,0,0,0,0,0,0
+Cherax quadricarinatus,species,Invertebrates,Crustacea,Vector or crustacean taxon; own row by explicit mapping,,3,8,4,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Capitulum mitella,species,Invertebrates,Crustacea,Vector or crustacean taxon; own row by explicit mapping,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Charybdis japonica,species,Invertebrates,Crustacea,Vector or crustacean taxon; own row by explicit mapping,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Scylla serrata,species,Invertebrates,Crustacea,Vector or crustacean taxon; own row by explicit mapping,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Culicidae,family,Invertebrates,Culicidae,Vector or crustacean taxon; own row by explicit mapping,Yes,7,11878,21,0,0,0,35,9253,0,0,2391,102,0,0,0,1,0,75,0
+Aedes albopictus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,4,121,11,0,36,0,2,0,0,0,0,72,0,0,0,0,0,0,0
+Culex tritaeniorhynchus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,52,9,0,0,0,21,0,0,0,0,22,0,0,0,0,0,0,0
+Culex quinquefasciatus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,38,6,0,0,0,7,0,0,0,0,25,0,0,0,0,0,0,0
+Culex annulirostris,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,36,5,0,0,0,4,0,0,0,0,27,0,0,0,0,0,0,0
+Anopheles annulipes,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,30,2,0,0,0,13,0,0,0,0,15,0,0,0,0,0,0,0
+Culex nebulosus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,24,4,0,0,0,14,0,0,0,0,6,0,0,0,0,0,0,0
+Aedes aegypti,species,Invertebrates,Culicidae,Vector or crustacean taxon; own row by explicit mapping,,4,20,4,0,0,0,2,0,0,0,0,12,2,0,0,0,0,0,0
+Culex tarsalis,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,19,3,0,0,0,3,0,0,0,0,13,0,0,0,0,0,0,0
+Anopheles sinensis,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,18,2,0,0,0,1,0,0,0,0,15,0,0,0,0,0,0,0
+Culex pipiens,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,17,7,0,0,0,3,0,0,0,0,7,0,0,0,0,0,0,0
+Aedes vexans,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,14,5,0,0,0,1,0,0,0,0,8,0,0,0,0,0,0,0
+Culex sitiens,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,11,2,0,0,0,1,0,0,0,0,8,0,0,0,0,0,0,0
+Aedes pseudoscutellaris,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,10,1,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+Culex australicus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,10,3,0,0,0,3,0,0,0,0,4,0,0,0,0,0,0,0
+Mansonia uniformis,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,10,2,0,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0
+Anopheles funestus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,9,1,0,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0
+Culex bitaeniorhynchus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,9,2,0,0,0,2,0,0,0,0,5,0,0,0,0,0,0,0
+Culex decens,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,9,2,0,0,0,2,0,0,0,0,5,0,0,0,0,0,0,0
+Culex globocoxitus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,8,2,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0
+Culex vishnui,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,8,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Anopheles gambiae,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,7,2,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Culiseta melanura,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,7,2,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Anopheles meraukensis,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,6,1,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Culex portesi,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,5,2,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Aedes circumluteolus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Anopheles coluzzii,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Anopheles hinesorum,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Anopheles vagus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Culex simpliciforceps,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Culex spissipes,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Anopheles coustani,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Anopheles farauti,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Anopheles quadrimaculatus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Culex annulioris,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Culex chidesteri,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Culex dunni,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Mansonia africana,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Anopheles albimanus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Anopheles atropos,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Anopheles tessellatus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Culex edwardsi,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Culex modestus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Culex nigripalpus,species,Invertebrates,Culicidae,Vector taxon; own row by genus-level fallback,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Insects  (not resolved to species),not species-resolved,Invertebrates,Insects,Grouped under its harmonized category as it stands,,5,1224,226,0,0,0,282,0,0,0,0,647,1,0,0,68,0,0,0
+Insecta,class,Invertebrates,Insects,Grouped under its harmonized category as it stands,Yes,4,197,3,0,0,0,0,0,0,0,0,0,0,62,0,0,0,65,67
+Apis mellifera,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,118,18,0,0,0,14,0,0,0,0,86,0,0,0,0,0,0,0
+Lymantria dispar,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,39,7,0,0,0,10,0,0,0,0,22,0,0,0,0,0,0,0
+Bemisia tabaci,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,34,7,0,0,0,3,0,0,0,0,24,0,0,0,0,0,0,0
+Drosophila melanogaster,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,34,10,0,0,0,5,0,0,0,0,19,0,0,0,0,0,0,0
+Hyalopterus pruni,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,29,7,0,0,0,15,0,0,0,0,7,0,0,0,0,0,0,0
+Homalodisca vitripennis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,27,2,0,0,0,12,0,0,0,0,13,0,0,0,0,0,0,0
+Spodoptera exigua,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,26,5,0,0,0,2,0,0,0,0,19,0,0,0,0,0,0,0
+Helicoverpa armigera,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,25,8,0,0,0,3,0,0,0,0,14,0,0,0,0,0,0,0
+Solenopsis invicta,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,25,5,0,0,0,5,0,0,0,0,15,0,0,0,0,0,0,0
+Spissistilus festinus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,23,2,0,0,0,11,0,0,0,0,10,0,0,0,0,0,0,0
+Eucampsipoda africana,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,21,1,0,0,0,10,0,0,0,0,10,0,0,0,0,0,0,0
+Lutzomyia longipalpis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,21,1,0,0,0,9,0,0,0,0,11,0,0,0,0,0,0,0
+Nilaparvata lugens,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,21,4,0,0,0,2,0,0,0,0,15,0,0,0,0,0,0,0
+Dendrolimus punctatus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,20,2,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0
+Procordulia grayi,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,20,11,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+Bombyx mori,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,18,9,0,0,0,2,0,0,0,0,7,0,0,0,0,0,0,0
+Armigeres subalbatus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,16,1,0,0,0,1,0,0,0,0,14,0,0,0,0,0,0,0
+Musca domestica,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,16,6,0,0,0,5,0,0,0,0,5,0,0,0,0,0,0,0
+Trichoplusia ni,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,16,6,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+Microplitis demolitor,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,13,1,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+Aedeomyia squamipennis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,12,2,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+Linepithema humile,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,12,1,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0
+Operophtera brumata,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,12,2,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+Frankliniella occidentalis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,11,2,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+Atherigona orientalis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,10,2,0,0,0,4,0,0,0,0,4,0,0,0,0,0,0,0
+Choristoneura occidentalis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,10,2,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+Daphnis nerii,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,9,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+Diaphorina citri,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,9,2,0,0,0,2,0,0,0,0,5,0,0,0,0,0,0,0
+Blattella germanica,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,8,2,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Diadromus pulchellus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,8,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0
+Echinothrips americanus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,8,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Orgyia pseudotsugata,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,8,3,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Pantala flavescens,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,8,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Spodoptera frugiperda,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,8,4,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Chaoborus trivitattus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Erythemis simplicicollis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,7,5,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Formica exsecta,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,7,2,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Lasius neglectus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,7,0,0,0,0,1,0,0,0,0,6,0,0,0,0,0,0,0
+Ochlerotatus camptorhynchus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,7,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Ochlerotatus fulvus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,7,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Phlebotomus perfiliewi,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,7,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Sogatella furcifera,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,7,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Thaumetopoea pityocampa,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,7,1,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0
+Aulacorthum magnoliae,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,6,1,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0
+Choristoneura rosaceana,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,6,2,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Coquillettidia xanthogaster,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,6,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Halyomorpha halys,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,6,1,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Helicoverpa zea,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,6,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Plutella xylostella,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,6,3,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Acheta domesticus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,5,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Aphis fabae,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,5,1,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Aphis glycines,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,5,2,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+Ctenocephalides felis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Ochlerotatus caspius,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,5,1,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Ochlerotatus scapularis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,5,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Psammotettix alienus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Antheraea pernyi,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Cimex hemipterus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Culicoides brevitarsis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,4,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Cydia pomonella,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Diabrotica virgifera,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Drosophila obscura,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Ectropis obliqua,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Erythrodiplax umbrata,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Laodelphax striatella,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Leptopilina boulardi,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Limatus flavisetosus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,4,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0
+Nephotettix cincticeps,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Nesidiocoris tenuis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Agrotis segetum,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Andrena haemorrhoa,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Brevicoryne brassicae,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Camponotus japonicus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Chrysomya megacephala,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Clanis bilineata,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Clostera anastomosis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Coquillettidia albicosta,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Culicoides austropalpalis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Culicoides insignis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Diachasmimorpha longicaudata,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Diatraea saccharalis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Dinocampus coccinellae,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Drosophila immigrans,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Drosophila subobscura,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Dysaphis plantaginea,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Erythrodiplax fusca,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Euscelidius variegatus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Gonimbrasia cytherea,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Graminella nigrifrons,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Heliconius erato,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Macrosiphum euphorbiae,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Myrmica scabrinodis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Mythimna unipuncta,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Nylanderia fulva,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Ochlerotatus taeniorhynchus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Oncopera intricoides,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Opsiphanes invirae,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Pieris rapae,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Plautia stali,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Pteromalus puparum,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Riptortus pedestris,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Sabethes intermedius,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Schizaphis graminum,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Spodoptera eridania,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Triatoma infestans,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Xanthocnemis zealandica,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Acyrthosiphon pisum,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Adoxophyes orana,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Agrotis ipsilon,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Anticarsia gemmatalis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apis cerana,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Camponotus nipponicus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Camponotus yamaokai,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Catopsilia pomona,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Chaetocoelopa sydneyensis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Clostera anachoreta,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Culicoides punctatus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Danaus plexippus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Diplacodes bipunctata,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Drosophila affinis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Drosophila ananassae,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Epirrita autumnata,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Eretmapodites leucopous,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Erinnyis ello,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Euproctis pseudoconspersa,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Heteronychus arator,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Lambdina fiscellaria,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Lasius niger,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Lygus lineolaris,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Lymantria xylina,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Mamestra brassicae,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miathyria marcella,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Neodiprion abietis,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Neodiprion sertifer,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Nyssomyia flaviscutellata,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ochlerotatus vigilax,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Oeciacus vicarius,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Oryctes rhinoceros,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Paracoccus marginatus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Perina nuda,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Planococcus citri,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Plodia interpunctella,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Psathyromyia abonnenci,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rhopalosiphum padi,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Teleogryllus oceanicus,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Tholymis tillarga,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Thysanoplusia orichalcea,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Tipula oleracea,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Velarifictorus micado,species,Invertebrates,Insects,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ixodida,order,Invertebrates,Ixodida,Vector or crustacean taxon; own row by explicit mapping,Yes,4,411,5,0,0,0,13,373,0,0,0,0,0,0,0,0,0,20,0
+Ixodes uriae,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,32,3,0,0,0,4,0,0,0,0,25,0,0,0,0,0,0,0
+Rhipicephalus microplus,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,32,4,0,0,0,10,0,0,0,0,18,0,0,0,0,0,0,0
+Ixodes scapularis,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,27,4,0,0,0,2,0,0,0,0,21,0,0,0,0,0,0,0
+Hyalomma asiaticum,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,20,3,0,0,0,3,0,0,0,0,14,0,0,0,0,0,0,0
+Dermacentor marginatus,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,16,5,0,0,0,6,0,0,0,0,5,0,0,0,0,0,0,0
+Haemaphysalis flava,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,16,1,0,0,0,3,0,0,0,0,12,0,0,0,0,0,0,0
+Amblyomma americanum,species,Invertebrates,Ixodida,Vector or crustacean taxon; own row by explicit mapping,,4,13,3,0,0,0,5,0,0,0,0,3,2,0,0,0,0,0,0
+Haemaphysalis hystricis,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,13,3,0,0,0,4,0,0,0,0,6,0,0,0,0,0,0,0
+Argas miniatus,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,9,3,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Hyalomma dromedarii,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,9,1,0,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0
+Haemaphysalis doenitzi,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,7,2,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0
+Ornithodoros erraticus,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Argas reflexus,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,6,1,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0
+Rhipicephalus decoloratus,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,5,1,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0
+Hyalomma anatolicum,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Ixodes lividus,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Ornithodoros capensis,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Ornithodoros coriaceus,species,Invertebrates,Ixodida,Vector taxon; own row by genus-level fallback,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Unresolved invertebrates  (not resolved to species),not species-resolved,Invertebrates,Other invertebrates,Grouped under the conventional taxon of its harmonized category,,2,7655,0,7424,0,0,0,0,0,0,0,0,0,231,0,0,0,0,0
+Other invertebrates  (not resolved to species),not species-resolved,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,5,678,44,0,0,0,544,0,0,0,0,87,1,0,0,0,0,0,2
+Paphies subtriangulata,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,28,14,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+Austrovenus stutchburyi,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,21,13,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+Mnemiopsis leidyi,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,11,4,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+Caenorhabditis briggsae,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,3,10,2,0,0,0,4,0,0,0,0,4,0,0,0,0,0,0,0
+Heterodera glycines,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,3,10,2,0,0,0,2,0,0,0,0,6,0,0,0,0,0,0,0
+Amphibola crenata,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,9,5,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Biomphalaria glabrata,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,3,8,2,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0
+Haliotis discus,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,3,6,3,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Caenorhabditis elegans,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Girardia tigrina,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Vespula pensylvanica,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Acartia tonsa,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Amphibalanus rhizophorae,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aplysia californica,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Armadillidium vulgare,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Artemisina melana,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Callinectes ornatus,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Haliotis diversicolor,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Labidocera aestiva,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Lytechinus variegatus,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Otostigmus scaber,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Paramuricea placomus,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Petrochirus diogenes,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Primnoa pacifica,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Schmidtea mediterranea,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Sicyonia brevirostris,species,Invertebrates,Other invertebrates,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Plantae,kingdom,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,4982,0,4787,0,0,0,0,0,0,0,0,0,113,0,0,0,21,61
+Plants  (not resolved to species),not species-resolved,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,6,3945,346,0,1187,0,308,0,0,0,0,1587,507,0,0,10,0,0,0
+Solanum lycopersicum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,961,187,0,0,0,78,0,0,0,0,98,598,0,0,0,0,0,0
+Vitis vinifera,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,369,42,0,0,0,25,0,0,0,0,235,67,0,0,0,0,0,0
+Manihot esculenta,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,297,20,0,0,0,14,0,0,0,0,25,238,0,0,0,0,0,0
+Zea mays,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,283,24,0,0,0,10,0,0,0,0,124,125,0,0,0,0,0,0
+Abelmoschus esculentus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,201,22,0,0,0,18,0,0,0,0,4,157,0,0,0,0,0,0
+Malus domestica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,201,7,0,0,0,1,0,0,0,0,187,6,0,0,0,0,0,0
+Capsicum annuum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,191,26,0,0,0,12,0,0,0,0,54,99,0,0,0,0,0,0
+Triticum aestivum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,180,26,0,0,0,17,0,0,0,0,93,44,0,0,0,0,0,0
+Allium sativum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,177,12,0,0,0,8,0,0,0,0,157,0,0,0,0,0,0,0
+Nicotiana benthamiana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,177,33,0,0,0,5,0,0,0,0,132,7,0,0,0,0,0,0
+Nicotiana tabacum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,157,26,0,0,0,10,0,0,0,0,80,41,0,0,0,0,0,0
+Ipomoea batatas,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,154,40,0,0,0,14,0,0,0,0,41,59,0,0,0,0,0,0
+Solanum tuberosum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,149,25,0,0,0,10,0,0,0,0,84,30,0,0,0,0,0,0
+Phaseolus vulgaris,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,138,30,0,0,0,18,0,0,0,0,66,24,0,0,0,0,0,0
+Medicago sativa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,134,11,0,0,0,5,0,0,0,0,34,84,0,0,0,0,0,0
+Glycine max,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,126,28,0,0,0,6,0,0,0,0,51,41,0,0,0,0,0,0
+Chenopodium quinoa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,125,11,0,0,0,0,0,0,0,0,114,0,0,0,0,0,0,0
+Cucumis sativus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,118,12,0,0,0,0,0,0,0,0,51,55,0,0,0,0,0,0
+Gossypium hirsutum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,116,15,0,0,0,8,0,0,0,0,3,90,0,0,0,0,0,0
+Beta vulgaris,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,114,15,0,0,0,7,0,0,0,0,52,40,0,0,0,0,0,0
+Cicer arietinum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,111,18,0,0,0,5,0,0,0,0,12,76,0,0,0,0,0,0
+Citrullus lanatus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,99,9,0,0,0,1,0,0,0,0,44,45,0,0,0,0,0,0
+Carica papaya,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,98,21,0,0,0,4,0,0,0,0,29,44,0,0,0,0,0,0
+Vigna unguiculata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,85,10,0,0,0,8,0,0,0,0,52,15,0,0,0,0,0,0
+Pisum sativum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,83,6,0,0,0,31,0,0,0,0,36,10,0,0,0,0,0,0
+Oryza sativa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,80,14,0,0,0,8,0,0,0,0,57,1,0,0,0,0,0,0
+Cucumis melo,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,79,12,0,0,0,4,0,0,0,0,43,20,0,0,0,0,0,0
+Hordeum vulgare,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,79,16,0,0,0,1,0,0,0,0,45,17,0,0,0,0,0,0
+Prunus persica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,77,12,0,0,0,7,0,0,0,0,56,2,0,0,0,0,0,0
+Lactuca sativa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,71,10,0,0,0,6,0,0,0,0,55,0,0,0,0,0,0,0
+Vicia faba,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,71,10,0,0,0,12,0,0,0,0,38,11,0,0,0,0,0,0
+Cucurbita pepo,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,69,2,0,0,0,5,0,0,0,0,34,28,0,0,0,0,0,0
+Prunus avium,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,69,9,0,0,0,3,0,0,0,0,41,16,0,0,0,0,0,0
+Avena sativa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,64,17,0,0,0,3,0,0,0,0,44,0,0,0,0,0,0,0
+Saccharum officinarum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,59,12,0,0,0,2,0,0,0,0,16,29,0,0,0,0,0,0
+Spinacia oleracea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,54,16,0,0,0,7,0,0,0,0,29,2,0,0,0,0,0,0
+Theobroma cacao,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,54,12,0,0,0,2,0,0,0,0,40,0,0,0,0,0,0,0
+Brassica rapa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,53,6,0,0,0,4,0,0,0,0,16,27,0,0,0,0,0,0
+Malvastrum coromandelianum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,51,12,0,0,0,18,0,0,0,0,0,21,0,0,0,0,0,0
+Nicotiana clevelandii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,51,1,0,0,0,1,0,0,0,0,49,0,0,0,0,0,0,0
+Vigna radiata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,50,0,0,0,0,0,0,0,0,0,3,47,0,0,0,0,0,0
+Passiflora edulis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,49,5,0,0,0,5,0,0,0,0,9,30,0,0,0,0,0,0
+Musa sp.,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,46,7,0,0,0,0,0,0,0,0,6,33,0,0,0,0,0,0
+Euphorbia heterophylla,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,43,4,0,0,0,4,0,0,0,0,0,35,0,0,0,0,0,0
+Daucus carota,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,41,12,0,0,0,7,0,0,0,0,18,4,0,0,0,0,0,0
+Ageratum conyzoides,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,40,7,0,0,0,10,0,0,0,0,0,23,0,0,0,0,0,0
+Solanum melongena,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,38,3,0,0,0,0,0,0,0,0,11,24,0,0,0,0,0,0
+Nicotiana occidentalis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,37,1,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0
+Trifolium pratense,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,37,4,0,0,0,4,0,0,0,0,29,0,0,0,0,0,0,0
+Cajanus cajan,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,36,5,0,0,0,15,0,0,0,0,13,3,0,0,0,0,0,0
+Rubus idaeus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,36,2,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0
+Datura stramonium,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,35,8,0,0,0,2,0,0,0,0,19,6,0,0,0,0,0,0
+Musa acuminata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,33,4,0,0,0,0,0,0,0,0,8,21,0,0,0,0,0,0
+Chenopodium amaranticolor,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,32,0,0,0,0,1,0,0,0,0,31,0,0,0,0,0,0,0
+Citrus sinensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,32,7,0,0,0,4,0,0,0,0,18,3,0,0,0,0,0,0
+Ipomoea indica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,30,1,0,0,0,1,0,0,0,0,0,28,0,0,0,0,0,0
+Macroptilium lathyroides,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,28,5,0,0,0,8,0,0,0,0,1,14,0,0,0,0,0,0
+Nicotiana glutinosa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,27,0,0,0,0,0,0,0,0,0,26,1,0,0,0,0,0,0
+Arachis hypogaea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,26,6,0,0,0,0,0,0,0,0,17,3,0,0,0,0,0,0
+Fragaria x ananassa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,26,3,0,0,0,1,0,0,0,0,20,2,0,0,0,0,0,0
+Raphanus sativus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,26,5,0,0,0,4,0,0,0,0,16,1,0,0,0,0,0,0
+Vaccinium corymbosum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,26,3,0,0,0,1,0,0,0,0,20,2,0,0,0,0,0,0
+Colocasia esculenta,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,25,4,0,0,0,2,0,0,0,0,19,0,0,0,0,0,0,0
+Micromonas pusilla,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,25,3,0,0,0,11,0,0,0,0,11,0,0,0,0,0,0,0
+Ficus carica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,24,2,0,0,0,6,0,0,0,0,16,0,0,0,0,0,0,0
+Sida acuta,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,24,3,0,0,0,7,0,0,0,0,0,14,0,0,0,0,0,0
+Rhynchosia minima,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,23,6,0,0,0,4,0,0,0,0,0,13,0,0,0,0,0,0
+Sorghum bicolor,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,23,2,0,0,0,1,0,0,0,0,20,0,0,0,0,0,0,0
+Ananas comosus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,22,6,0,0,0,0,0,0,0,0,12,4,0,0,0,0,0,0
+Trifolium repens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,22,3,0,0,0,3,0,0,0,0,11,5,0,0,0,0,0,0
+Cnidoscolus urens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,21,1,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+Cucurbita moschata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,21,2,0,0,0,4,0,0,0,0,9,6,0,0,0,0,0,0
+Hibiscus cannabinus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,21,3,0,0,0,5,0,0,0,0,1,12,0,0,0,0,0,0
+Hibiscus rosa-sinensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,21,1,0,0,0,2,0,0,0,0,4,14,0,0,0,0,0,0
+Lens culinaris,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,21,1,0,0,0,2,0,0,0,0,7,11,0,0,0,0,0,0
+Lycopersicon esculentum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,21,0,0,0,0,19,0,0,0,0,2,0,0,0,0,0,0,0
+Apium graveolens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,20,2,0,0,0,2,0,0,0,0,16,0,0,0,0,0,0,0
+Jatropha curcas,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,20,6,0,0,0,2,0,0,0,0,0,12,0,0,0,0,0,0
+Lagenaria siceraria,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,20,2,0,0,0,2,0,0,0,0,8,8,0,0,0,0,0,0
+Petunia x hybrida,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,20,1,0,0,0,0,0,0,0,0,18,1,0,0,0,0,0,0
+Olea europaea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,19,1,0,0,0,2,0,0,0,0,8,8,0,0,0,0,0,0
+Dioscorea alata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,18,1,0,0,0,0,0,0,0,0,15,2,0,0,0,0,0,0
+Prunus domestica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,18,6,0,0,0,2,0,0,0,0,9,1,0,0,0,0,0,0
+Alcea rosea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,17,4,0,0,0,2,0,0,0,0,3,8,0,0,0,0,0,0
+Arabidopsis thaliana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,17,4,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0
+Cynodon dactylon,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,17,2,0,0,0,1,0,0,0,0,13,1,0,0,0,0,0,0
+Fragaria vesca,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,17,3,0,0,0,2,0,0,0,0,12,0,0,0,0,0,0,0
+Helianthus annuus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,17,5,0,0,0,4,0,0,0,0,8,0,0,0,0,0,0,0
+Narcissus pseudonarcissus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,17,2,0,0,0,1,0,0,0,0,14,0,0,0,0,0,0,0
+Prunus armeniaca,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,17,3,0,0,0,2,0,0,0,0,12,0,0,0,0,0,0,0
+Cucurbita maxima,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,16,2,0,0,0,1,0,0,0,0,10,3,0,0,0,0,0,0
+Digitaria sanguinalis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,16,1,0,0,0,0,0,0,0,0,10,5,0,0,0,0,0,0
+Momordica charantia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,16,2,0,0,0,1,0,0,0,0,6,7,0,0,0,0,0,0
+Actinidia chinensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,15,3,0,0,0,2,0,0,0,0,10,0,0,0,0,0,0,0
+Brassica oleracea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,15,4,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0
+Dianthus caryophyllus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,15,7,0,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0
+Digitaria ciliaris,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,15,1,0,0,0,1,0,0,0,0,0,13,0,0,0,0,0,0
+Euphorbia caput-medusae,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,15,1,0,0,0,1,0,0,0,0,0,13,0,0,0,0,0,0
+Nicotiana rustica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,15,1,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0
+Ribes nigrum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,15,4,0,0,0,2,0,0,0,0,9,0,0,0,0,0,0,0
+Sida urens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,15,4,0,0,0,5,0,0,0,0,0,6,0,0,0,0,0,0
+Areca catechu,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,14,1,0,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0
+Benincasa hispida,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,14,3,0,0,0,1,0,0,0,0,6,4,0,0,0,0,0,0
+Citrus reticulata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,14,0,0,0,0,0,0,0,0,0,6,8,0,0,0,0,0,0
+Dioscorea rotundata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,14,5,0,0,0,3,0,0,0,0,6,0,0,0,0,0,0,0
+Ligustrum japonicum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,14,3,0,0,0,5,0,0,0,0,6,0,0,0,0,0,0,0
+Oryza rufipogon,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,14,2,0,0,0,1,0,0,0,0,11,0,0,0,0,0,0,0
+Rosa multiflora,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,14,1,0,0,0,5,0,0,0,0,8,0,0,0,0,0,0,0
+Vigna mungo,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,14,1,0,0,0,0,0,0,0,0,4,9,0,0,0,0,0,0
+Allium cepa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,13,4,0,0,0,1,0,0,0,0,8,0,0,0,0,0,0,0
+Anethum graveolens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,13,2,0,0,0,4,0,0,0,0,5,2,0,0,0,0,0,0
+Chrysanthemum x morifolium,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,13,0,0,0,0,0,0,0,0,0,10,3,0,0,0,0,0,0
+Cleome affinis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,13,1,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0
+Coccinia grandis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,13,2,0,0,0,3,0,0,0,0,2,6,0,0,0,0,0,0
+Hardenbergia comptoniana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,13,2,0,0,0,2,0,0,0,0,6,3,0,0,0,0,0,0
+Sauropus androgynus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,13,2,0,0,0,2,0,0,0,0,1,8,0,0,0,0,0,0
+Sorghum halepense,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,13,5,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+Arracacia xanthorrhiza,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,12,2,0,0,0,2,0,0,0,0,8,0,0,0,0,0,0,0
+Brassica napus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,12,3,0,0,0,2,0,0,0,0,6,1,0,0,0,0,0,0
+Capsicum frutescens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,12,3,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0
+Cynara cardunculus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,12,3,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+Lolium perenne,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,12,1,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0
+Paspalum dilatatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,12,1,0,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0
+Piper nigrum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,12,1,0,0,0,1,0,0,0,0,3,7,0,0,0,0,0,0
+Solanum nigrum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,12,0,0,0,0,0,0,0,0,0,10,2,0,0,0,0,0,0
+Asystasia gangetica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,11,3,0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0
+Blainvillea rhomboidea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,11,1,0,0,0,3,0,0,0,0,0,7,0,0,0,0,0,0
+Euphorbia pulcherrima,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,11,4,0,0,0,3,0,0,0,0,3,1,0,0,0,0,0,0
+Fragaria chiloensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,11,2,0,0,0,3,0,0,0,0,6,0,0,0,0,0,0,0
+Humulus lupulus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,11,3,0,0,0,2,0,0,0,0,6,0,0,0,0,0,0,0
+Narcissus tazetta,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,11,3,0,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0
+Oryza sp.,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,11,2,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+Passiflora caerulea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,11,1,0,0,0,0,0,0,0,0,2,8,0,0,0,0,0,0
+Pelargonium zonale,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,11,3,0,0,0,2,0,0,0,0,6,0,0,0,0,0,0,0
+Setaria verticillata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,11,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,0,0
+Sida rhombifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,11,4,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+Trifolium incarnatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,11,1,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+Actinidia deliciosa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,10,2,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+Agave tequilana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,10,1,0,0,0,1,0,0,0,0,8,0,0,0,0,0,0,0
+Cordyline fruticosa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,10,1,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+Coriandrum sativum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,10,2,0,0,0,2,0,0,0,0,6,0,0,0,0,0,0,0
+Dioscorea trifida,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,10,3,0,0,0,2,0,0,0,0,4,1,0,0,0,0,0,0
+Diospyros kaki,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,10,3,0,0,0,4,0,0,0,0,3,0,0,0,0,0,0,0
+Eclipta prostrata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,10,1,0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0
+Emilia sonchifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,10,2,0,0,0,3,0,0,0,0,3,2,0,0,0,0,0,0
+Lablab purpureus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,10,0,0,0,0,0,0,0,0,0,7,3,0,0,0,0,0,0
+Physalis peruviana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,10,1,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0
+Prunus salicina,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,10,2,0,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0
+Rosa sp.,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,10,2,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+Saccharum sp.,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,10,1,0,0,0,0,0,0,0,0,2,7,0,0,0,0,0,0
+Sigesbeckia glabrescens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,10,5,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0
+Trifolium subterraneum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,10,2,0,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0
+Camellia sinensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,9,2,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0
+Catharanthus roseus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,9,2,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0
+Hydrangea macrophylla,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,9,1,0,0,0,2,0,0,0,0,6,0,0,0,0,0,0,0
+Luffa aegyptiaca,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,9,1,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0
+Papaver somniferum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,9,3,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0
+Pyrus communis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,9,1,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0
+Ribes rubrum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,9,3,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0
+Solanum muricatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,9,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,0,0
+Syringa vulgaris,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,9,1,0,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0
+Trigonella foenum-graecum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,9,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0
+Citrus volkameriana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,1,0,0,0,3,0,0,0,0,4,0,0,0,0,0,0,0
+Crassocephalum crepidioides,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,3,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0
+Dioscorea opposita,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,8,0,0,0,0,2,0,0,0,0,6,0,0,0,0,0,0,0
+Lonicera japonica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,2,0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0
+Malus sylvestris,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,8,3,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Mirabilis jalapa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,2,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Opuntia ficus-indica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,8,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Panax notoginseng,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,3,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Persea americana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,1,0,0,0,1,0,0,0,0,6,0,0,0,0,0,0,0
+Petroselinum crispum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,0,0,0,0,1,0,0,0,0,3,4,0,0,0,0,0,0
+Plantago major,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,0,0,0,0,1,0,0,0,0,4,3,0,0,0,0,0,0
+Pouzolzia zeylanica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,2,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0
+Prunus mume,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,1,0,0,0,2,0,0,0,0,5,0,0,0,0,0,0,0
+Rehmannia glutinosa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,8,2,0,0,0,1,0,0,0,0,4,1,0,0,0,0,0,0
+Robinia pseudoacacia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,8,0,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0
+Rubus occidentalis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,2,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0
+Sambucus nigra,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,8,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Setaria italica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,8,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0
+Solanum phureja,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,8,1,0,0,0,1,0,0,0,0,5,1,0,0,0,0,0,0
+Sorbus aucuparia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,8,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,0,0
+Vitis sp.,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,8,3,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0
+Zanthoxylum armatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,8,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0
+Ageratum houstonianum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Allium chinense,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0
+Atractylodes macrocephala,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,7,2,0,0,0,1,0,0,0,0,2,2,0,0,0,0,0,0
+Avena sp.,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,7,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Chenopodiastrum murale,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,7,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Chenopodium album,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0
+Citrus limon,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,7,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Crotalaria juncea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,7,1,0,0,0,1,0,0,0,0,3,2,0,0,0,0,0,0
+Dactylis glomerata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0
+Gentiana triflora,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,2,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0
+Jasminum sambac,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0
+Kalanchoe blossfeldiana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,2,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Liatris spicata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Macrotyloma uniflorum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0
+Ocimum basilicum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,7,2,0,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0
+Prunus dulcis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,7,1,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0
+Salvia splendens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,7,0,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0
+Senna occidentalis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,7,2,0,0,0,2,0,0,0,0,2,1,0,0,0,0,0,0
+Smallanthus sonchifolius,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,7,2,0,0,0,1,0,0,0,0,2,2,0,0,0,0,0,0
+Solanum quitoense,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,7,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0
+Abelmoschus manihot,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0
+Allium ampeloprasum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Arachis pintoi,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,1,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Bromus hordeaceus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Cannabis sativa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,6,1,0,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0
+Cercis canadensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Citrus maxima,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0
+Cyamopsis tetragonoloba,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,1,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0
+Dianthus chinensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,1,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Dioscorea polystachya,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0
+Elettaria cardamomum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,2,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Eragrostis curvula,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,2,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0
+Fritillaria thunbergii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Hevea brasiliensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0
+Ilex paraguariensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,2,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Ixeridium dentatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Leonurus sibiricus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,1,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0
+Luffa acutangula,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,1,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Oxalis tuberosa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,1,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Panicum virgatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,3,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Phlox stolonifera,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Phytolacca americana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,1,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0
+Pinellia ternata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0
+Sambucus racemosa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Sicyos edulis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0
+Solanum torvum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,0,0,0,0,1,0,0,0,0,1,4,0,0,0,0,0,0
+Sorghum arundinaceum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0
+Ulmus glabra,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,6,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0
+Vanilla planifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Zostera marina,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,6,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Anthocercis littorea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,5,1,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0
+Arabidopsis halleri,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Arctium lappa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Bidens pilosa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Brugmansia suaveolens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Campanula takesimana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Corchorus siliquosus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0
+Daphne odora,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Deinbollia borbonica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0
+Dioscorea sansibarensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Eupatorium makinoi,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,2,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Eutrema japonicum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Gymnocalycium mihanovichii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,5,1,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0
+Impatiens walleriana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Lamium album,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Ludwigia hyssopifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Malva parviflora,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,0,0,0,0,1,0,0,0,0,3,1,0,0,0,0,0,0
+Medicago lupulina,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Mentha x gracilis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Morus alba,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Nicotiana debneyi,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Opuntia microdasys,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0
+Pelargonium x hortorum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Plantago asiatica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Plantago lanceolata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Plumeria rubra,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Poa cookii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Primula malacoides,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Rosa rugosa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Rubus canadensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Rudbeckia hirta,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,5,1,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0
+Sinapis alba,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Solanum betaceum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+Sonchus oleraceus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+Stachytarpheta jamaicensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0
+Urochloa plantaginea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,5,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Vicia sativa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0
+Zinnia elegans,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Allamanda cathartica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Allium fistulosum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Alopecurus myosuroides,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Andrographis paniculata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Armoracia rusticana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Artemisia carvifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Bougainvillea spectabilis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Bromus inermis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Camellia oleifera,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Capsella bursa-pastoris,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Clitoria ternatea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,4,4,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+Corchorus capsularis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Diplotaxis erucoides,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Diuris pedunculata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Dracaena sanderiana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,4,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Duranta erecta,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Erigeron breviscapus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Eucharis x grandiflora,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Eustoma grandiflorum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,4,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0
+Fallopia dumetorum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Festuca pratensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Gossypium darwinii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Hippeastrum sp.,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Humulus japonicus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Ipomoea setosa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Malus pumila,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Musa x paradisiaca,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+Nicotiana glauca,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Oxalis corniculata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Parthenium hysterophorus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0
+Petasites japonicus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Phaseolus lunatus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Prunus cerasifera,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+Saccharum sinense,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0
+Salvia hispanica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Solanum aethiopicum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Synedrella nodiflora,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0
+Trichosanthes kirilowii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+Tulipa gesneriana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Wissadula amplissima,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,4,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Zantedeschia aethiopica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Angelonia angustifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Anredera cordifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Arrhenatherum elatius,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Artemisia annua,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Asclepias viridis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Astragalus sinicus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0
+Caladenia latifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Callistephus chinensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Canna indica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Capraria biflora,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Capsicum baccatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Carya illinoinensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Clerodendrum cyrtophyllum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Corchorus olitorius,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Crambe hispanica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+Cycas revoluta,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Cymbidium goeringii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Cyrtanthus elatus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Cyrtomium falcatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Dahlia pinnata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Daphne mezereum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Digitaria didactyla,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Diospyros virginiana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Dysphania ambrosioides,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Eleocharis dulcis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Eriobotrya japonica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+Euonymus maackii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Gymnanthemum amygdalinum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Habenaria radiata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Hibiscus sabdariffa,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+Hoya wayetii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Imperata cylindrica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Iris ensata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Lamium maculatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Lespedeza procumbens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Ligustrum obtusifolium,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Lupinus polyphyllus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Megaskepasma erythrochlamys,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Mikania micrantha,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Nicotiana velutina,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Paspalum setaceum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Passiflora incarnata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Phaius flavus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Phleum pratense,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Phlox divaricata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Pueraria montana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Raphanus raphanistrum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+Rhododendron maximum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Sechium edule,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Solanum aculeatissimum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Solanum viarum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Telfairia occidentalis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Telosma cordata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Thesium chinense,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Thunbergia alata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Trisetum flavescens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Vasconcellea x heilbornii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Vitis labrusca x Vitis vinifera,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Wisteria sinensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Agapanthus campanulatus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Alpinia purpurata,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Amorphophallus konjac,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Anthoxanthum odoratum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Axonopus compressus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Betula pubescens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Brassica juncea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Bromus catharticus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Carnegiea gigantea,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Centaurea cyanus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Centrosema brasilianum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cestrum parqui,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Chrysanthemum indicum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Citrus reticulata x Citrus sinensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Crocus sativus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Croton glandulosus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cymbidium hybrid,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Cynanchum wilfordii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Datura inoxia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Desmodium glabrum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Dimocarpus longan,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Dioscorea communis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Dioscorea japonica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Dioscorea parviflora,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Disocactus flagelliformis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Diuris longifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ecballium elaterium,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Elaeis guineensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Eleusine indica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Eragrostis minor,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Gerbera jamesonii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Gossypium mustelinum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Hedyotis uncinella,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Helleborus x hybridus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Hemidesmus indicus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Heracleum sphondylium,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Hyacinthus orientalis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Hylocereus undatus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jatropha gossypiifolia,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Jatropha multifida,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Lilium formosanum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Lilium sp.,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Lupinus nootkatensis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Panax ginseng,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Phalaenopsis equestris,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Phragmites australis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Physalis heterophylla,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Pinus nigra,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Pleione humilis,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Pseudotsuga menziesii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Psophocarpus tetragonolobus,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ribes americanum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rosa hybrid,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rumex obtusifolius,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Saccharum barberi,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Salvia divinorum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Scrophularia californica,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Secale cereale,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Senecio scandens,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Sesbania grandiflora,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Solanum chancayense,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Solanum dulcamara,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Solanum mammosum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Solanum nodiflorum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Solanum pimpinellifolium,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Spathiphyllum patinii,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Styphnolobium japonicum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Tagetes patula,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Thalassia testudinum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Trifolium resupinatum,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Tulipa fosteriana,species,Plants,Plantae,Grouped under the conventional taxon of its harmonized category,,2,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Fungi  (not resolved to species),not species-resolved,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,259,19,0,0,0,26,0,0,0,0,214,0,0,0,0,0,0,0
+Sclerotinia sclerotiorum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,118,22,0,0,0,32,0,0,0,0,64,0,0,0,0,0,0,0
+Fungi,kingdom,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,107,4,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,3
+Botrytis cinerea,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,81,14,0,0,0,5,0,0,0,0,62,0,0,0,0,0,0,0
+Erysiphe necator,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,75,3,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0
+Rhizoctonia solani,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,69,8,0,0,0,6,0,0,0,0,55,0,0,0,0,0,0,0
+Rosellinia necatrix,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,61,13,0,0,0,15,0,0,0,0,33,0,0,0,0,0,0,0
+Fusarium poae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,57,18,0,0,0,20,0,0,0,0,19,0,0,0,0,0,0,0
+Cryphonectria parasitica,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,49,8,0,0,0,14,0,0,0,0,27,0,0,0,0,0,0,0
+Botryosphaeria dothidea,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,32,3,0,0,0,10,0,0,0,0,19,0,0,0,0,0,0,0
+Fusarium graminearum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,32,8,0,0,0,7,0,0,0,0,17,0,0,0,0,0,0,0
+Ustilaginoidea virens,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,26,8,0,0,0,7,0,0,0,0,11,0,0,0,0,0,0,0
+Ceratobasidium cereale,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,22,1,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0
+Macrophomina phaseolina,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,22,1,0,0,0,1,0,0,0,0,20,0,0,0,0,0,0,0
+Erysiphe trifoliorum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,21,7,0,0,0,7,0,0,0,0,7,0,0,0,0,0,0,0
+Saccharomyces cerevisiae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,20,6,0,0,0,2,0,0,0,0,12,0,0,0,0,0,0,0
+Penicillium aurantiogriseum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,19,6,0,0,0,8,0,0,0,0,5,0,0,0,0,0,0,0
+Gremmeniella abietina,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,18,6,0,0,0,6,0,0,0,0,6,0,0,0,0,0,0,0
+Pyricularia oryzae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,18,5,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0
+Bipolaris maydis,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,15,3,0,0,0,2,0,0,0,0,10,0,0,0,0,0,0,0
+Cronartium ribicola,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,15,5,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+Penicillium janczewskii,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,13,1,0,0,0,4,0,0,0,0,8,0,0,0,0,0,0,0
+Alternaria alternata,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,12,2,0,0,0,1,0,0,0,0,9,0,0,0,0,0,0,0
+Beauveria bassiana,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,12,4,0,0,0,5,0,0,0,0,3,0,0,0,0,0,0,0
+Discula destructiva,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,12,2,0,0,0,6,0,0,0,0,4,0,0,0,0,0,0,0
+Heterobasidion parviporum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,12,3,0,0,0,2,0,0,0,0,7,0,0,0,0,0,0,0
+Aspergillus foetidus,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,11,2,0,0,0,4,0,0,0,0,5,0,0,0,0,0,0,0
+Fusarium oxysporum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,11,1,0,0,0,4,0,0,0,0,6,0,0,0,0,0,0,0
+Ceratobasidium sp.,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,10,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Gigaspora margarita,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,10,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Ophiostoma novo-ulmi,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,10,4,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0
+Aspergillus fumigatus,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,9,3,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Penicillium chrysogenum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,9,1,0,0,0,4,0,0,0,0,4,0,0,0,0,0,0,0
+Penicillium digitatum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,9,3,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0
+Colletotrichum fructicola,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,8,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0
+Heterobasidion annosum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,8,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Tuber aestivum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,8,3,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Bipolaris victoriae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,7,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+Fusarium asiaticum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,7,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Nigrospora oryzae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,7,2,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0
+Alternaria brassicicola,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,6,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Cladosporium cladosporioides,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,6,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+Alternaria arborescens,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,5,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Cordyceps javanica,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Cryphonectria nitschkei,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Erysiphe palczewskii,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Neofusicoccum luteum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,5,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Penicillium stoloniferum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Pleurotus ostreatus,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Pseudogymnoascus destructans,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Sclerotium hydrophilum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,5,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
+Stemphylium lycopersici,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Trichoderma harzianum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Verticillium dahliae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,5,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Diplodia sapinea,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Helicobasidium mompa,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Phomopsis vexans,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Saccharomyces kudriavzevii,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,4,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+Thielaviopsis basicola,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,4,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Antonospora locustae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Aspergillus ochraceus,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Atkinsonella hypoxylon,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Chondrostereum purpureum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Clitocybe odora,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Curvularia protuberata,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Endoconidiophora polonica,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Endoconidiophora resinifera,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Flammulina velutipes,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Fusarium coeruleum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Fusarium globosum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Fusarium langsethiae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Fusarium solani,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Golovinomyces cichoracearum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Heterobasidion abietinum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Heterobasidion ecrustosum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Heterobasidion irregulare,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Ophiostoma himal-ulmi,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Penicillium roqueforti,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Phlebiopsis gigantea,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Pleospora typhicola,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Sclerotinia nivalis,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Sodiomyces alkalinus,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Thelephora terrestris,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Tolypocladium cylindrosporum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,3,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Xanthophyllomyces dendrorhous,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Agaricus bisporus,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Alternaria longipes,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Botrytis porri,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ceratorhiza oryzae-sativae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Colletotrichum higginsianum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cytospora ceratosperma,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Diplodia scrobiculata,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Epichloe festucae,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Leptosphaeria biglobosa,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Paraphaeosphaeria minitans,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rhizophagus irregularis,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rhizophagus sp. (in: Fungi),species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Scheffersomyces segobiensis,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Sclerotinia minor,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Torulaspora delbrueckii,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Trichoderma asperellum,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Trichoderma atroviride,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ustilago maydis,species,Fungi,Fungi,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Unknown host  (not resolved to species),not species-resolved,Unknown/Excluded,Unknown host,Grouped under its harmonized category as it stands,,4,84,1,9,0,0,5,0,0,0,0,0,0,0,0,0,0,69,0
+Algae  (not resolved to species),not species-resolved,Algae,Algae,Grouped under its harmonized category as it stands,,2,657,42,0,0,0,0,0,0,0,0,0,0,0,0,615,0,0,0
+Chaetoceros tenuissimus,species,Algae,Algae,Grouped under its harmonized category as it stands,,2,7,4,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Chaetoceros lorenzianus,species,Algae,Algae,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Delisea pulchra,species,Algae,Algae,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Protists & oomycetes  (not resolved to species),not species-resolved,Protists & oomycetes,Protists & oomycetes,Grouped under its harmonized category as it stands,,1,47,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichomonas vaginalis,species,Protists & oomycetes,Protists & oomycetes,Grouped under its harmonized category as it stands,,2,9,5,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Phytophthora infestans,species,Protists & oomycetes,Protists & oomycetes,Grouped under its harmonized category as it stands,,2,7,4,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Cafeteria roenbergensis,species,Protists & oomycetes,Protists & oomycetes,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Leishmania major,species,Protists & oomycetes,Protists & oomycetes,Grouped under its harmonized category as it stands,,2,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Eimeria tenella,species,Protists & oomycetes,Protists & oomycetes,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Leishmania aethiopica,species,Protists & oomycetes,Protists & oomycetes,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phytomonas serpens,species,Protists & oomycetes,Protists & oomycetes,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phytophthora parasitica,species,Protists & oomycetes,Protists & oomycetes,Grouped under its harmonized category as it stands,,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

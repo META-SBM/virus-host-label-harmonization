@@ -1,0 +1,18 @@
+Tool,Human_dominance_fraction,Human_dominance_NA_reason,Human_dominance_fraction_adjusted,Human_dominance_adjustment_note,Primate_dominance_fraction,Primate_dominance_NA_reason,Dataset_size,Log10_dataset_size,Breadth_of_27,Concentration_index,Top_category,Total_host_records_used
+RNAVirHost,0.2542,,,,0.2752,,14500,4.161,16,0.3228,Plants,17063
+Zoonotic rank,0.1236,,,,0.1991,,1258,3.1,16,0.1565,Ungulates,914
+UniVH,0.0014,,,,0.0258,,81874,4.913,15,0.3139,Unresolved invertebrates,736
+SPHAK,0.4038,,,,0.4073,,13570,4.133,13,0.4038,Humans,13570
+ViralHostPredictor,N/A (no standalone Humans category at this tool's resolution),Humans merged into 'Primates' (order-level),,,0.103,,536,2.729,12,0.1554,Rodents,534
+EvoMIL,0.3446,,,,0.4036,,3869,3.588,9,0.3446,Humans,3833
+VIDHOP,0.5153,,,,0.5153,,263962,5.422,6,0.5153,Humans,263962
+"HostNet (Rabies, VIPHOD)",0.0409,,,,0.0409,,11685,4.068,5,0.655,Carnivores,11685
+HostNet (Flavivirus),N/A (no standalone Humans category at this tool's resolution),Vector-only tool -- no host axis,,,N/A,Vector-only tool -- no host axis,9626,3.983,0,N/A,N/A,0
+MENB,0.3333,,,,0.3333,,3600,3.556,3,0.3333,Birds,3600
+GIVAL,0.4439,,,,0.4439,,121753,5.085,7,0.4439,Humans,121532
+DeepHoF,0.591,,,,0.591,,61684,4.79,5,0.591,Humans,54929
+Host Taxon Predictor,0.0433,,,,0.0709,,5282,3.723,21,0.285,Plants,4063
+VirHostPRED,0.5,,0.4448,excludes 235 bacteriophage records (141 Staphylococcus phage 6ec + 94 IAS virus/Crassvirales) confirmed via raw FASTA headers + NCBI taxonomy; not caught by the source paper's own QC,0.5,,4254,3.629,2,0.5,Humans,4254
+DeePaC-vir,0.2041,,,,0.2353,,9496,3.978,21,0.2797,Plants,6413
+MosViR,N/A (no standalone Humans category at this tool's resolution),,,,N/A,,27002,4.431,2,0.9115,Unresolved vertebrates,27002
+VPF-Class,0.6251,,,,0.6251,,19056,4.28,5,0.6251,Humans,1995

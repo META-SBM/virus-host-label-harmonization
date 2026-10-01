@@ -1,0 +1,19 @@
+#,Tool,File,Recomputed from,N labels,Sum of numeric counts
+1,DeepHoF,01_DeepHoF_counts.csv,"41598_2021_96903_MOESM5_ESM.xlsx (train_genome_info + test_genome_info sheets, Host column, 61,684 total genome records)",6,66949
+2,RNAVirHost,02_RNAVirHost_counts.csv,"virus_label(1).csv (14,500 rows), y|host name column (finer species-level resolution than the y|L1/y|L2/y|host class columns the original harmonization used)",2497,17107
+3,Host Taxon Predictor,03_Host_Taxon_Predictor_counts.csv,"all_viruses_with_desired_attributes.dump (5,282 records), host + host_lineage fields (finer resolution than the 4 keyword-presence experimental-binary flags the original harmonization derived from host_lineage)",1218,5282
+4,EvoMIL,04_EvoMIL_counts.csv,"journal.pcbi.1012597.s002_converted.xlsx, sheet Table_S2 (36 host rows, Number of viruses column)",18,3869
+5,VIDHOP,05_VIDHOP_counts.csv,Y_train/Y_val/Y_test.csv summed across Influ_strict + Rabies_strict + Rota_strict (all 3 splits),51,263962
+6,HostNet (Flavivirus),06_HostNet_Flavivirus_counts.csv,"flavivirus.csv (9,626 rows), Y2_subVector column",3,9626
+7,"HostNet (Rabies, VIPHOD)",07_HostNet_Rabies_VIPHOD_counts.csv,VIDHOP/small_paper_version_Rabies_strict Y_train.csv + Y_test.csv ONLY (val split excluded -- matches original exactly only when val is excluded; same underlying source as VIDHOP's own Rabies_strict split),17,11685
+8,MENB,08_MENB_counts.csv,"msaf127_supplementary_data.pdf, Supplementary Figure 1A (per-strain train/test table, transcribed from rendered PDF page 3) -- TRAIN counts only, this IS what the article itself headlines as its dataset",3,3600
+9,ViralHostPredictor,09_ViralHostPredictor_counts.csv,"BabayanEtAl_VirusData.csv (536 rows), Reservoir + Vector columns",35,695
+10,Zoonotic rank,10_Zoonotic_rank_counts.csv,"AllInternalData_Checked.csv (1,258 records), Reservoir column",16,1258
+11,HostClassifier,11_HostClassifier_counts.csv,"virus-host-datasets_v4.5.0.csv (58,055 rows), standardized_host column (finer species-level resolution than the host_category column the original harmonization used)",1238,58055
+12,VirHostPRED,12_VirHostPRED_counts.csv,reps70.fasta (positive class) + random_dataset_1.fasta (negative class),2,4254
+13,SPHAK,13_SPHAK_counts.csv,"animal_train.csv + plant_train.csv, Host column (finer species-level resolution than the Host_agg column the original harmonization used for animals, and than the plain row-count-only treatment it used for plants)",631,13570
+14,UniVH,14_UniVH_counts.csv,"dataset.csv (81,874 accession-pair rows), deduped by host.species.name -> 525-species candidate pool; host.order/host.class/host.kingdom columns",15,736
+15,GIVAL,15_GIVAL_counts.csv,"df_AIV_before_sample.csv (121,753 sequences), host column",27,121753
+16,DeePaC-vir,16_DeePaC-vir_counts.csv,"VHDB_1_folds_human.rds + VHDB_1_folds_all_nhuman.rds (Zenodo 10.5281/zenodo.4312525), host.name column, 9,496 Virus-Host DB records (1,309 human, 8,187 non-human)",2284,9496
+17,MosViR,17_MosViR_counts.csv,"mosquito_500.fasta.xz + arboviruses_500bp.fasta.xz (Zenodo 10.5281/zenodo.10975789), 500 bp fragments collapsed to 27,002 source sequences",2,27002
+18,VPF-Class,18_VPF-Class_counts.csv,"VPF_Class/2019_VPF_GenHost_REclassification_new.tsv, genus-level host reclassification filtered to membership ratio >=50% (the cut above which a profile can satisfy only one genus, so each of the 12,253 profiles is counted once)",13,12253

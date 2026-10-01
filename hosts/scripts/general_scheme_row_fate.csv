@@ -1,0 +1,1316 @@
+Row,Final_category,Fate
+Abelmoschus esculentus,Plantae,taxon_promoted
+Abelmoschus manihot,Plantae,taxon_promoted
+Acartia tonsa,Other invertebrates,detailed_scheme_direct
+Acerodon celebensis,Other mammals,detailed_scheme_direct
+Acheta domesticus,Insects,detailed_scheme_direct
+Actinidia chinensis,Plantae,taxon_promoted
+Actinidia deliciosa,Plantae,taxon_promoted
+Acyrthosiphon pisum,Insects,detailed_scheme_direct
+Adoxophyes orana,Insects,detailed_scheme_direct
+Aedeomyia squamipennis,Insects,detailed_scheme_direct
+Aedes aegypti,Culicidae,vector_or_crustacea_rollup
+Aedes albopictus,Culicidae,vector_genus_fallback
+Aedes circumluteolus,Culicidae,vector_genus_fallback
+Aedes pseudoscutellaris,Culicidae,vector_genus_fallback
+Aedes vexans,Culicidae,vector_genus_fallback
+Agapanthus campanulatus,Plantae,taxon_promoted
+Agaricus bisporus,Fungi,detailed_scheme_direct
+Agave tequilana,Plantae,taxon_promoted
+Ageratum conyzoides,Plantae,taxon_promoted
+Ageratum houstonianum,Plantae,taxon_promoted
+Agrotis ipsilon,Insects,detailed_scheme_direct
+Agrotis segetum,Insects,detailed_scheme_direct
+Ailuropoda melanoleuca,Carnivora,taxon_promoted
+Ailurus fulgens,Carnivora,taxon_promoted
+Aix galericulata,Aves,taxon_promoted
+Aix sponsa,Aves,taxon_promoted
+Alcea rosea,Plantae,taxon_promoted
+Algae  (not resolved to species),Algae,detailed_scheme_direct
+Allamanda cathartica,Plantae,taxon_promoted
+Allium ampeloprasum,Plantae,taxon_promoted
+Allium cepa,Plantae,taxon_promoted
+Allium chinense,Plantae,taxon_promoted
+Allium fistulosum,Plantae,taxon_promoted
+Allium sativum,Plantae,taxon_promoted
+Alopecurus myosuroides,Plantae,taxon_promoted
+Alouatta caraya,Other mammals,detailed_scheme_direct
+Alpinia purpurata,Plantae,taxon_promoted
+Alternaria alternata,Fungi,detailed_scheme_direct
+Alternaria arborescens,Fungi,detailed_scheme_direct
+Alternaria brassicicola,Fungi,detailed_scheme_direct
+Alternaria longipes,Fungi,detailed_scheme_direct
+Amazona farinosa,Aves,taxon_promoted
+Amazona oratrix,Aves,taxon_promoted
+Amblyomma americanum,Ixodida,vector_or_crustacea_rollup
+Ameiva ameiva,Reptilia,taxon_promoted
+Amorphophallus konjac,Plantae,taxon_promoted
+Amphibalanus rhizophorae,Other invertebrates,detailed_scheme_direct
+Amphibians  (not resolved to species),Amphibia,taxon_promoted
+Amphibola crenata,Other invertebrates,detailed_scheme_direct
+Ananas comosus,Plantae,taxon_promoted
+Anas acuta,Aves,taxon_promoted
+Anas carolinensis,Aves,taxon_promoted
+Anas clypeata,Aves,taxon_promoted
+Anas crecca,Aves,taxon_promoted
+Anas discors,Aves,taxon_promoted
+Anas platyrhynchos,Anas platyrhynchos,standalone_species
+Anas rubripes,Aves,taxon_promoted
+Anatidae,Aves,taxon_promoted
+Andrena haemorrhoa,Insects,detailed_scheme_direct
+Andrographis paniculata,Plantae,taxon_promoted
+Anethum graveolens,Plantae,taxon_promoted
+Angelonia angustifolia,Plantae,taxon_promoted
+Anguilla anguilla,Fish,detailed_scheme_direct
+Anguilla australis,Fish,detailed_scheme_direct
+Anguilla marmorata,Fish,detailed_scheme_direct
+Anopheles albimanus,Culicidae,vector_genus_fallback
+Anopheles annulipes,Culicidae,vector_genus_fallback
+Anopheles atropos,Culicidae,vector_genus_fallback
+Anopheles coluzzii,Culicidae,vector_genus_fallback
+Anopheles coustani,Culicidae,vector_genus_fallback
+Anopheles farauti,Culicidae,vector_genus_fallback
+Anopheles funestus,Culicidae,vector_genus_fallback
+Anopheles gambiae,Culicidae,vector_genus_fallback
+Anopheles hinesorum,Culicidae,vector_genus_fallback
+Anopheles meraukensis,Culicidae,vector_genus_fallback
+Anopheles quadrimaculatus,Culicidae,vector_genus_fallback
+Anopheles sinensis,Culicidae,vector_genus_fallback
+Anopheles tessellatus,Culicidae,vector_genus_fallback
+Anopheles vagus,Culicidae,vector_genus_fallback
+Anourosorex squamipes,Other mammals,taxon_promoted
+Anredera cordifolia,Plantae,taxon_promoted
+Anser albifrons,Aves,taxon_promoted
+Anser anser,Aves,taxon_promoted
+Anser caerulescens,Aves,taxon_promoted
+Anser cygnoides,Aves,taxon_promoted
+Anser fabalis,Aves,taxon_promoted
+Anser indicus,Aves,taxon_promoted
+Anser rossii,Aves,taxon_promoted
+Anser sp.,Aves,taxon_promoted
+Antennarius striatus,Fish,detailed_scheme_direct
+Antheraea pernyi,Insects,detailed_scheme_direct
+Anthocercis littorea,Plantae,taxon_promoted
+Anthoxanthum odoratum,Plantae,taxon_promoted
+Anticarsia gemmatalis,Insects,detailed_scheme_direct
+Antilocapra americana,Other mammals,detailed_scheme_direct
+Antonospora locustae,Fungi,detailed_scheme_direct
+Aotus trivirgatus,Other mammals,detailed_scheme_direct
+Aphis fabae,Insects,detailed_scheme_direct
+Aphis glycines,Insects,detailed_scheme_direct
+Apis cerana,Insects,detailed_scheme_direct
+Apis mellifera,Insects,detailed_scheme_direct
+Apium graveolens,Plantae,taxon_promoted
+Aplysia californica,Other invertebrates,detailed_scheme_direct
+Apodemus agrarius,Rodentia,taxon_promoted
+Apodemus argenteus,Rodentia,taxon_promoted
+Apodemus chevrieri,Rodentia,taxon_promoted
+Apodemus flavicollis,Rodentia,taxon_promoted
+Apodemus sylvaticus,Rodentia,taxon_promoted
+Ara ararauna,Aves,taxon_promoted
+Arabidopsis halleri,Plantae,taxon_promoted
+Arabidopsis thaliana,Plantae,taxon_promoted
+Arachis hypogaea,Plantae,taxon_promoted
+Arachis pintoi,Plantae,taxon_promoted
+Arachnida,Arachnida,taxon_promoted
+Arachnids  (not resolved to species),Arachnida,taxon_promoted
+Aratinga solstitialis,Aves,taxon_promoted
+Arctium lappa,Plantae,taxon_promoted
+Arctocephalus forsteri,Other mammals,detailed_scheme_direct
+Arctocephalus gazella,Carnivora,taxon_promoted
+Areca catechu,Plantae,taxon_promoted
+Arenaria interpres,Aves,taxon_promoted
+Argas miniatus,Ixodida,vector_genus_fallback
+Argas reflexus,Ixodida,vector_genus_fallback
+Armadillidium vulgare,Other invertebrates,detailed_scheme_direct
+Armigeres subalbatus,Insects,detailed_scheme_direct
+Armoracia rusticana,Plantae,taxon_promoted
+Arracacia xanthorrhiza,Plantae,taxon_promoted
+Arrhenatherum elatius,Plantae,taxon_promoted
+Artemisia annua,Plantae,taxon_promoted
+Artemisia carvifolia,Plantae,taxon_promoted
+Artemisina melana,Other invertebrates,detailed_scheme_direct
+Artibeus jamaicensis,Other mammals,detailed_scheme_direct
+Artibeus lituratus,Chiroptera,taxon_promoted
+Artiodactyla,Artiodactyla,taxon_promoted
+Asclepias viridis,Plantae,taxon_promoted
+Aselliscus stoliczkanus,Other mammals,detailed_scheme_direct
+Aspergillus foetidus,Fungi,detailed_scheme_direct
+Aspergillus fumigatus,Fungi,detailed_scheme_direct
+Aspergillus ochraceus,Fungi,detailed_scheme_direct
+Aspidites melanocephalus,Reptilia,taxon_promoted
+Astragalus sinicus,Plantae,taxon_promoted
+Asystasia gangetica,Plantae,taxon_promoted
+Ateles paniscus,Other mammals,detailed_scheme_direct
+Ateles sp.,Non-human primates,detailed_scheme_direct
+Atherigona orientalis,Insects,detailed_scheme_direct
+Atheris squamigera,Reptilia,taxon_promoted
+Atkinsonella hypoxylon,Fungi,detailed_scheme_direct
+Atractylodes macrocephala,Plantae,taxon_promoted
+Aulacorthum magnoliae,Insects,detailed_scheme_direct
+Austrovenus stutchburyi,Other invertebrates,detailed_scheme_direct
+Avena sativa,Plantae,taxon_promoted
+Avena sp.,Plantae,taxon_promoted
+Aves,Aves,taxon_promoted
+Axonopus compressus,Plantae,taxon_promoted
+Bandicota sp.,Rodentia,taxon_promoted
+Barbus barbus,Fish,detailed_scheme_direct
+Bats  (not resolved to species),Chiroptera,taxon_promoted
+Beauveria bassiana,Fungi,detailed_scheme_direct
+Bemisia tabaci,Insects,detailed_scheme_direct
+Benincasa hispida,Plantae,taxon_promoted
+Beta vulgaris,Plantae,taxon_promoted
+Bettongia penicillata,Other mammals,detailed_scheme_direct
+Betula pubescens,Plantae,taxon_promoted
+Bidens pilosa,Plantae,taxon_promoted
+Biomphalaria glabrata,Other invertebrates,detailed_scheme_direct
+Bipolaris maydis,Fungi,detailed_scheme_direct
+Bipolaris victoriae,Fungi,detailed_scheme_direct
+Birds  (not resolved to species),Aves,taxon_promoted
+Blainvillea rhomboidea,Plantae,taxon_promoted
+Blattella germanica,Insects,detailed_scheme_direct
+Blicca bjoerkna,Fish,detailed_scheme_direct
+Boa constrictor,Reptilia,taxon_promoted
+Bombyx mori,Insects,detailed_scheme_direct
+Bos grunniens,Artiodactyla,taxon_promoted
+Bos javanicus,Artiodactyla,taxon_promoted
+Bos taurus,Bos taurus,standalone_species
+Bothrops atrox,Reptilia,taxon_promoted
+Botryosphaeria dothidea,Fungi,detailed_scheme_direct
+Botrytis cinerea,Fungi,detailed_scheme_direct
+Botrytis porri,Fungi,detailed_scheme_direct
+Bougainvillea spectabilis,Plantae,taxon_promoted
+Branta canadensis,Aves,taxon_promoted
+Brassica juncea,Plantae,taxon_promoted
+Brassica napus,Plantae,taxon_promoted
+Brassica oleracea,Plantae,taxon_promoted
+Brassica rapa,Plantae,taxon_promoted
+Brevicoryne brassicae,Insects,detailed_scheme_direct
+Bromus catharticus,Plantae,taxon_promoted
+Bromus hordeaceus,Plantae,taxon_promoted
+Bromus inermis,Plantae,taxon_promoted
+Brugmansia suaveolens,Plantae,taxon_promoted
+Bubalus bubalis,Artiodactyla,taxon_promoted
+Budorcas taxicolor,Other mammals,detailed_scheme_direct
+Buteo jamaicensis,Aves,taxon_promoted
+Cacatua moluccensis,Aves,taxon_promoted
+Caenorhabditis briggsae,Other invertebrates,detailed_scheme_direct
+Caenorhabditis elegans,Other invertebrates,detailed_scheme_direct
+Cafeteria roenbergensis,Protists & oomycetes,detailed_scheme_direct
+Cairina moschata,Aves,taxon_promoted
+Cajanus cajan,Plantae,taxon_promoted
+Caladenia latifolia,Plantae,taxon_promoted
+Calidris alba,Aves,taxon_promoted
+Calidris canutus,Aves,taxon_promoted
+Calidris fuscicollis,Aves,taxon_promoted
+Calidris ruficollis,Aves,taxon_promoted
+Callinectes ornatus,Other invertebrates,detailed_scheme_direct
+Callinectes sapidus,Crustacea,vector_or_crustacea_rollup
+Callistephus chinensis,Plantae,taxon_promoted
+Callithrix jacchus,Other mammals,detailed_scheme_direct
+Callosciurus erythraeus,Other mammals,detailed_scheme_direct
+Calomys callosus,Rodentia,taxon_promoted
+Calomys laucha,Rodentia,taxon_promoted
+Caluromys philander,Other mammals,taxon_promoted
+Camellia oleifera,Plantae,taxon_promoted
+Camellia sinensis,Plantae,taxon_promoted
+Camelus bactrianus,Artiodactyla,taxon_promoted
+Camelus dromedarius,Artiodactyla,taxon_promoted
+Campanula takesimana,Plantae,taxon_promoted
+Camponotus japonicus,Insects,detailed_scheme_direct
+Camponotus nipponicus,Insects,detailed_scheme_direct
+Camponotus yamaokai,Insects,detailed_scheme_direct
+Canis lupus,Canis lupus,standalone_species
+Canna indica,Plantae,taxon_promoted
+Cannabis sativa,Plantae,taxon_promoted
+Capitulum mitella,Crustacea,vector_or_crustacea_rollup
+Capra hircus,Capra hircus,standalone_species
+Capraria biflora,Plantae,taxon_promoted
+Capreolus capreolus,Artiodactyla,taxon_promoted
+Capsella bursa-pastoris,Plantae,taxon_promoted
+Capsicum annuum,Plantae,taxon_promoted
+Capsicum baccatum,Plantae,taxon_promoted
+Capsicum frutescens,Plantae,taxon_promoted
+Carassius auratus,Fish,detailed_scheme_direct
+Caretta caretta,Reptilia,taxon_promoted
+Carica papaya,Plantae,taxon_promoted
+Caridea,Crustacea,vector_or_crustacea_rollup
+Carios pusillus,Arachnida,taxon_promoted
+Carnegiea gigantea,Plantae,taxon_promoted
+Carnivora,Carnivora,taxon_promoted
+Carnivores  (not resolved to species),Carnivora,taxon_promoted
+Carollia perspicillata,Chiroptera,taxon_promoted
+Carya illinoinensis,Plantae,taxon_promoted
+Castor canadensis,Other mammals,detailed_scheme_direct
+Catharanthus roseus,Plantae,taxon_promoted
+Catopsilia pomona,Insects,detailed_scheme_direct
+Catostomus commersonii,Fish,detailed_scheme_direct
+Cavia porcellus,Other mammals,detailed_scheme_direct
+Cebus albifrons,Other mammals,detailed_scheme_direct
+Cebus apella,Non-human primates,detailed_scheme_direct
+Centaurea cyanus,Plantae,taxon_promoted
+Centropristis striata,Fish,detailed_scheme_direct
+Centrosema brasilianum,Plantae,taxon_promoted
+Ceratobasidium cereale,Fungi,detailed_scheme_direct
+Ceratobasidium sp.,Fungi,detailed_scheme_direct
+Ceratorhiza oryzae-sativae,Fungi,detailed_scheme_direct
+Cercis canadensis,Plantae,taxon_promoted
+Cercocebus torquatus,Non-human primates,detailed_scheme_direct
+Cercopithecus ascanius,Non-human primates,detailed_scheme_direct
+Cercopithecus erythrotis,Other mammals,detailed_scheme_direct
+Cercopithecus mitis,Non-human primates,detailed_scheme_direct
+Cercopithecus mona,Non-human primates,detailed_scheme_direct
+Cercopithecus neglectus,Non-human primates,detailed_scheme_direct
+Cerdocyon thous,Carnivora,taxon_promoted
+Cervidae,Artiodactyla,taxon_promoted
+Cervus elaphus,Other mammals,detailed_scheme_direct
+Cestrum parqui,Plantae,taxon_promoted
+Chaerephon plicatus,Chiroptera,taxon_promoted
+Chaetoceros lorenzianus,Algae,detailed_scheme_direct
+Chaetoceros tenuissimus,Algae,detailed_scheme_direct
+Chaetocoelopa sydneyensis,Insects,detailed_scheme_direct
+Channa argus x Channa maculata,Fish,detailed_scheme_direct
+Channa striata,Fish,detailed_scheme_direct
+Chaoborus trivitattus,Insects,detailed_scheme_direct
+Charybdis japonica,Crustacea,vector_or_crustacea_rollup
+Chelonia mydas,Reptilia,taxon_promoted
+Chenopodiastrum murale,Plantae,taxon_promoted
+Chenopodium album,Plantae,taxon_promoted
+Chenopodium amaranticolor,Plantae,taxon_promoted
+Chenopodium quinoa,Plantae,taxon_promoted
+Cherax quadricarinatus,Crustacea,vector_or_crustacea_rollup
+Chiroptera,Chiroptera,taxon_promoted
+Chlorocebus (genus),Non-human primates,detailed_scheme_direct
+Chlorocebus aethiops,Chlorocebus aethiops,standalone_species
+Chlorocebus pygerythrus,Non-human primates,detailed_scheme_direct
+Chlorocebus sabaeus,Non-human primates,detailed_scheme_direct
+Choloepus didactylus,Other mammals,taxon_promoted
+Chondrostereum purpureum,Fungi,detailed_scheme_direct
+Choristoneura occidentalis,Insects,detailed_scheme_direct
+Choristoneura rosaceana,Insects,detailed_scheme_direct
+Chroicocephalus ridibundus,Aves,taxon_promoted
+Chrysanthemum indicum,Plantae,taxon_promoted
+Chrysanthemum x morifolium,Plantae,taxon_promoted
+Chrysomya megacephala,Insects,detailed_scheme_direct
+Cicer arietinum,Plantae,taxon_promoted
+Ciconia ciconia,Aves,taxon_promoted
+Cimex hemipterus,Insects,detailed_scheme_direct
+Circus aeruginosus,Aves,taxon_promoted
+Citrullus lanatus,Plantae,taxon_promoted
+Citrus limon,Plantae,taxon_promoted
+Citrus maxima,Plantae,taxon_promoted
+Citrus reticulata,Plantae,taxon_promoted
+Citrus reticulata x Citrus sinensis,Plantae,taxon_promoted
+Citrus sinensis,Plantae,taxon_promoted
+Citrus volkameriana,Plantae,taxon_promoted
+Civettictis civetta,Carnivora,taxon_promoted
+Cladosporium cladosporioides,Fungi,detailed_scheme_direct
+Clanis bilineata,Insects,detailed_scheme_direct
+Cleome affinis,Plantae,taxon_promoted
+Clerodendrum cyrtophyllum,Plantae,taxon_promoted
+Clitocybe odora,Fungi,detailed_scheme_direct
+Clitoria ternatea,Plantae,taxon_promoted
+Clostera anachoreta,Insects,detailed_scheme_direct
+Clostera anastomosis,Insects,detailed_scheme_direct
+Cnidoscolus urens,Plantae,taxon_promoted
+Coccinia grandis,Plantae,taxon_promoted
+Coleura afra,Chiroptera,taxon_promoted
+Colletotrichum fructicola,Fungi,detailed_scheme_direct
+Colletotrichum higginsianum,Fungi,detailed_scheme_direct
+Colobus guereza,Non-human primates,detailed_scheme_direct
+Colocasia esculenta,Plantae,taxon_promoted
+Columba livia,Aves,taxon_promoted
+Columbidae,Aves,taxon_promoted
+Conepatus leuconotus,Other mammals,detailed_scheme_direct
+Copsychus saularis,Aves,taxon_promoted
+Coquillettidia albicosta,Insects,detailed_scheme_direct
+Coquillettidia xanthogaster,Insects,detailed_scheme_direct
+Coracias garrulus,Aves,taxon_promoted
+Corallus annulatus,Reptilia,taxon_promoted
+Corchorus capsularis,Plantae,taxon_promoted
+Corchorus olitorius,Plantae,taxon_promoted
+Corchorus siliquosus,Plantae,taxon_promoted
+Cordyceps javanica,Fungi,detailed_scheme_direct
+Cordyline fruticosa,Plantae,taxon_promoted
+Coriandrum sativum,Plantae,taxon_promoted
+Corvus coronoides,Aves,taxon_promoted
+Corynorhinus rafinesquii,Other mammals,detailed_scheme_direct
+Coturnix coturnix,Aves,taxon_promoted
+Coturnix japonica,Aves,taxon_promoted
+Cracticus torquatus,Aves,taxon_promoted
+Crambe hispanica,Plantae,taxon_promoted
+Crassocephalum crepidioides,Plantae,taxon_promoted
+Cricetomys emini,Rodentia,taxon_promoted
+Cricetulus griseus,Rodentia,taxon_promoted
+Cricetulus longicaudatus,Rodentia,taxon_promoted
+Crocidura douceti,Other mammals,taxon_promoted
+Crocidura hirta,Other mammals,taxon_promoted
+Crocidura lasiura,Other mammals,taxon_promoted
+Crocidura olivieri,Other mammals,taxon_promoted
+Crocidura shantungensis,Other mammals,taxon_promoted
+Crocus sativus,Plantae,taxon_promoted
+Cronartium ribicola,Fungi,detailed_scheme_direct
+Crotalaria juncea,Plantae,taxon_promoted
+Crotalus lepidus,Reptilia,taxon_promoted
+Croton glandulosus,Plantae,taxon_promoted
+Cryphonectria nitschkei,Fungi,detailed_scheme_direct
+Cryphonectria parasitica,Fungi,detailed_scheme_direct
+Ctenocephalides felis,Insects,detailed_scheme_direct
+Ctenopharyngodon idella,Fish,detailed_scheme_direct
+Cucumis melo,Plantae,taxon_promoted
+Cucumis sativus,Plantae,taxon_promoted
+Cucurbita maxima,Plantae,taxon_promoted
+Cucurbita moschata,Plantae,taxon_promoted
+Cucurbita pepo,Plantae,taxon_promoted
+Culex annulioris,Culicidae,vector_genus_fallback
+Culex annulirostris,Culicidae,vector_genus_fallback
+Culex australicus,Culicidae,vector_genus_fallback
+Culex bitaeniorhynchus,Culicidae,vector_genus_fallback
+Culex chidesteri,Culicidae,vector_genus_fallback
+Culex decens,Culicidae,vector_genus_fallback
+Culex dunni,Culicidae,vector_genus_fallback
+Culex edwardsi,Culicidae,vector_genus_fallback
+Culex globocoxitus,Culicidae,vector_genus_fallback
+Culex modestus,Culicidae,vector_genus_fallback
+Culex nebulosus,Culicidae,vector_genus_fallback
+Culex nigripalpus,Culicidae,vector_genus_fallback
+Culex pipiens,Culicidae,vector_genus_fallback
+Culex portesi,Culicidae,vector_genus_fallback
+Culex quinquefasciatus,Culicidae,vector_genus_fallback
+Culex simpliciforceps,Culicidae,vector_genus_fallback
+Culex sitiens,Culicidae,vector_genus_fallback
+Culex spissipes,Culicidae,vector_genus_fallback
+Culex tarsalis,Culicidae,vector_genus_fallback
+Culex tritaeniorhynchus,Culicidae,vector_genus_fallback
+Culex vishnui,Culicidae,vector_genus_fallback
+Culicidae,Culicidae,vector_or_crustacea_rollup
+Culicoides austropalpalis,Insects,detailed_scheme_direct
+Culicoides brevitarsis,Insects,detailed_scheme_direct
+Culicoides insignis,Insects,detailed_scheme_direct
+Culicoides punctatus,Insects,detailed_scheme_direct
+Culiseta melanura,Culicidae,vector_genus_fallback
+Curvularia protuberata,Fungi,detailed_scheme_direct
+Cyamopsis tetragonoloba,Plantae,taxon_promoted
+Cyanoramphus auriceps,Aves,taxon_promoted
+Cycas revoluta,Plantae,taxon_promoted
+Cyclopterus lumpus,Fish,detailed_scheme_direct
+Cydia pomonella,Insects,detailed_scheme_direct
+Cygnus columbianus,Aves,taxon_promoted
+Cygnus cygnus,Aves,taxon_promoted
+Cygnus olor,Aves,taxon_promoted
+Cymbidium goeringii,Plantae,taxon_promoted
+Cymbidium hybrid,Plantae,taxon_promoted
+Cynanchum wilfordii,Plantae,taxon_promoted
+Cynara cardunculus,Plantae,taxon_promoted
+Cynodon dactylon,Plantae,taxon_promoted
+Cynopterus brachyotis,Chiroptera,taxon_promoted
+Cyprinus carpio,Fish,detailed_scheme_direct
+Cyrtanthus elatus,Plantae,taxon_promoted
+Cyrtomium falcatum,Plantae,taxon_promoted
+Cytospora ceratosperma,Fungi,detailed_scheme_direct
+Dactylis glomerata,Plantae,taxon_promoted
+Dahlia pinnata,Plantae,taxon_promoted
+Dama dama,Artiodactyla,taxon_promoted
+Damaliscus lunatus,Other mammals,detailed_scheme_direct
+Danaus plexippus,Insects,detailed_scheme_direct
+Daphne mezereum,Plantae,taxon_promoted
+Daphne odora,Plantae,taxon_promoted
+Daphnis nerii,Insects,detailed_scheme_direct
+Datura inoxia,Plantae,taxon_promoted
+Datura stramonium,Plantae,taxon_promoted
+Daucus carota,Plantae,taxon_promoted
+Deinbollia borbonica,Plantae,taxon_promoted
+Delisea pulchra,Algae,detailed_scheme_direct
+Delphinapterus leucas,Artiodactyla,taxon_promoted
+Delphinidae,Other mammals,detailed_scheme_direct
+Delphinus delphis,Other mammals,detailed_scheme_direct
+Dendrolimus punctatus,Insects,detailed_scheme_direct
+Dermacentor marginatus,Ixodida,vector_genus_fallback
+Desmodium glabrum,Plantae,taxon_promoted
+Desmodus rotundus,Desmodus rotundus,standalone_species
+Diabrotica virgifera,Insects,detailed_scheme_direct
+Diachasmimorpha longicaudata,Insects,detailed_scheme_direct
+Diadromus pulchellus,Insects,detailed_scheme_direct
+Dianthus caryophyllus,Plantae,taxon_promoted
+Dianthus chinensis,Plantae,taxon_promoted
+Diaphorina citri,Insects,detailed_scheme_direct
+Diatraea saccharalis,Insects,detailed_scheme_direct
+Digitaria ciliaris,Plantae,taxon_promoted
+Digitaria didactyla,Plantae,taxon_promoted
+Digitaria sanguinalis,Plantae,taxon_promoted
+Dimocarpus longan,Plantae,taxon_promoted
+Dinocampus coccinellae,Insects,detailed_scheme_direct
+Dioscorea alata,Plantae,taxon_promoted
+Dioscorea communis,Plantae,taxon_promoted
+Dioscorea japonica,Plantae,taxon_promoted
+Dioscorea opposita,Plantae,taxon_promoted
+Dioscorea parviflora,Plantae,taxon_promoted
+Dioscorea polystachya,Plantae,taxon_promoted
+Dioscorea rotundata,Plantae,taxon_promoted
+Dioscorea sansibarensis,Plantae,taxon_promoted
+Dioscorea trifida,Plantae,taxon_promoted
+Diospyros kaki,Plantae,taxon_promoted
+Diospyros virginiana,Plantae,taxon_promoted
+Diplacodes bipunctata,Insects,detailed_scheme_direct
+Diplodia sapinea,Fungi,detailed_scheme_direct
+Diplodia scrobiculata,Fungi,detailed_scheme_direct
+Diplotaxis erucoides,Plantae,taxon_promoted
+Discula destructiva,Fungi,detailed_scheme_direct
+Disocactus flagelliformis,Plantae,taxon_promoted
+Diuris longifolia,Plantae,taxon_promoted
+Diuris pedunculata,Plantae,taxon_promoted
+Dobsonia moluccensis,Other mammals,detailed_scheme_direct
+Dracaena sanderiana,Plantae,taxon_promoted
+Drosophila affinis,Insects,detailed_scheme_direct
+Drosophila ananassae,Insects,detailed_scheme_direct
+Drosophila immigrans,Insects,detailed_scheme_direct
+Drosophila melanogaster,Insects,detailed_scheme_direct
+Drosophila obscura,Insects,detailed_scheme_direct
+Drosophila subobscura,Insects,detailed_scheme_direct
+Duranta erecta,Plantae,taxon_promoted
+Dysaphis plantaginea,Insects,detailed_scheme_direct
+Dysphania ambrosioides,Plantae,taxon_promoted
+Ecballium elaterium,Plantae,taxon_promoted
+Echinothrips americanus,Insects,detailed_scheme_direct
+Eclipta prostrata,Plantae,taxon_promoted
+Ectropis obliqua,Insects,detailed_scheme_direct
+Eidolon helvum,Chiroptera,taxon_promoted
+Eimeria tenella,Protists & oomycetes,detailed_scheme_direct
+Elaeis guineensis,Plantae,taxon_promoted
+Eleocharis dulcis,Plantae,taxon_promoted
+Elettaria cardamomum,Plantae,taxon_promoted
+Eleusine indica,Plantae,taxon_promoted
+Eliurus majori,Rodentia,taxon_promoted
+Emberiza spodocephala,Aves,taxon_promoted
+Emilia sonchifolia,Plantae,taxon_promoted
+Endoconidiophora polonica,Fungi,detailed_scheme_direct
+Endoconidiophora resinifera,Fungi,detailed_scheme_direct
+Enhydra lutris,Other mammals,detailed_scheme_direct
+Eothenomys eleusis,Rodentia,taxon_promoted
+Eothenomys miletus,Rodentia,taxon_promoted
+Epichloe festucae,Fungi,detailed_scheme_direct
+Epirrita autumnata,Insects,detailed_scheme_direct
+Eptesicus fuscus,Eptesicus fuscus,standalone_species
+Eptesicus serotinus,Chiroptera,taxon_promoted
+Equus asinus,Other mammals,taxon_promoted
+Equus asinus x Equus caballus,Other mammals,taxon_promoted
+Equus caballus,Equus caballus,standalone_species
+Equus ferus,Other mammals,taxon_promoted
+Eragrostis curvula,Plantae,taxon_promoted
+Eragrostis minor,Plantae,taxon_promoted
+Erethizon dorsatum,Other mammals,detailed_scheme_direct
+Eretmapodites leucopous,Insects,detailed_scheme_direct
+Erigeron breviscapus,Plantae,taxon_promoted
+Erinaceus amurensis,Other mammals,taxon_promoted
+Erinaceus europaeus,Other mammals,detailed_scheme_direct
+Erinaceus roumanicus,Other mammals,taxon_promoted
+Erinnyis ello,Insects,detailed_scheme_direct
+Eriobotrya japonica,Plantae,taxon_promoted
+Erysiphe necator,Fungi,detailed_scheme_direct
+Erysiphe palczewskii,Fungi,detailed_scheme_direct
+Erysiphe trifoliorum,Fungi,detailed_scheme_direct
+Erythemis simplicicollis,Insects,detailed_scheme_direct
+Erythrocebus patas,Non-human primates,detailed_scheme_direct
+Erythrodiplax fusca,Insects,detailed_scheme_direct
+Erythrodiplax umbrata,Insects,detailed_scheme_direct
+Esox lucius,Fish,detailed_scheme_direct
+Estrilda troglodytes,Aves,taxon_promoted
+Etheostoma fonticola,Fish,detailed_scheme_direct
+Eucampsipoda africana,Insects,detailed_scheme_direct
+Eucharis x grandiflora,Plantae,taxon_promoted
+Eudromia elegans,Aves,taxon_promoted
+Euonymus maackii,Plantae,taxon_promoted
+Eupatorium makinoi,Plantae,taxon_promoted
+Euphorbia caput-medusae,Plantae,taxon_promoted
+Euphorbia heterophylla,Plantae,taxon_promoted
+Euphorbia pulcherrima,Plantae,taxon_promoted
+Euproctis pseudoconspersa,Insects,detailed_scheme_direct
+Euscelidius variegatus,Insects,detailed_scheme_direct
+Eustoma grandiflorum,Plantae,taxon_promoted
+Eutrema japonicum,Plantae,taxon_promoted
+Falco tinnunculus,Aves,taxon_promoted
+Falco vespertinus,Aves,taxon_promoted
+Fallopia dumetorum,Plantae,taxon_promoted
+Feliformia,Carnivora,taxon_promoted
+Felis catus,Felis catus,standalone_species
+Festuca pratensis,Plantae,taxon_promoted
+Ficus carica,Plantae,taxon_promoted
+Fish  (not resolved to species),Fish,detailed_scheme_direct
+Flammulina velutipes,Fungi,detailed_scheme_direct
+Formica exsecta,Insects,detailed_scheme_direct
+Formicarius analis,Aves,taxon_promoted
+Fragaria chiloensis,Plantae,taxon_promoted
+Fragaria vesca,Plantae,taxon_promoted
+Fragaria x ananassa,Plantae,taxon_promoted
+Frankliniella occidentalis,Insects,detailed_scheme_direct
+Fritillaria thunbergii,Plantae,taxon_promoted
+Fulica atra,Aves,taxon_promoted
+Fulmarus glacialis,Aves,taxon_promoted
+Fungi,Fungi,detailed_scheme_direct
+Fungi  (not resolved to species),Fungi,detailed_scheme_direct
+Fusarium asiaticum,Fungi,detailed_scheme_direct
+Fusarium coeruleum,Fungi,detailed_scheme_direct
+Fusarium globosum,Fungi,detailed_scheme_direct
+Fusarium graminearum,Fungi,detailed_scheme_direct
+Fusarium langsethiae,Fungi,detailed_scheme_direct
+Fusarium oxysporum,Fungi,detailed_scheme_direct
+Fusarium poae,Fungi,detailed_scheme_direct
+Fusarium solani,Fungi,detailed_scheme_direct
+Gadus morhua,Fish,detailed_scheme_direct
+Gallinago gallinago,Aves,taxon_promoted
+Gallinula chloropus,Aves,taxon_promoted
+Galloanserae (bird clade),Aves,taxon_promoted
+Gallus gallus,Gallus gallus,standalone_species
+Garrulus glandarius,Aves,taxon_promoted
+Gentiana triflora,Plantae,taxon_promoted
+Gerbera jamesonii,Plantae,taxon_promoted
+Gerbilliscus kempi,Other mammals,detailed_scheme_direct
+Gerygone albofrontata,Aves,taxon_promoted
+Gigaspora margarita,Fungi,detailed_scheme_direct
+Giraffa camelopardalis,Artiodactyla,taxon_promoted
+Girardia tigrina,Other invertebrates,detailed_scheme_direct
+Glycine max,Plantae,taxon_promoted
+Golovinomyces cichoracearum,Fungi,detailed_scheme_direct
+Gonimbrasia cytherea,Insects,detailed_scheme_direct
+Gorilla gorilla,Non-human primates,detailed_scheme_direct
+Gossypium darwinii,Plantae,taxon_promoted
+Gossypium hirsutum,Plantae,taxon_promoted
+Gossypium mustelinum,Plantae,taxon_promoted
+Graminella nigrifrons,Insects,detailed_scheme_direct
+Grammomys sp.,Rodentia,taxon_promoted
+Gremmeniella abietina,Fungi,detailed_scheme_direct
+Grus japonensis,Aves,taxon_promoted
+Gymnanthemum amygdalinum,Plantae,taxon_promoted
+Gymnocalycium mihanovichii,Plantae,taxon_promoted
+Habenaria radiata,Plantae,taxon_promoted
+Haemaphysalis doenitzi,Ixodida,vector_genus_fallback
+Haemaphysalis flava,Ixodida,vector_genus_fallback
+Haemaphysalis hystricis,Ixodida,vector_genus_fallback
+Haliaeetus leucocephalus,Aves,taxon_promoted
+Haliotis discus,Other invertebrates,detailed_scheme_direct
+Haliotis diversicolor,Other invertebrates,detailed_scheme_direct
+Halyomorpha halys,Insects,detailed_scheme_direct
+Hardenbergia comptoniana,Plantae,taxon_promoted
+Hedyotis uncinella,Plantae,taxon_promoted
+Helianthus annuus,Plantae,taxon_promoted
+Helicobasidium mompa,Fungi,detailed_scheme_direct
+Heliconius erato,Insects,detailed_scheme_direct
+Helicoverpa armigera,Insects,detailed_scheme_direct
+Helicoverpa zea,Insects,detailed_scheme_direct
+Helleborus x hybridus,Plantae,taxon_promoted
+Heloderma horridum,Reptilia,taxon_promoted
+Hemidesmus indicus,Plantae,taxon_promoted
+Heracleum sphondylium,Plantae,taxon_promoted
+Herpestes ichneumon,Carnivora,taxon_promoted
+Heterobasidion abietinum,Fungi,detailed_scheme_direct
+Heterobasidion annosum,Fungi,detailed_scheme_direct
+Heterobasidion ecrustosum,Fungi,detailed_scheme_direct
+Heterobasidion irregulare,Fungi,detailed_scheme_direct
+Heterobasidion parviporum,Fungi,detailed_scheme_direct
+Heterodera glycines,Other invertebrates,detailed_scheme_direct
+Heteronychus arator,Insects,detailed_scheme_direct
+Hevea brasiliensis,Plantae,taxon_promoted
+Hexura picea,Arachnida,taxon_promoted
+Hibiscus cannabinus,Plantae,taxon_promoted
+Hibiscus rosa-sinensis,Plantae,taxon_promoted
+Hibiscus sabdariffa,Plantae,taxon_promoted
+Hippeastrum sp.,Plantae,taxon_promoted
+Hipposideros armiger,Chiroptera,taxon_promoted
+Hipposideros cf. ruber,Other mammals,detailed_scheme_direct
+Hipposideros cineraceus,Chiroptera,taxon_promoted
+Hipposideros commersoni,Other mammals,detailed_scheme_direct
+Hipposideros gigas,Other mammals,detailed_scheme_direct
+Hipposideros larvatus,Chiroptera,taxon_promoted
+Hipposideros pomona,Chiroptera,taxon_promoted
+Hipposideros pratti,Chiroptera,taxon_promoted
+Hipposideros vittatus,Chiroptera,taxon_promoted
+Homalodisca vitripennis,Insects,detailed_scheme_direct
+Homo sapiens,Homo sapiens,standalone_species
+Hordeum vulgare,Plantae,taxon_promoted
+Hoya wayetii,Plantae,taxon_promoted
+Humans + non-human primates  (not resolved to species),Humans + non-human primates,detailed_scheme_direct
+Humulus japonicus,Plantae,taxon_promoted
+Humulus lupulus,Plantae,taxon_promoted
+Hyacinthus orientalis,Plantae,taxon_promoted
+Hyalomma anatolicum,Ixodida,vector_genus_fallback
+Hyalomma asiaticum,Ixodida,vector_genus_fallback
+Hyalomma dromedarii,Ixodida,vector_genus_fallback
+Hyalopterus pruni,Insects,detailed_scheme_direct
+Hydrangea macrophylla,Plantae,taxon_promoted
+Hydrocoloeus minutus,Aves,taxon_promoted
+Hylaeamys megacephalus,Rodentia,taxon_promoted
+Hylocereus undatus,Plantae,taxon_promoted
+Hylomyscus simus,Rodentia,taxon_promoted
+Hypsugo pulveratus,Chiroptera,taxon_promoted
+Hyptiotes gertschi,Arachnida,taxon_promoted
+Ia io,Other mammals,detailed_scheme_direct
+Ilex paraguariensis,Plantae,taxon_promoted
+Impatiens walleriana,Plantae,taxon_promoted
+Imperata cylindrica,Plantae,taxon_promoted
+Indotestudo forstenii,Reptilia,taxon_promoted
+Indri indri,Non-human primates,detailed_scheme_direct
+Insecta,Insects,detailed_scheme_direct
+Insects  (not resolved to species),Insects,detailed_scheme_direct
+Ipomoea batatas,Plantae,taxon_promoted
+Ipomoea indica,Plantae,taxon_promoted
+Ipomoea setosa,Plantae,taxon_promoted
+Iris ensata,Plantae,taxon_promoted
+Isoodon obesulus,Other mammals,detailed_scheme_direct
+Ixeridium dentatum,Plantae,taxon_promoted
+Ixodes lividus,Ixodida,vector_genus_fallback
+Ixodes scapularis,Ixodida,vector_genus_fallback
+Ixodes uriae,Ixodida,vector_genus_fallback
+Ixodida,Ixodida,vector_or_crustacea_rollup
+Jasminum sambac,Plantae,taxon_promoted
+Jatropha curcas,Plantae,taxon_promoted
+Jatropha gossypiifolia,Plantae,taxon_promoted
+Jatropha multifida,Plantae,taxon_promoted
+Kalanchoe blossfeldiana,Plantae,taxon_promoted
+Labidocera aestiva,Other invertebrates,detailed_scheme_direct
+Lablab purpureus,Plantae,taxon_promoted
+Lactuca sativa,Plantae,taxon_promoted
+Lagenaria siceraria,Plantae,taxon_promoted
+Lagenorhynchus acutus,Other mammals,detailed_scheme_direct
+Lagenorhynchus albirostris,Other mammals,detailed_scheme_direct
+Lagothrix lagotricha,Other mammals,detailed_scheme_direct
+Lama glama,Artiodactyla,taxon_promoted
+Lambdina fiscellaria,Insects,detailed_scheme_direct
+Lamium album,Plantae,taxon_promoted
+Lamium maculatum,Plantae,taxon_promoted
+Laodelphax striatella,Insects,detailed_scheme_direct
+Larus argentatus,Aves,taxon_promoted
+Larus glaucescens,Aves,taxon_promoted
+Lasiurus borealis,Chiroptera,taxon_promoted
+Lasius neglectus,Insects,detailed_scheme_direct
+Lasius niger,Insects,detailed_scheme_direct
+Lates calcarifer,Fish,detailed_scheme_direct
+Leishmania aethiopica,Protists & oomycetes,detailed_scheme_direct
+Leishmania major,Protists & oomycetes,detailed_scheme_direct
+Lemur catta,Non-human primates,detailed_scheme_direct
+Lens culinaris,Plantae,taxon_promoted
+Leonurus sibiricus,Plantae,taxon_promoted
+"Lepidosauria (reptile clade, excl. turtles/crocodiles)",Reptilia,taxon_promoted
+Lepomis macrochirus,Fish,detailed_scheme_direct
+Leptonychotes weddellii,Carnivora,taxon_promoted
+Leptopilina boulardi,Insects,detailed_scheme_direct
+Leptosphaeria biglobosa,Fungi,detailed_scheme_direct
+Lepus europaeus,Other mammals,taxon_promoted
+Lepus granatensis,Other mammals,taxon_promoted
+Lespedeza procumbens,Plantae,taxon_promoted
+Leucophaeus atricilla,Aves,taxon_promoted
+Liatris spicata,Plantae,taxon_promoted
+Ligustrum japonicum,Plantae,taxon_promoted
+Ligustrum obtusifolium,Plantae,taxon_promoted
+Lilium formosanum,Plantae,taxon_promoted
+Lilium sp.,Plantae,taxon_promoted
+Limatus flavisetosus,Insects,detailed_scheme_direct
+Linepithema humile,Insects,detailed_scheme_direct
+Lissotriton vulgaris,Amphibia,taxon_promoted
+Lolium perenne,Plantae,taxon_promoted
+Lonchura striata,Aves,taxon_promoted
+Lonicera japonica,Plantae,taxon_promoted
+Lophuromys sikapusi,Rodentia,taxon_promoted
+Loxodonta africana,Other mammals,detailed_scheme_direct
+Ludwigia hyssopifolia,Plantae,taxon_promoted
+Luffa acutangula,Plantae,taxon_promoted
+Luffa aegyptiaca,Plantae,taxon_promoted
+Lupinus nootkatensis,Plantae,taxon_promoted
+Lupinus polyphyllus,Plantae,taxon_promoted
+Lutrinae,Carnivora,taxon_promoted
+Lutzomyia longipalpis,Insects,detailed_scheme_direct
+Lycopersicon esculentum,Plantae,taxon_promoted
+Lygus lineolaris,Insects,detailed_scheme_direct
+Lymantria dispar,Insects,detailed_scheme_direct
+Lymantria xylina,Insects,detailed_scheme_direct
+Lynx canadensis,Other mammals,detailed_scheme_direct
+Lynx rufus,Carnivora,taxon_promoted
+Lytechinus variegatus,Other invertebrates,detailed_scheme_direct
+Macaca (genus),Non-human primates,detailed_scheme_direct
+Macaca fascicularis,Non-human primates,detailed_scheme_direct
+Macaca fuscata,Non-human primates,detailed_scheme_direct
+Macaca mulatta,Macaca mulatta,standalone_species
+Macaca nemestrina,Other mammals,detailed_scheme_direct
+Macrobrachium rosenbergii,Crustacea,vector_or_crustacea_rollup
+Macrophomina phaseolina,Fungi,detailed_scheme_direct
+Macroptilium lathyroides,Plantae,taxon_promoted
+Macrosiphum euphorbiae,Insects,detailed_scheme_direct
+Macrotyloma uniflorum,Plantae,taxon_promoted
+Malus domestica,Plantae,taxon_promoted
+Malus pumila,Plantae,taxon_promoted
+Malus sylvestris,Plantae,taxon_promoted
+Malva parviflora,Plantae,taxon_promoted
+Malvastrum coromandelianum,Plantae,taxon_promoted
+Mamestra brassicae,Insects,detailed_scheme_direct
+Mandrillus sphinx,Non-human primates,detailed_scheme_direct
+Manihot esculenta,Plantae,taxon_promoted
+Manis (genus),Other mammals,taxon_promoted
+Manis javanica,Other mammals,taxon_promoted
+Mansonia africana,Culicidae,vector_genus_fallback
+Mansonia uniformis,Culicidae,vector_genus_fallback
+Mareca americana,Aves,taxon_promoted
+Mareca penelope,Aves,taxon_promoted
+Mareca strepera,Aves,taxon_promoted
+Marmota himalayana,Rodentia,taxon_promoted
+Mastomys natalensis,Rodentia,taxon_promoted
+Medicago lupulina,Plantae,taxon_promoted
+Medicago sativa,Plantae,taxon_promoted
+Megaskepasma erythrochlamys,Plantae,taxon_promoted
+Meleagris gallopavo,Meleagris gallopavo,standalone_species
+Meles meles,Carnivora,taxon_promoted
+Melopsittacus undulatus,Aves,taxon_promoted
+Mentha x gracilis,Plantae,taxon_promoted
+Mephitis mephitis,Mephitis mephitis,standalone_species
+Meriones unguiculatus,Rodentia,taxon_promoted
+Mesocricetus auratus,Mesocricetus auratus,standalone_species
+Miathyria marcella,Insects,detailed_scheme_direct
+Micaelamys namaquensis,Rodentia,taxon_promoted
+Micromonas pusilla,Plantae,taxon_promoted
+Micromys minutus,Rodentia,taxon_promoted
+Microplitis demolitor,Insects,detailed_scheme_direct
+Microtus agrestis,Rodentia,taxon_promoted
+Microtus arvalis,Rodentia,taxon_promoted
+Microtus fortis,Rodentia,taxon_promoted
+Microtus maximowiczii,Rodentia,taxon_promoted
+Microtus montanus,Rodentia,taxon_promoted
+Microtus oeconomus,Other mammals,detailed_scheme_direct
+Microtus pennsylvanicus,Rodentia,taxon_promoted
+Mikania micrantha,Plantae,taxon_promoted
+Miniopterus fuliginosus,Chiroptera,taxon_promoted
+Miniopterus magnater,Chiroptera,taxon_promoted
+Miniopterus pusillus,Chiroptera,taxon_promoted
+Miniopterus schreibersii,Chiroptera,taxon_promoted
+Mirabilis jalapa,Plantae,taxon_promoted
+Mirounga leonina,Other mammals,taxon_promoted
+Mnemiopsis leidyi,Other invertebrates,detailed_scheme_direct
+Molossus molossus,Chiroptera,taxon_promoted
+Momordica charantia,Plantae,taxon_promoted
+Mops condylurus,Other mammals,detailed_scheme_direct
+Morelia spilota,Reptilia,taxon_promoted
+Morelia viridis,Reptilia,taxon_promoted
+Morus alba,Plantae,taxon_promoted
+Murina leucogaster,Chiroptera,taxon_promoted
+Mus caroli,Rodentia,taxon_promoted
+Mus minutoides,Rodentia,taxon_promoted
+Mus musculus,Mus musculus,standalone_species
+Mus sp.,Other mammals,detailed_scheme_direct
+Musa acuminata,Plantae,taxon_promoted
+Musa sp.,Plantae,taxon_promoted
+Musa x paradisiaca,Plantae,taxon_promoted
+Musca domestica,Insects,detailed_scheme_direct
+Mustela lutreola,Carnivora,taxon_promoted
+Mustela putorius,Mustela putorius,standalone_species
+Myiopsitta monachus,Aves,taxon_promoted
+Myodes glareolus,Rodentia,taxon_promoted
+Myodes rufocanus,Rodentia,taxon_promoted
+Myotis blythii,Chiroptera,taxon_promoted
+Myotis daubentonii,Chiroptera,taxon_promoted
+Myotis davidii,Chiroptera,taxon_promoted
+Myotis laniger,Chiroptera,taxon_promoted
+Myotis lucifugus,Chiroptera,taxon_promoted
+Myotis myotis,Other mammals,detailed_scheme_direct
+Myotis mystacinus,Chiroptera,taxon_promoted
+Myotis nattereri,Other mammals,detailed_scheme_direct
+Myotis ricketti,Chiroptera,taxon_promoted
+Myotis sp.,Chiroptera,taxon_promoted
+Myotis velifer,Chiroptera,taxon_promoted
+Myotis yumanensis,Chiroptera,taxon_promoted
+Myotomys unisulcatus,Rodentia,taxon_promoted
+Myrmica scabrinodis,Insects,detailed_scheme_direct
+Mythimna unipuncta,Insects,detailed_scheme_direct
+Nanorana parkeri,Amphibia,taxon_promoted
+Narcissus pseudonarcissus,Plantae,taxon_promoted
+Narcissus tazetta,Plantae,taxon_promoted
+Neoaves (bird clade),Aves,taxon_promoted
+Neodiprion abietis,Insects,detailed_scheme_direct
+Neodiprion sertifer,Insects,detailed_scheme_direct
+Neodon clarkei,Rodentia,taxon_promoted
+Neofusicoccum luteum,Fungi,detailed_scheme_direct
+Neoscona nautica,Arachnida,taxon_promoted
+Neotoma albigula,Rodentia,taxon_promoted
+Neotoma lepida,Rodentia,taxon_promoted
+Neovison vison,Carnivora,taxon_promoted
+Nephelomys albigularis,Rodentia,taxon_promoted
+Nephila clavipes,Arachnida,taxon_promoted
+Nephotettix cincticeps,Insects,detailed_scheme_direct
+Nesidiocoris tenuis,Insects,detailed_scheme_direct
+Nicotiana benthamiana,Plantae,taxon_promoted
+Nicotiana clevelandii,Plantae,taxon_promoted
+Nicotiana debneyi,Plantae,taxon_promoted
+Nicotiana glauca,Plantae,taxon_promoted
+Nicotiana glutinosa,Plantae,taxon_promoted
+Nicotiana occidentalis,Plantae,taxon_promoted
+Nicotiana rustica,Plantae,taxon_promoted
+Nicotiana tabacum,Plantae,taxon_promoted
+Nicotiana velutina,Plantae,taxon_promoted
+Nigrospora oryzae,Fungi,detailed_scheme_direct
+Nilaparvata lugens,Insects,detailed_scheme_direct
+Niviventer confucianus,Rodentia,taxon_promoted
+Non-human (undifferentiated)  (not resolved to species),Non-human (undifferentiated),detailed_scheme_direct
+Non-human primates  (not resolved to species),Non-human primates,detailed_scheme_direct
+Notemigonus crysoleucas,Fish,detailed_scheme_direct
+Numididae sp.,Aves,taxon_promoted
+Nyctalus velutinus,Chiroptera,taxon_promoted
+Nyctereutes procyonoides,Nyctereutes procyonoides,standalone_species
+Nycticebus coucang,Other mammals,detailed_scheme_direct
+Nylanderia fulva,Insects,detailed_scheme_direct
+Nyssomyia flaviscutellata,Insects,detailed_scheme_direct
+Ochlerotatus camptorhynchus,Insects,detailed_scheme_direct
+Ochlerotatus caspius,Insects,detailed_scheme_direct
+Ochlerotatus fulvus,Insects,detailed_scheme_direct
+Ochlerotatus scapularis,Insects,detailed_scheme_direct
+Ochlerotatus taeniorhynchus,Insects,detailed_scheme_direct
+Ochlerotatus vigilax,Insects,detailed_scheme_direct
+Ocimum basilicum,Plantae,taxon_promoted
+Odobenus rosmarus,Carnivora,taxon_promoted
+Odocoileus hemionus,Artiodactyla,taxon_promoted
+Odocoileus virginianus,Other mammals,detailed_scheme_direct
+Oeciacus vicarius,Insects,detailed_scheme_direct
+Oecomys bicolor,Rodentia,taxon_promoted
+Olea europaea,Plantae,taxon_promoted
+Oligoryzomys fulvescens,Rodentia,taxon_promoted
+Oligoryzomys longicaudatus,Rodentia,taxon_promoted
+Oligoryzomys mattogrossae,Rodentia,taxon_promoted
+Oligoryzomys microtis,Rodentia,taxon_promoted
+Oligoryzomys nigripes,Rodentia,taxon_promoted
+Oncopera intricoides,Insects,detailed_scheme_direct
+Oncorhynchus keta,Fish,detailed_scheme_direct
+Oncorhynchus kisutch,Fish,detailed_scheme_direct
+Oncorhynchus mykiss,Fish,detailed_scheme_direct
+Oncorhynchus tshawytscha,Fish,detailed_scheme_direct
+Operophtera brumata,Insects,detailed_scheme_direct
+Ophiostoma himal-ulmi,Fungi,detailed_scheme_direct
+Ophiostoma novo-ulmi,Fungi,detailed_scheme_direct
+Opsiphanes invirae,Insects,detailed_scheme_direct
+Opuntia ficus-indica,Plantae,taxon_promoted
+Opuntia microdasys,Plantae,taxon_promoted
+Orgyia pseudotsugata,Insects,detailed_scheme_direct
+Oriolus oriolus,Aves,taxon_promoted
+Ornithodoros capensis,Ixodida,vector_genus_fallback
+Ornithodoros coriaceus,Ixodida,vector_genus_fallback
+Ornithodoros erraticus,Ixodida,vector_genus_fallback
+Oryctes rhinoceros,Insects,detailed_scheme_direct
+Oryctolagus cuniculus,Other mammals,detailed_scheme_direct
+Oryza rufipogon,Plantae,taxon_promoted
+Oryza sativa,Plantae,taxon_promoted
+Oryza sp.,Plantae,taxon_promoted
+Oryzomys sp.,Other mammals,detailed_scheme_direct
+Other invertebrates  (not resolved to species),Other invertebrates,detailed_scheme_direct
+Other mammals  (not resolved to species),Other mammals,detailed_scheme_direct
+Other/unresolved mammals  (not resolved to species),Other mammals,taxon_promoted
+Otolemur crassicaudatus,Non-human primates,detailed_scheme_direct
+Otomops martiensseni,Chiroptera,taxon_promoted
+Otostigmus scaber,Other invertebrates,detailed_scheme_direct
+Ovis aries,Ovis aries,standalone_species
+Oxalis corniculata,Plantae,taxon_promoted
+Oxalis tuberosa,Plantae,taxon_promoted
+Paguma larvata,Other mammals,detailed_scheme_direct
+Pan paniscus,Non-human primates,detailed_scheme_direct
+Pan troglodytes,Pan troglodytes,standalone_species
+Panax ginseng,Plantae,taxon_promoted
+Panax notoginseng,Plantae,taxon_promoted
+Panicum virgatum,Plantae,taxon_promoted
+Pantala flavescens,Insects,detailed_scheme_direct
+Panthera leo,Carnivora,taxon_promoted
+Panthera tigris,Carnivora,taxon_promoted
+Papaver somniferum,Plantae,taxon_promoted
+Paphies subtriangulata,Other invertebrates,detailed_scheme_direct
+Papio anubis,Non-human primates,detailed_scheme_direct
+Papio cynocephalus,Non-human primates,detailed_scheme_direct
+Papio hamadryas,Non-human primates,detailed_scheme_direct
+Papio ursinus,Other mammals,detailed_scheme_direct
+Parabuteo unicinctus,Aves,taxon_promoted
+Paracoccus marginatus,Insects,detailed_scheme_direct
+Paralichthys olivaceus,Fish,detailed_scheme_direct
+Paramuricea placomus,Other invertebrates,detailed_scheme_direct
+Paraphaeosphaeria minitans,Fungi,detailed_scheme_direct
+Parthenium hysterophorus,Plantae,taxon_promoted
+Parus major,Aves,taxon_promoted
+Paspalum dilatatum,Plantae,taxon_promoted
+Paspalum setaceum,Plantae,taxon_promoted
+Passiflora caerulea,Plantae,taxon_promoted
+Passiflora edulis,Plantae,taxon_promoted
+Passiflora incarnata,Plantae,taxon_promoted
+Pelargonium x hortorum,Plantae,taxon_promoted
+Pelargonium zonale,Plantae,taxon_promoted
+Pelodiscus sinensis,Reptilia,taxon_promoted
+Penaeus monodon,Crustacea,vector_or_crustacea_rollup
+Penaeus vannamei,Crustacea,vector_or_crustacea_rollup
+Penicillium aurantiogriseum,Fungi,detailed_scheme_direct
+Penicillium chrysogenum,Fungi,detailed_scheme_direct
+Penicillium digitatum,Fungi,detailed_scheme_direct
+Penicillium janczewskii,Fungi,detailed_scheme_direct
+Penicillium roqueforti,Fungi,detailed_scheme_direct
+Penicillium stoloniferum,Fungi,detailed_scheme_direct
+Perameles bougainville,Other mammals,detailed_scheme_direct
+Perca fluviatilis,Fish,detailed_scheme_direct
+Perina nuda,Insects,detailed_scheme_direct
+Peromyscus beatae,Rodentia,taxon_promoted
+Peromyscus californicus,Rodentia,taxon_promoted
+Peromyscus crinitus,Rodentia,taxon_promoted
+Peromyscus maniculatus,Rodentia,taxon_promoted
+Persea americana,Plantae,taxon_promoted
+Petasites japonicus,Plantae,taxon_promoted
+Petrochirus diogenes,Other invertebrates,detailed_scheme_direct
+Petroica traversi,Aves,taxon_promoted
+Petroselinum crispum,Plantae,taxon_promoted
+Petunia x hybrida,Plantae,taxon_promoted
+Phaius flavus,Plantae,taxon_promoted
+Phalaenopsis equestris,Plantae,taxon_promoted
+Phascolarctos cinereus,Other mammals,taxon_promoted
+Phaseolus lunatus,Plantae,taxon_promoted
+Phaseolus vulgaris,Plantae,taxon_promoted
+Phasianus colchicus,Aves,taxon_promoted
+Philander opossum,Other mammals,detailed_scheme_direct
+Philodromus dispar,Arachnida,taxon_promoted
+Phlebiopsis gigantea,Fungi,detailed_scheme_direct
+Phlebotomus perfiliewi,Insects,detailed_scheme_direct
+Phleum pratense,Plantae,taxon_promoted
+Phlox divaricata,Plantae,taxon_promoted
+Phlox stolonifera,Plantae,taxon_promoted
+Phoca vitulina,Carnivora,taxon_promoted
+Phocoena phocoena,Other mammals,detailed_scheme_direct
+Phocoena spinipinnis,Other mammals,detailed_scheme_direct
+Phodopus sungorus,Other mammals,detailed_scheme_direct
+Phomopsis vexans,Fungi,detailed_scheme_direct
+Phragmites australis,Plantae,taxon_promoted
+Physalis heterophylla,Plantae,taxon_promoted
+Physalis peruviana,Plantae,taxon_promoted
+Phytolacca americana,Plantae,taxon_promoted
+Phytomonas serpens,Protists & oomycetes,detailed_scheme_direct
+Phytophthora infestans,Protists & oomycetes,detailed_scheme_direct
+Phytophthora parasitica,Protists & oomycetes,detailed_scheme_direct
+Pieris rapae,Insects,detailed_scheme_direct
+Piliocolobus rufomitratus,Non-human primates,detailed_scheme_direct
+Piliocolobus tephrosceles,Non-human primates,detailed_scheme_direct
+Pimephales promelas,Fish,detailed_scheme_direct
+Pinellia ternata,Plantae,taxon_promoted
+Pinus nigra,Plantae,taxon_promoted
+Piper nigrum,Plantae,taxon_promoted
+Pipistrellus abramus,Chiroptera,taxon_promoted
+Pipistrellus pipistrellus,Chiroptera,taxon_promoted
+Pisum sativum,Plantae,taxon_promoted
+Planococcus citri,Insects,detailed_scheme_direct
+Plantae,Plantae,taxon_promoted
+Plantago asiatica,Plantae,taxon_promoted
+Plantago lanceolata,Plantae,taxon_promoted
+Plantago major,Plantae,taxon_promoted
+Plants  (not resolved to species),Plantae,taxon_promoted
+Plautia stali,Insects,detailed_scheme_direct
+Pleione humilis,Plantae,taxon_promoted
+Pleospora typhicola,Fungi,detailed_scheme_direct
+Pleurotus ostreatus,Fungi,detailed_scheme_direct
+Ploceus cucullatus,Aves,taxon_promoted
+Plodia interpunctella,Insects,detailed_scheme_direct
+Plumeria rubra,Plantae,taxon_promoted
+Plutella xylostella,Insects,detailed_scheme_direct
+Poa cookii,Plantae,taxon_promoted
+Pogona vitticeps,Reptilia,taxon_promoted
+Pongo abelii,Other mammals,detailed_scheme_direct
+Pongo pygmaeus,Other mammals,detailed_scheme_direct
+Pouzolzia zeylanica,Plantae,taxon_promoted
+Primnoa pacifica,Other invertebrates,detailed_scheme_direct
+Primula malacoides,Plantae,taxon_promoted
+Procordulia grayi,Insects,detailed_scheme_direct
+Procyon lotor,Procyon lotor,standalone_species
+Proechimys guyannensis,Rodentia,taxon_promoted
+Proscyllium habereri,Fish,detailed_scheme_direct
+Protists & oomycetes  (not resolved to species),Protists & oomycetes,detailed_scheme_direct
+Prunus armeniaca,Plantae,taxon_promoted
+Prunus avium,Plantae,taxon_promoted
+Prunus cerasifera,Plantae,taxon_promoted
+Prunus domestica,Plantae,taxon_promoted
+Prunus dulcis,Plantae,taxon_promoted
+Prunus mume,Plantae,taxon_promoted
+Prunus persica,Plantae,taxon_promoted
+Prunus salicina,Plantae,taxon_promoted
+Psammotettix alienus,Insects,detailed_scheme_direct
+Psathyromyia abonnenci,Insects,detailed_scheme_direct
+Pseudogymnoascus destructans,Fungi,detailed_scheme_direct
+Pseudotsuga menziesii,Plantae,taxon_promoted
+Psittacula krameri,Aves,taxon_promoted
+Psittacus erithacus,Aves,taxon_promoted
+Psophocarpus tetragonolobus,Plantae,taxon_promoted
+Pteromalus puparum,Insects,detailed_scheme_direct
+Pteronotus parnellii,Chiroptera,taxon_promoted
+Pteropus giganteus,Chiroptera,taxon_promoted
+Pteropus hypomelanus,Chiroptera,taxon_promoted
+Pteropus scapulatus,Chiroptera,taxon_promoted
+Pteropus sp.,Other mammals,detailed_scheme_direct
+Pteropus vampyrus,Other mammals,detailed_scheme_direct
+Pueraria montana,Plantae,taxon_promoted
+Puma concolor,Carnivora,taxon_promoted
+Pycnonotus jocosus,Aves,taxon_promoted
+Pycnonotus sinensis,Aves,taxon_promoted
+Pygoscelis adeliae,Aves,taxon_promoted
+Pygoscelis papua,Aves,taxon_promoted
+Pyricularia oryzae,Fungi,detailed_scheme_direct
+Pyrus communis,Plantae,taxon_promoted
+Python regius,Reptilia,taxon_promoted
+Rana pipiens,Amphibia,taxon_promoted
+Rangifer tarandus,Artiodactyla,taxon_promoted
+Raphanus raphanistrum,Plantae,taxon_promoted
+Raphanus sativus,Plantae,taxon_promoted
+Rattus andamanensis,Rodentia,taxon_promoted
+Rattus argentiventer,Rodentia,taxon_promoted
+Rattus leucopus,Rodentia,taxon_promoted
+Rattus norvegicus,Rattus norvegicus,standalone_species
+Rattus rattus,Rodentia,taxon_promoted
+Rattus tanezumi,Rodentia,taxon_promoted
+Rehmannia glutinosa,Plantae,taxon_promoted
+Reithrodontomys megalotis,Rodentia,taxon_promoted
+Reptiles  (not resolved to species),Reptilia,taxon_promoted
+Reptilia,Reptilia,taxon_promoted
+Rhabdomys pumilio,Other mammals,detailed_scheme_direct
+Rhinolophus affinis,Chiroptera,taxon_promoted
+Rhinolophus alcyone,Chiroptera,taxon_promoted
+Rhinolophus blasii,Chiroptera,taxon_promoted
+Rhinolophus cornutus,Chiroptera,taxon_promoted
+Rhinolophus eloquens,Chiroptera,taxon_promoted
+Rhinolophus ferrumequinum,Chiroptera,taxon_promoted
+Rhinolophus hipposideros,Chiroptera,taxon_promoted
+Rhinolophus macrotis,Other mammals,detailed_scheme_direct
+Rhinolophus malayanus,Chiroptera,taxon_promoted
+Rhinolophus pusillus,Chiroptera,taxon_promoted
+Rhinolophus sinicus,Chiroptera,taxon_promoted
+Rhinolophus stheno,Chiroptera,taxon_promoted
+Rhinopithecus roxellana,Other mammals,detailed_scheme_direct
+Rhipicephalus decoloratus,Ixodida,vector_genus_fallback
+Rhipicephalus microplus,Ixodida,vector_genus_fallback
+Rhizoctonia solani,Fungi,detailed_scheme_direct
+Rhizomys pruinosus,Rodentia,taxon_promoted
+Rhizophagus irregularis,Fungi,detailed_scheme_direct
+Rhizophagus sp. (in: Fungi),Fungi,detailed_scheme_direct
+Rhododendron maximum,Plantae,taxon_promoted
+Rhopalosiphum padi,Insects,detailed_scheme_direct
+Rhynchobatus djiddensis,Fish,detailed_scheme_direct
+Rhynchosia minima,Plantae,taxon_promoted
+Ribes americanum,Plantae,taxon_promoted
+Ribes nigrum,Plantae,taxon_promoted
+Ribes rubrum,Plantae,taxon_promoted
+Riparia paludicola,Aves,taxon_promoted
+Riptortus pedestris,Insects,detailed_scheme_direct
+Robinia pseudoacacia,Plantae,taxon_promoted
+Rodentia,Rodentia,taxon_promoted
+Rodents  (not resolved to species),Rodentia,taxon_promoted
+Rosa hybrid,Plantae,taxon_promoted
+Rosa multiflora,Plantae,taxon_promoted
+Rosa rugosa,Plantae,taxon_promoted
+Rosa sp.,Plantae,taxon_promoted
+Rosellinia necatrix,Fungi,detailed_scheme_direct
+Rousettus aegyptiacus,Chiroptera,taxon_promoted
+Rousettus amplexicaudatus,Chiroptera,taxon_promoted
+Rousettus leschenaultii,Chiroptera,taxon_promoted
+Rousettus madagascariensis,Chiroptera,taxon_promoted
+Rousettus sp.,Chiroptera,taxon_promoted
+Rubus canadensis,Plantae,taxon_promoted
+Rubus idaeus,Plantae,taxon_promoted
+Rubus occidentalis,Plantae,taxon_promoted
+Rudbeckia hirta,Plantae,taxon_promoted
+Rumex obtusifolius,Plantae,taxon_promoted
+Rupicapra rupicapra,Artiodactyla,taxon_promoted
+Sabethes intermedius,Insects,detailed_scheme_direct
+Saccharomyces cerevisiae,Fungi,detailed_scheme_direct
+Saccharomyces kudriavzevii,Fungi,detailed_scheme_direct
+Saccharum barberi,Plantae,taxon_promoted
+Saccharum officinarum,Plantae,taxon_promoted
+Saccharum sinense,Plantae,taxon_promoted
+Saccharum sp.,Plantae,taxon_promoted
+Saimiri boliviensis,Non-human primates,detailed_scheme_direct
+Saimiri sciureus,Other mammals,detailed_scheme_direct
+Salmo salar,Fish,detailed_scheme_direct
+Salmo trutta,Fish,detailed_scheme_direct
+Salvelinus fontinalis,Fish,detailed_scheme_direct
+Salvia divinorum,Plantae,taxon_promoted
+Salvia hispanica,Plantae,taxon_promoted
+Salvia splendens,Plantae,taxon_promoted
+Sambucus nigra,Plantae,taxon_promoted
+Sambucus racemosa,Plantae,taxon_promoted
+Sapajus apella,Other mammals,detailed_scheme_direct
+Sapajus xanthosternos,Other mammals,detailed_scheme_direct
+Sauropus androgynus,Plantae,taxon_promoted
+Scalopus aquaticus,Other mammals,taxon_promoted
+Scheffersomyces segobiensis,Fungi,detailed_scheme_direct
+Schizaphis graminum,Insects,detailed_scheme_direct
+Schmidtea mediterranea,Other invertebrates,detailed_scheme_direct
+Sciurus variegatoides,Rodentia,taxon_promoted
+Sciurus vulgaris,Other mammals,detailed_scheme_direct
+Sclerotinia minor,Fungi,detailed_scheme_direct
+Sclerotinia nivalis,Fungi,detailed_scheme_direct
+Sclerotinia sclerotiorum,Fungi,detailed_scheme_direct
+Sclerotium hydrophilum,Fungi,detailed_scheme_direct
+Scophthalmus maximus,Fish,detailed_scheme_direct
+Scotophilus dinganii,Chiroptera,taxon_promoted
+Scotophilus kuhlii,Chiroptera,taxon_promoted
+Scrophularia californica,Plantae,taxon_promoted
+Scylla serrata,Crustacea,vector_or_crustacea_rollup
+Secale cereale,Plantae,taxon_promoted
+Sechium edule,Plantae,taxon_promoted
+Senecio scandens,Plantae,taxon_promoted
+Senna occidentalis,Plantae,taxon_promoted
+Serinus canaria,Aves,taxon_promoted
+Sesbania grandiflora,Plantae,taxon_promoted
+Setaria italica,Plantae,taxon_promoted
+Setaria verticillata,Plantae,taxon_promoted
+Sibirionetta formosa,Aves,taxon_promoted
+Sicyonia brevirostris,Other invertebrates,detailed_scheme_direct
+Sicyos edulis,Plantae,taxon_promoted
+Sida acuta,Plantae,taxon_promoted
+Sida rhombifolia,Plantae,taxon_promoted
+Sida urens,Plantae,taxon_promoted
+Sigesbeckia glabrescens,Plantae,taxon_promoted
+Sigmodon alstoni,Rodentia,taxon_promoted
+Sigmodon hispidus,Rodentia,taxon_promoted
+Sigmodon mascotensis,Rodentia,taxon_promoted
+Silurus glanis,Fish,detailed_scheme_direct
+Sinapis alba,Plantae,taxon_promoted
+Siniperca chuatsi,Fish,detailed_scheme_direct
+Smallanthus sonchifolius,Plantae,taxon_promoted
+Sodiomyces alkalinus,Fungi,detailed_scheme_direct
+Sogatella furcifera,Insects,detailed_scheme_direct
+Solanum aculeatissimum,Plantae,taxon_promoted
+Solanum aethiopicum,Plantae,taxon_promoted
+Solanum betaceum,Plantae,taxon_promoted
+Solanum chancayense,Plantae,taxon_promoted
+Solanum dulcamara,Plantae,taxon_promoted
+Solanum lycopersicum,Plantae,taxon_promoted
+Solanum mammosum,Plantae,taxon_promoted
+Solanum melongena,Plantae,taxon_promoted
+Solanum muricatum,Plantae,taxon_promoted
+Solanum nigrum,Plantae,taxon_promoted
+Solanum nodiflorum,Plantae,taxon_promoted
+Solanum phureja,Plantae,taxon_promoted
+Solanum pimpinellifolium,Plantae,taxon_promoted
+Solanum quitoense,Plantae,taxon_promoted
+Solanum torvum,Plantae,taxon_promoted
+Solanum tuberosum,Plantae,taxon_promoted
+Solanum viarum,Plantae,taxon_promoted
+Solea senegalensis,Fish,detailed_scheme_direct
+Solenopsis invicta,Insects,detailed_scheme_direct
+Somateria mollissima,Aves,taxon_promoted
+Sonchus oleraceus,Plantae,taxon_promoted
+Sooretamys angouya,Rodentia,taxon_promoted
+Sorbus aucuparia,Plantae,taxon_promoted
+Sorex araneus,Other mammals,taxon_promoted
+Sorex isodon,Other mammals,taxon_promoted
+Sorex roboratus,Other mammals,taxon_promoted
+Sorghum arundinaceum,Plantae,taxon_promoted
+Sorghum bicolor,Plantae,taxon_promoted
+Sorghum halepense,Plantae,taxon_promoted
+Sparus aurata,Fish,detailed_scheme_direct
+Spathiphyllum patinii,Plantae,taxon_promoted
+Spermophilus dauricus,Rodentia,taxon_promoted
+Spinacia oleracea,Plantae,taxon_promoted
+Spissistilus festinus,Insects,detailed_scheme_direct
+Spodoptera eridania,Insects,detailed_scheme_direct
+Spodoptera exigua,Insects,detailed_scheme_direct
+Spodoptera frugiperda,Insects,detailed_scheme_direct
+Stachytarpheta jamaicensis,Plantae,taxon_promoted
+Stemphylium lycopersici,Fungi,detailed_scheme_direct
+Stercorarius maccormicki,Aves,taxon_promoted
+Struthio camelus,Struthio camelus,standalone_species
+Sturnira lilium,Chiroptera,taxon_promoted
+Sturnus vulgaris,Aves,taxon_promoted
+Styphnolobium japonicum,Plantae,taxon_promoted
+Suncus murinus,Other mammals,taxon_promoted
+Sus scrofa,Sus scrofa,standalone_species
+Synedrella nodiflora,Plantae,taxon_promoted
+Syringa vulgaris,Plantae,taxon_promoted
+Tadarida brasiliensis,Tadarida brasiliensis,standalone_species
+Tadorna ferruginea,Aves,taxon_promoted
+Taeniopygia guttata,Aves,taxon_promoted
+Tagetes patula,Plantae,taxon_promoted
+Talpa europaea,Other mammals,taxon_promoted
+Taphozous melanopogon,Other mammals,detailed_scheme_direct
+Teleogryllus oceanicus,Insects,detailed_scheme_direct
+Telfairia occidentalis,Plantae,taxon_promoted
+Telosma cordata,Plantae,taxon_promoted
+Testudo hermanni,Reptilia,taxon_promoted
+Testudo horsfieldii,Reptilia,taxon_promoted
+Thalassia testudinum,Plantae,taxon_promoted
+Thaumetopoea pityocampa,Insects,detailed_scheme_direct
+Thelephora terrestris,Fungi,detailed_scheme_direct
+Theobroma cacao,Plantae,taxon_promoted
+Thesium chinense,Plantae,taxon_promoted
+Thielaviopsis basicola,Fungi,detailed_scheme_direct
+Tholymis tillarga,Insects,detailed_scheme_direct
+Thunbergia alata,Plantae,taxon_promoted
+Thysanoplusia orichalcea,Insects,detailed_scheme_direct
+Tinca tinca,Fish,detailed_scheme_direct
+Tipula oleracea,Insects,detailed_scheme_direct
+Tolypocladium cylindrosporum,Fungi,detailed_scheme_direct
+Torulaspora delbrueckii,Fungi,detailed_scheme_direct
+Trematomus pennellii,Fish,detailed_scheme_direct
+Triaenops afer,Chiroptera,taxon_promoted
+Triatoma infestans,Insects,detailed_scheme_direct
+Trichechus manatus,Other mammals,taxon_promoted
+Trichoderma asperellum,Fungi,detailed_scheme_direct
+Trichoderma atroviride,Fungi,detailed_scheme_direct
+Trichoderma harzianum,Fungi,detailed_scheme_direct
+Trichomonas vaginalis,Protists & oomycetes,detailed_scheme_direct
+Trichoplusia ni,Insects,detailed_scheme_direct
+Trichosanthes kirilowii,Plantae,taxon_promoted
+Trichosurus vulpecula,Other mammals,taxon_promoted
+Trifolium incarnatum,Plantae,taxon_promoted
+Trifolium pratense,Plantae,taxon_promoted
+Trifolium repens,Plantae,taxon_promoted
+Trifolium resupinatum,Plantae,taxon_promoted
+Trifolium subterraneum,Plantae,taxon_promoted
+Trigonella foenum-graecum,Plantae,taxon_promoted
+Trisetum flavescens,Plantae,taxon_promoted
+Triticum aestivum,Plantae,taxon_promoted
+Tuber aestivum,Fungi,detailed_scheme_direct
+Tulipa fosteriana,Plantae,taxon_promoted
+Tulipa gesneriana,Plantae,taxon_promoted
+Tupaia belangeri,Other mammals,taxon_promoted
+Turdus hortulorum,Aves,taxon_promoted
+Turdus merula,Aves,taxon_promoted
+Turdus pallidus,Aves,taxon_promoted
+Tursiops aduncus,Other mammals,detailed_scheme_direct
+Tursiops truncatus,Other mammals,detailed_scheme_direct
+Tylonycteris pachypus,Chiroptera,taxon_promoted
+Ulmus glabra,Plantae,taxon_promoted
+Ungulates  (not resolved to species),Artiodactyla,taxon_promoted
+Unknown host  (not resolved to species),Unknown host,detailed_scheme_direct
+Unresolved invertebrates  (not resolved to species),Other invertebrates,taxon_promoted
+Unresolved vertebrates  (not resolved to species),Unresolved vertebrates,detailed_scheme_direct
+Uria aalge,Aves,taxon_promoted
+Urochloa plantaginea,Plantae,taxon_promoted
+Urocyon cinereoargenteus,Other mammals,detailed_scheme_direct
+Uroderma bilobatum,Chiroptera,taxon_promoted
+Urotrichus talpoides,Other mammals,taxon_promoted
+Ursidae,Carnivora,taxon_promoted
+Ustilaginoidea virens,Fungi,detailed_scheme_direct
+Ustilago maydis,Fungi,detailed_scheme_direct
+Vaccinium corymbosum,Plantae,taxon_promoted
+Vanilla planifolia,Plantae,taxon_promoted
+Varecia variegata,Non-human primates,detailed_scheme_direct
+Varroa destructor,Arachnida,vector_or_crustacea_rollup
+Vasconcellea x heilbornii,Plantae,taxon_promoted
+Velarifictorus micado,Insects,detailed_scheme_direct
+Verticillium dahliae,Fungi,detailed_scheme_direct
+Vespertilio sinensis,Chiroptera,taxon_promoted
+Vespula pensylvanica,Other invertebrates,detailed_scheme_direct
+Vicia faba,Plantae,taxon_promoted
+Vicia sativa,Plantae,taxon_promoted
+Vicugna pacos,Artiodactyla,taxon_promoted
+Vigna mungo,Plantae,taxon_promoted
+Vigna radiata,Plantae,taxon_promoted
+Vigna unguiculata,Plantae,taxon_promoted
+Vitis labrusca x Vitis vinifera,Plantae,taxon_promoted
+Vitis sp.,Plantae,taxon_promoted
+Vitis vinifera,Plantae,taxon_promoted
+Viverridae,Carnivora,taxon_promoted
+Vulpes lagopus,Carnivora,taxon_promoted
+Vulpes vulpes,Vulpes vulpes,standalone_species
+Wissadula amplissima,Plantae,taxon_promoted
+Wisteria sinensis,Plantae,taxon_promoted
+Xanthocnemis zealandica,Insects,detailed_scheme_direct
+Xanthophyllomyces dendrorhous,Fungi,detailed_scheme_direct
+Xenopus laevis,Amphibia,taxon_promoted
+Zalophus californianus,Carnivora,taxon_promoted
+Zantedeschia aethiopica,Plantae,taxon_promoted
+Zanthoxylum armatum,Plantae,taxon_promoted
+Zea mays,Plantae,taxon_promoted
+Zinnia elegans,Plantae,taxon_promoted
+Zostera marina,Plantae,taxon_promoted
+Zygodontomys brevicauda,Rodentia,taxon_promoted

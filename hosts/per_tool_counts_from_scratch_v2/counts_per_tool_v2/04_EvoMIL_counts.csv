@@ -1,0 +1,25 @@
+# Tool,EvoMIL
+# Recomputed from,"journal.pcbi.1012597.s002_converted.xlsx, sheet Table_S2 (36 host rows, Number of viruses column)"
+# Note,File uses strict-OOXML conformance which openpyxl/pandas can't read directly; the version in raw_sources/EvoMIL/ was already converted via LibreOffice headless.
+
+Label (recomputed),"Count (recomputed, from scratch)",Match vs original_reported_labels.xlsx
+Homo sapiens,1321,MATCH
+19 plant species (pooled),1187,MATCH (1187)
+Sus scrofa,219,MATCH
+Bos taurus,202,MATCH
+Mus musculus,174,MATCH
+Gallus gallus,109,MATCH
+Chlorocebus aethiops,108,MATCH
+Macaca mulatta,73,MATCH
+Canis lupus,72,MATCH
+Felis catus,57,MATCH
+Equus caballus,54,MATCH
+Ovis aries,51,MATCH
+Rattus norvegicus,48,MATCH
+Pan troglodytes,45,MATCH
+Mesocricetus auratus,42,MATCH
+Anas platyrhynchos,40,MATCH
+Aedes albopictus,36,MATCH
+Capra hircus,31,MATCH
+
+TOTAL,3869,

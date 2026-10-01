@@ -1,0 +1,50 @@
+# R toolchain for host_general_scheme_R.png (scripts/make_general_scheme_heatmap.R).
+#
+# Pinned to the versions the published figure was rendered with. Nothing else in
+# this project needs R -- the whole pipeline up to and including the matplotlib
+# figures is Python, and the R script only draws.
+#
+#   CONDA_SUBDIR=osx-64 conda env create -p ~/.local/share/hosts-renv \
+#       -f environment-R.yml
+#   export RENV=~/.local/share/hosts-renv
+#   "$RENV"/bin/Rscript scripts/make_general_scheme_heatmap.R
+#
+# Both things that need R read RENV: audit_all.py, and DeePaC-vir's extractor,
+# whose labels are .rds. Nothing hardcodes a path to it any more -- one did, and
+# it outlived the environment it named.
+#
+# platform: osx-64. On Apple Silicon this runs under Rosetta, which is the
+# supported route -- bioconda does not build osx-arm64 for ComplexHeatmap, and
+# an arm64-native build would have to compile IRanges/S4Vectors from source
+# (gfortran required).
+#
+# Do NOT place the environment anywhere under /private/tmp. Not the session
+# scratchpad, and not /private/tmp directly either -- both are swept. This
+# environment has now been damaged three times: twice it lost only the shell
+# wrapper lib/R/bin/R and etc/Renviron (Rscript then fails with the unhelpful
+# "Rscript execution error: No such file or directory" even though the engine
+# and all packages are intact), once it lost the base package outright and had
+# to be rebuilt. Put it somewhere durable, e.g. ~/.local/share/hosts-renv, and
+# point RENV at it.
+#
+# Recovering the wrapper is cheaper than reinstalling: recreate lib/R/bin/R as a
+# shell script that exports R_HOME and execs lib/R/bin/exec/R, and write a
+# minimal etc/Renviron -- without EDITOR set, utils fails to load and even
+# read.csv() is unavailable.
+#
+# The original note, kept because it is the same lesson: This
+# one was destroyed twice by temp cleanup during development; the second time it
+# lost the `base` package and had to be rebuilt from scratch.
+name: hosts-R
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.5.3
+  - bioconductor-complexheatmap=2.26.1
+  - r-png=0.1_9
+  - r-circlize=0.4.18
+  - r-getoptlong=1.1.1
+  - bioconductor-s4vectors=0.48.0
+  - bioconductor-iranges=2.44.0
+  - bioconductor-biocgenerics=0.56.0

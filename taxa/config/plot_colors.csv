@@ -1,0 +1,13 @@
+Palette,Key,Color
+genome,dsDNA,#0B575DFF
+genome,ssDNA,#2C7AA1FF
+genome,dsRNA,#BA0C2FFF
+genome,(+)ssRNA,#48448EFF
+genome,(−)ssRNA,#F84A28FF
+genome,reverse-transcribing,#0033A0FF
+endpoint,Host-taxon classification,#3B82C4
+endpoint,Virus–host association scoring,#35A86B
+endpoint,Reservoir or vector prediction,#D9A800
+endpoint,Human-infectivity prediction,#E05A67
+endpoint,Host-adaptation scoring,#8061C9
+endpoint,Spillover-risk prioritization,#20A8B5
